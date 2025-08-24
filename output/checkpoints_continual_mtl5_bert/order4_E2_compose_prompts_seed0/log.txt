@@ -1,0 +1,307 @@
+2025-07-21 03:10:56,673 - INFO - root - Task [yelp]-train first 2 examples: 
+ ["Sandwiches are ok but wilted warm lettuce is gross.  \\n\\nThe employees are bored and can't be bothered to even fake a smile--both at the point of ordering and the cashier.  They also mixed up my order with other customers' orders twice.\\n\\nGet them a tip jar and they may be able to fake it for the length of their shifts."
+ 'I\'m not a food critic by any stretch of the imagination, but with that being said this place aspires to be mediocre.  And that\'s saying something for Scottsdale. \\n\\nThe bar/patio/lounge have this industrial design thing going on which isn\'t that bad until you add in the music and the noise from Scottsdale road.  \\n\\nThe prices are what you would expect to find in a \\"trendy Scottsdale bar\\" the problem is at most of those \\"trendy Scottsdale bars\\" you can get pretty good food and it\'s worth it, and normally there is some little twist that makes it worth it.  I can honestly say I\'ve never paid $13 for a pork sandwich that tasted like it was KC Masterpiece mixed with recently thawed shredded pork (the sandwich lived up to the rest of bar is aspired to be mediocre).   The meal came with the choice of fries (regular/parmesan/sweet potato) I took the parmesan fries... I couldn\'t taste any hint of parmesan on the fries but there were white specs that I suspect were the parmesan in question.   \\n\\nThe wait staff was attentive, but they were either very new or indiffrent.  \\n\\nWhile eating I saw multiple plates go back with food that wasn\'t even half eaten.  I literally watched the table behind me get their food and have it sent back less then three minutes and two bites later.   So aspirations of mediocre are as good as it gets here. \\n\\nIf this place survives the summer I will be impressed.  Do your self a favor and go a block in either direction and find a better \\"trendy Scottsdale bar\\" you will be happy that you did.']
+2025-07-21 03:11:35,532 - INFO - root - Task [agnews]-train first 2 examples: 
+ ['Reuters - U.S. warplanes attacked the\\rebel-held city of Falluja overnight, killing two people, a\\witness said.'
+ 'By DIEDTRA HENDERSON    WASHINGTON (AP) -- The Food and Drug Administration on Monday recommended changes aimed at reducing by one-third the salmonella infections caused each year by tainted eggs.    The agency estimates that 118,000 people each year are sickened by eating improperly cooked eggs contaminated with salmonella...']
+2025-07-21 03:11:58,523 - INFO - root - Task [dbpedia]-train first 2 examples: 
+ [' Tom Campbell Clark (September 23 1899 – June 13 1977) was United States Attorney General from 1945 to 1949 and an Associate Justice of the Supreme Court of the United States from 1949 to 1967.'
+ ' S-mode #2 is the 2nd single compilation album by Masami Okui released on 25 February 2004.']
+2025-07-21 03:12:54,570 - INFO - root - Task [amazon]-train first 2 examples: 
+ ['Highly recommend! From this book you will learn incredible information you have never thought about before. It will describe economical, political, and social changes in the society and how it influenced the development of education and school systems in the American society starting from 1700-s to the present day! Buy it ... No regrets.'
+ "I like the design. It looks solid and it doesn't stick out when you put your components on it. This is why I bought it. However, the 4 holes on top and bottom don't align with each other. Only 1 screw can fit the top and 1 screw fits the bottom. I have to use my own smaller screws to patch the other holes to make it not rotating. Could this be why it's sold at a discount? Buy it at your own risk."]
+2025-07-21 03:15:14,069 - INFO - root - Task [yahoo]-train first 2 examples: 
+ ['there are 2 guys who like or shall i say love me but im finding it very hard for which 1 to go for they both are my type,they both make me happy,make me feel so loveble & i dont know which 2 pick................can some1 help me plz???'
+ 'how do you legally evict someone if there is no binding contract. the reason for the eviction is that they dont fully pay the rent every month, it takes them 2 months to pay just one month']
+2025-07-21 03:15:34,237 - INFO - root - ***********************************seed: 0***********************************
+2025-07-21 03:15:34,237 - INFO - root - ***********************************lr: [0.002, 0.002, 0.0008, 0.002, 0.001]***********************************
+2025-07-21 03:15:34,241 - INFO - root - ***** Running training - task 0: yelp*****
+2025-07-21 03:15:34,241 - INFO - root -   Num Epochs = 20
+2025-07-21 03:15:34,242 - INFO - root -   Num examples datasets = 115000
+2025-07-21 03:15:34,242 - INFO - root -   Instantaneous batch size per device = 8
+2025-07-21 03:15:34,242 - INFO - root -   Total optimization steps = 287500
+2025-07-21 03:15:34,242 - INFO - root -   Num examples training = 2300000
+2025-07-21 03:49:19,010 - INFO - root - ***** Task yelp - Epoch 0: val (seed 0) *****
+2025-07-21 03:49:19,011 - INFO - root - Accuracy: 0.535
+2025-07-21 04:23:45,902 - INFO - root - ***** Task yelp - Epoch 1: val (seed 0) *****
+2025-07-21 04:23:45,903 - INFO - root - Accuracy: 0.575
+2025-07-21 04:58:06,671 - INFO - root - ***** Task yelp - Epoch 2: val (seed 0) *****
+2025-07-21 04:58:06,676 - INFO - root - Accuracy: 0.598
+2025-07-21 05:31:38,495 - INFO - root - ***** Task yelp - Epoch 3: val (seed 0) *****
+2025-07-21 05:31:38,495 - INFO - root - Accuracy: 0.603
+2025-07-21 06:05:34,964 - INFO - root - ***** Task yelp - Epoch 4: val (seed 0) *****
+2025-07-21 06:05:34,964 - INFO - root - Accuracy: 0.606
+2025-07-21 06:39:37,146 - INFO - root - ***** Task yelp - Epoch 5: val (seed 0) *****
+2025-07-21 06:39:37,146 - INFO - root - Accuracy: 0.61
+2025-07-21 07:13:38,324 - INFO - root - ***** Task yelp - Epoch 6: val (seed 0) *****
+2025-07-21 07:13:38,324 - INFO - root - Accuracy: 0.617
+2025-07-21 07:48:10,953 - INFO - root - ***** Task yelp - Epoch 7: val (seed 0) *****
+2025-07-21 07:48:10,954 - INFO - root - Accuracy: 0.621
+2025-07-21 08:22:15,453 - INFO - root - ***** Task yelp - Epoch 8: val (seed 0) *****
+2025-07-21 08:22:15,454 - INFO - root - Accuracy: 0.608
+2025-07-21 08:22:15,454 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 08:56:21,244 - INFO - root - ***** Task yelp - Epoch 9: val (seed 0) *****
+2025-07-21 08:56:21,244 - INFO - root - Accuracy: 0.612
+2025-07-21 08:56:21,245 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 09:31:06,445 - INFO - root - ***** Task yelp - Epoch 10: val (seed 0) *****
+2025-07-21 09:31:06,447 - INFO - root - Accuracy: 0.633
+2025-07-21 10:05:38,360 - INFO - root - ***** Task yelp - Epoch 11: val (seed 0) *****
+2025-07-21 10:05:38,362 - INFO - root - Accuracy: 0.609
+2025-07-21 10:05:38,363 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 10:39:34,296 - INFO - root - ***** Task yelp - Epoch 12: val (seed 0) *****
+2025-07-21 10:39:34,296 - INFO - root - Accuracy: 0.623
+2025-07-21 10:39:34,296 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 11:14:06,035 - INFO - root - ***** Task yelp - Epoch 13: val (seed 0) *****
+2025-07-21 11:14:06,036 - INFO - root - Accuracy: 0.634
+2025-07-21 11:48:34,384 - INFO - root - ***** Task yelp - Epoch 14: val (seed 0) *****
+2025-07-21 11:48:34,384 - INFO - root - Accuracy: 0.616
+2025-07-21 11:48:34,385 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 12:22:32,439 - INFO - root - ***** Task yelp - Epoch 15: val (seed 0) *****
+2025-07-21 12:22:32,439 - INFO - root - Accuracy: 0.635
+2025-07-21 12:56:18,490 - INFO - root - ***** Task yelp - Epoch 16: val (seed 0) *****
+2025-07-21 12:56:18,490 - INFO - root - Accuracy: 0.621
+2025-07-21 12:56:18,491 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 13:30:17,333 - INFO - root - ***** Task yelp - Epoch 17: val (seed 0) *****
+2025-07-21 13:30:17,333 - INFO - root - Accuracy: 0.615
+2025-07-21 13:30:17,333 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 14:04:15,256 - INFO - root - ***** Task yelp - Epoch 18: val (seed 0) *****
+2025-07-21 14:04:15,257 - INFO - root - Accuracy: 0.627
+2025-07-21 14:04:15,257 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-21 14:38:07,881 - INFO - root - ***** Task yelp - Epoch 19: val (seed 0) *****
+2025-07-21 14:38:07,881 - INFO - root - Accuracy: 0.622
+2025-07-21 14:38:07,881 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-21 14:38:07,881 - INFO - root - Early stop!!! Best epoch for [yelp]: 15
+2025-07-21 14:38:07,882 - INFO - root - Best evaluation accuracy [yelp]: 0.635
+2025-07-21 14:38:07,882 - INFO - root - Loading weights from the best model (best epoch 15)...
+2025-07-21 14:46:25,379 - INFO - root - ***** Task yelp - Epoch 19: test (seed 0) *****
+2025-07-21 14:46:25,380 - INFO - root - Accuracy: 0.6477
+2025-07-21 14:46:25,392 - INFO - root - Best test accuracy [yelp]: 0.6477
+2025-07-21 14:46:25,396 - INFO - root - ***** Running training - task 1: agnews*****
+2025-07-21 14:46:25,396 - INFO - root -   Num Epochs = 20
+2025-07-21 14:46:25,396 - INFO - root -   Num examples datasets = 115000
+2025-07-21 14:46:25,396 - INFO - root -   Instantaneous batch size per device = 8
+2025-07-21 14:46:25,396 - INFO - root -   Total optimization steps = 287500
+2025-07-21 14:46:25,396 - INFO - root -   Num examples training = 2300000
+2025-07-21 15:21:31,389 - INFO - root - ***** Task agnews - Epoch 0: val (seed 0) *****
+2025-07-21 15:21:31,391 - INFO - root - Accuracy: 0.9187
+2025-07-21 15:55:51,689 - INFO - root - ***** Task agnews - Epoch 1: val (seed 0) *****
+2025-07-21 15:55:51,689 - INFO - root - Accuracy: 0.935
+2025-07-21 16:29:56,391 - INFO - root - ***** Task agnews - Epoch 2: val (seed 0) *****
+2025-07-21 16:29:56,391 - INFO - root - Accuracy: 0.93
+2025-07-21 16:29:56,392 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 17:03:48,016 - INFO - root - ***** Task agnews - Epoch 3: val (seed 0) *****
+2025-07-21 17:03:48,017 - INFO - root - Accuracy: 0.9375
+2025-07-21 17:37:39,447 - INFO - root - ***** Task agnews - Epoch 4: val (seed 0) *****
+2025-07-21 17:37:39,447 - INFO - root - Accuracy: 0.9325
+2025-07-21 17:37:39,448 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 18:11:23,457 - INFO - root - ***** Task agnews - Epoch 5: val (seed 0) *****
+2025-07-21 18:11:23,457 - INFO - root - Accuracy: 0.9287
+2025-07-21 18:11:23,458 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 18:44:51,061 - INFO - root - ***** Task agnews - Epoch 6: val (seed 0) *****
+2025-07-21 18:44:51,061 - INFO - root - Accuracy: 0.9287
+2025-07-21 18:44:51,061 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-21 19:19:08,247 - INFO - root - ***** Task agnews - Epoch 7: val (seed 0) *****
+2025-07-21 19:19:08,248 - INFO - root - Accuracy: 0.945
+2025-07-21 19:53:59,997 - INFO - root - ***** Task agnews - Epoch 8: val (seed 0) *****
+2025-07-21 19:53:59,997 - INFO - root - Accuracy: 0.9337
+2025-07-21 19:53:59,997 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 20:27:39,435 - INFO - root - ***** Task agnews - Epoch 9: val (seed 0) *****
+2025-07-21 20:27:39,436 - INFO - root - Accuracy: 0.94
+2025-07-21 20:27:39,436 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 21:01:45,664 - INFO - root - ***** Task agnews - Epoch 10: val (seed 0) *****
+2025-07-21 21:01:45,664 - INFO - root - Accuracy: 0.9463
+2025-07-21 21:35:36,834 - INFO - root - ***** Task agnews - Epoch 11: val (seed 0) *****
+2025-07-21 21:35:36,837 - INFO - root - Accuracy: 0.945
+2025-07-21 21:35:36,838 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-21 22:09:49,097 - INFO - root - ***** Task agnews - Epoch 12: val (seed 0) *****
+2025-07-21 22:09:49,097 - INFO - root - Accuracy: 0.9425
+2025-07-21 22:09:49,098 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-21 22:44:12,166 - INFO - root - ***** Task agnews - Epoch 13: val (seed 0) *****
+2025-07-21 22:44:12,168 - INFO - root - Accuracy: 0.9413
+2025-07-21 22:44:12,169 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-21 23:18:25,599 - INFO - root - ***** Task agnews - Epoch 14: val (seed 0) *****
+2025-07-21 23:18:25,600 - INFO - root - Accuracy: 0.94
+2025-07-21 23:18:25,600 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-21 23:52:36,789 - INFO - root - ***** Task agnews - Epoch 15: val (seed 0) *****
+2025-07-21 23:52:36,819 - INFO - root - Accuracy: 0.9438
+2025-07-21 23:52:36,820 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-21 23:52:36,820 - INFO - root - Early stop!!! Best epoch for [agnews]: 10
+2025-07-21 23:52:36,820 - INFO - root - Best evaluation accuracy [agnews]: 0.9463
+2025-07-21 23:52:36,820 - INFO - root - Loading weights from the best model (best epoch 10)...
+2025-07-21 23:54:04,802 - INFO - root - ***** Task agnews - Epoch 15: test (seed 0) *****
+2025-07-21 23:54:04,802 - INFO - root - Accuracy: 0.9351
+2025-07-21 23:54:04,804 - INFO - root - Best test accuracy [agnews]: 0.9351
+2025-07-21 23:54:04,806 - INFO - root - ***** Running training - task 2: dbpedia*****
+2025-07-21 23:54:04,807 - INFO - root -   Num Epochs = 20
+2025-07-21 23:54:04,807 - INFO - root -   Num examples datasets = 115000
+2025-07-21 23:54:04,807 - INFO - root -   Instantaneous batch size per device = 8
+2025-07-21 23:54:04,807 - INFO - root -   Total optimization steps = 287500
+2025-07-21 23:54:04,807 - INFO - root -   Num examples training = 2300000
+2025-07-22 00:29:57,944 - INFO - root - ***** Task dbpedia - Epoch 0: val (seed 0) *****
+2025-07-22 00:29:57,945 - INFO - root - Accuracy: 0.9882
+2025-07-22 01:05:08,669 - INFO - root - ***** Task dbpedia - Epoch 1: val (seed 0) *****
+2025-07-22 01:05:08,670 - INFO - root - Accuracy: 0.9904
+2025-07-22 01:46:30,283 - INFO - root - ***** Task dbpedia - Epoch 2: val (seed 0) *****
+2025-07-22 01:46:30,321 - INFO - root - Accuracy: 0.9904
+2025-07-22 01:46:30,323 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 02:27:32,672 - INFO - root - ***** Task dbpedia - Epoch 3: val (seed 0) *****
+2025-07-22 02:27:32,672 - INFO - root - Accuracy: 0.9907
+2025-07-22 03:01:18,173 - INFO - root - ***** Task dbpedia - Epoch 4: val (seed 0) *****
+2025-07-22 03:01:18,174 - INFO - root - Accuracy: 0.9879
+2025-07-22 03:01:18,175 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 03:34:53,190 - INFO - root - ***** Task dbpedia - Epoch 5: val (seed 0) *****
+2025-07-22 03:34:53,192 - INFO - root - Accuracy: 0.9911
+2025-07-22 04:08:50,136 - INFO - root - ***** Task dbpedia - Epoch 6: val (seed 0) *****
+2025-07-22 04:08:50,137 - INFO - root - Accuracy: 0.9896
+2025-07-22 04:08:50,138 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 04:43:05,034 - INFO - root - ***** Task dbpedia - Epoch 7: val (seed 0) *****
+2025-07-22 04:43:05,039 - INFO - root - Accuracy: 0.99
+2025-07-22 04:43:05,040 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-22 05:17:22,495 - INFO - root - ***** Task dbpedia - Epoch 8: val (seed 0) *****
+2025-07-22 05:17:22,495 - INFO - root - Accuracy: 0.99
+2025-07-22 05:17:22,496 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-22 05:51:31,927 - INFO - root - ***** Task dbpedia - Epoch 9: val (seed 0) *****
+2025-07-22 05:51:31,927 - INFO - root - Accuracy: 0.9911
+2025-07-22 05:51:31,928 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-22 06:25:36,411 - INFO - root - ***** Task dbpedia - Epoch 10: val (seed 0) *****
+2025-07-22 06:25:36,412 - INFO - root - Accuracy: 0.9896
+2025-07-22 06:25:36,413 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-22 06:25:36,413 - INFO - root - Early stop!!! Best epoch for [dbpedia]: 5
+2025-07-22 06:25:36,413 - INFO - root - Best evaluation accuracy [dbpedia]: 0.9911
+2025-07-22 06:25:36,413 - INFO - root - Loading weights from the best model (best epoch 5)...
+2025-07-22 06:37:41,863 - INFO - root - ***** Task dbpedia - Epoch 10: test (seed 0) *****
+2025-07-22 06:37:41,863 - INFO - root - Accuracy: 0.9918
+2025-07-22 06:37:41,884 - INFO - root - Best test accuracy [dbpedia]: 0.9918
+2025-07-22 06:37:41,890 - INFO - root - ***** Running training - task 3: amazon*****
+2025-07-22 06:37:41,890 - INFO - root -   Num Epochs = 20
+2025-07-22 06:37:41,890 - INFO - root -   Num examples datasets = 115000
+2025-07-22 06:37:41,890 - INFO - root -   Instantaneous batch size per device = 8
+2025-07-22 06:37:41,890 - INFO - root -   Total optimization steps = 287500
+2025-07-22 06:37:41,890 - INFO - root -   Num examples training = 2300000
+2025-07-22 07:11:48,336 - INFO - root - ***** Task amazon - Epoch 0: val (seed 0) *****
+2025-07-22 07:11:48,339 - INFO - root - Accuracy: 0.537
+2025-07-22 07:46:16,195 - INFO - root - ***** Task amazon - Epoch 1: val (seed 0) *****
+2025-07-22 07:46:16,197 - INFO - root - Accuracy: 0.546
+2025-07-22 08:20:26,564 - INFO - root - ***** Task amazon - Epoch 2: val (seed 0) *****
+2025-07-22 08:20:26,565 - INFO - root - Accuracy: 0.533
+2025-07-22 08:20:26,566 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 08:54:29,776 - INFO - root - ***** Task amazon - Epoch 3: val (seed 0) *****
+2025-07-22 08:54:29,777 - INFO - root - Accuracy: 0.561
+2025-07-22 09:28:54,396 - INFO - root - ***** Task amazon - Epoch 4: val (seed 0) *****
+2025-07-22 09:28:54,400 - INFO - root - Accuracy: 0.562
+2025-07-22 10:02:59,105 - INFO - root - ***** Task amazon - Epoch 5: val (seed 0) *****
+2025-07-22 10:02:59,105 - INFO - root - Accuracy: 0.554
+2025-07-22 10:02:59,106 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 10:37:06,615 - INFO - root - ***** Task amazon - Epoch 6: val (seed 0) *****
+2025-07-22 10:37:06,618 - INFO - root - Accuracy: 0.581
+2025-07-22 11:11:08,801 - INFO - root - ***** Task amazon - Epoch 7: val (seed 0) *****
+2025-07-22 11:11:08,804 - INFO - root - Accuracy: 0.563
+2025-07-22 11:11:08,806 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 11:44:41,323 - INFO - root - ***** Task amazon - Epoch 8: val (seed 0) *****
+2025-07-22 11:44:41,323 - INFO - root - Accuracy: 0.572
+2025-07-22 11:44:41,323 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-22 12:18:25,933 - INFO - root - ***** Task amazon - Epoch 9: val (seed 0) *****
+2025-07-22 12:18:25,934 - INFO - root - Accuracy: 0.57
+2025-07-22 12:18:25,934 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-22 12:52:33,453 - INFO - root - ***** Task amazon - Epoch 10: val (seed 0) *****
+2025-07-22 12:52:33,454 - INFO - root - Accuracy: 0.569
+2025-07-22 12:52:33,454 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-22 13:26:53,009 - INFO - root - ***** Task amazon - Epoch 11: val (seed 0) *****
+2025-07-22 13:26:53,010 - INFO - root - Accuracy: 0.569
+2025-07-22 13:26:53,010 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-22 13:26:53,010 - INFO - root - Early stop!!! Best epoch for [amazon]: 6
+2025-07-22 13:26:53,010 - INFO - root - Best evaluation accuracy [amazon]: 0.581
+2025-07-22 13:26:53,010 - INFO - root - Loading weights from the best model (best epoch 6)...
+2025-07-22 15:17:03,593 - INFO - root - ***** Task amazon - Epoch 11: test (seed 0) *****
+2025-07-22 15:17:03,597 - INFO - root - Accuracy: 0.5863
+2025-07-22 15:17:03,804 - INFO - root - Best test accuracy [amazon]: 0.5863
+2025-07-22 15:17:03,849 - INFO - root - ***** Running training - task 4: yahoo*****
+2025-07-22 15:17:03,852 - INFO - root -   Num Epochs = 20
+2025-07-22 15:17:03,855 - INFO - root -   Num examples datasets = 115000
+2025-07-22 15:17:03,858 - INFO - root -   Instantaneous batch size per device = 8
+2025-07-22 15:17:03,859 - INFO - root -   Total optimization steps = 287500
+2025-07-22 15:17:03,859 - INFO - root -   Num examples training = 2300000
+2025-07-22 15:51:38,828 - INFO - root - ***** Task yahoo - Epoch 0: val (seed 0) *****
+2025-07-22 15:51:38,831 - INFO - root - Accuracy: 0.652
+2025-07-22 16:25:46,469 - INFO - root - ***** Task yahoo - Epoch 1: val (seed 0) *****
+2025-07-22 16:25:46,470 - INFO - root - Accuracy: 0.6575
+2025-07-22 16:59:34,503 - INFO - root - ***** Task yahoo - Epoch 2: val (seed 0) *****
+2025-07-22 16:59:34,506 - INFO - root - Accuracy: 0.655
+2025-07-22 16:59:34,509 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 17:34:08,195 - INFO - root - ***** Task yahoo - Epoch 3: val (seed 0) *****
+2025-07-22 17:34:08,201 - INFO - root - Accuracy: 0.661
+2025-07-22 18:08:03,965 - INFO - root - ***** Task yahoo - Epoch 4: val (seed 0) *****
+2025-07-22 18:08:03,968 - INFO - root - Accuracy: 0.652
+2025-07-22 18:08:03,969 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 18:43:35,554 - INFO - root - ***** Task yahoo - Epoch 5: val (seed 0) *****
+2025-07-22 18:43:35,555 - INFO - root - Accuracy: 0.6655
+2025-07-22 19:18:06,023 - INFO - root - ***** Task yahoo - Epoch 6: val (seed 0) *****
+2025-07-22 19:18:06,027 - INFO - root - Accuracy: 0.6655
+2025-07-22 19:18:06,032 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 19:51:57,309 - INFO - root - ***** Task yahoo - Epoch 7: val (seed 0) *****
+2025-07-22 19:51:57,309 - INFO - root - Accuracy: 0.669
+2025-07-22 20:26:19,296 - INFO - root - ***** Task yahoo - Epoch 8: val (seed 0) *****
+2025-07-22 20:26:19,661 - INFO - root - Accuracy: 0.6715
+2025-07-22 20:59:37,216 - INFO - root - ***** Task yahoo - Epoch 9: val (seed 0) *****
+2025-07-22 20:59:37,221 - INFO - root - Accuracy: 0.67
+2025-07-22 20:59:37,222 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 21:31:39,964 - INFO - root - ***** Task yahoo - Epoch 10: val (seed 0) *****
+2025-07-22 21:31:40,391 - INFO - root - Accuracy: 0.668
+2025-07-22 21:31:40,393 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-22 22:07:48,073 - INFO - root - ***** Task yahoo - Epoch 11: val (seed 0) *****
+2025-07-22 22:07:48,086 - INFO - root - Accuracy: 0.6725
+2025-07-22 22:40:49,446 - INFO - root - ***** Task yahoo - Epoch 12: val (seed 0) *****
+2025-07-22 22:40:49,447 - INFO - root - Accuracy: 0.668
+2025-07-22 22:40:49,447 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-22 23:15:25,686 - INFO - root - ***** Task yahoo - Epoch 13: val (seed 0) *****
+2025-07-22 23:15:25,689 - INFO - root - Accuracy: 0.6635
+2025-07-22 23:15:25,690 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-22 23:50:12,224 - INFO - root - ***** Task yahoo - Epoch 14: val (seed 0) *****
+2025-07-22 23:50:12,226 - INFO - root - Accuracy: 0.668
+2025-07-22 23:50:12,226 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-23 00:24:46,721 - INFO - root - ***** Task yahoo - Epoch 15: val (seed 0) *****
+2025-07-23 00:24:46,721 - INFO - root - Accuracy: 0.673
+2025-07-23 00:58:54,724 - INFO - root - ***** Task yahoo - Epoch 16: val (seed 0) *****
+2025-07-23 00:58:54,725 - INFO - root - Accuracy: 0.6715
+2025-07-23 00:58:54,733 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-23 01:33:16,998 - INFO - root - ***** Task yahoo - Epoch 17: val (seed 0) *****
+2025-07-23 01:33:17,009 - INFO - root - Accuracy: 0.672
+2025-07-23 01:33:17,010 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-23 02:06:41,280 - INFO - root - ***** Task yahoo - Epoch 18: val (seed 0) *****
+2025-07-23 02:06:41,281 - INFO - root - Accuracy: 0.6715
+2025-07-23 02:06:41,282 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-23 02:42:31,525 - INFO - root - ***** Task yahoo - Epoch 19: val (seed 0) *****
+2025-07-23 02:42:31,525 - INFO - root - Accuracy: 0.6705
+2025-07-23 02:42:31,526 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-23 02:42:31,527 - INFO - root - Early stop!!! Best epoch for [yahoo]: 15
+2025-07-23 02:42:31,527 - INFO - root - Best evaluation accuracy [yahoo]: 0.673
+2025-07-23 02:42:31,527 - INFO - root - Loading weights from the best model (best epoch 15)...
+2025-07-23 02:47:56,144 - INFO - root - ***** Task yahoo - Epoch 19: test (seed 0) *****
+2025-07-23 02:47:56,144 - INFO - root - Accuracy: 0.6853
+2025-07-23 02:47:56,163 - INFO - root - Best test accuracy [yahoo]: 0.6853
+2025-07-23 02:47:56,472 - INFO - root - ------- Final TIL evaluation (seed-0) on task [yelp] -------
+2025-07-23 02:47:56,472 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-23 02:56:28,447 - INFO - root - ***** Task yelp - Final evaluation: test *****
+2025-07-23 02:56:28,447 - INFO - root - Accuracy: 0.6477
+2025-07-23 02:56:28,462 - INFO - root - ------- Final TIL evaluation (seed-0) on task [agnews] -------
+2025-07-23 02:56:28,463 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-23 02:57:42,632 - INFO - root - ***** Task agnews - Final evaluation: test *****
+2025-07-23 02:57:42,632 - INFO - root - Accuracy: 0.9351
+2025-07-23 02:57:42,635 - INFO - root - ------- Final TIL evaluation (seed-0) on task [dbpedia] -------
+2025-07-23 02:57:42,635 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-23 03:09:43,440 - INFO - root - ***** Task dbpedia - Final evaluation: test *****
+2025-07-23 03:09:43,440 - INFO - root - Accuracy: 0.9918
+2025-07-23 03:09:43,468 - INFO - root - ------- Final TIL evaluation (seed-0) on task [amazon] -------
+2025-07-23 03:09:43,471 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-23 05:01:23,591 - INFO - root - ***** Task amazon - Final evaluation: test *****
+2025-07-23 05:01:23,595 - INFO - root - Accuracy: 0.5863
+2025-07-23 05:01:23,913 - INFO - root - ------- Final TIL evaluation (seed-0) on task [yahoo] -------
+2025-07-23 05:01:23,918 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-23 05:06:46,489 - INFO - root - ***** Task yahoo - Final evaluation: test *****
+2025-07-23 05:06:46,489 - INFO - root - Accuracy: 0.6853
+2025-07-23 05:06:46,505 - INFO - root - ***********************************seed: 0 - acc***********************************
+2025-07-23 05:06:46,548 - INFO - root - Test_tasks: (['yelp', 'agnews', 'dbpedia', 'amazon', 'yahoo'])
+2025-07-23 05:06:46,548 - INFO - root - Test setting [forward_pass (til-1)]: [0.6477, 0.9351, 0.9918, 0.5863, 0.6853]
+2025-07-23 05:06:46,548 - INFO - root - Average test_tasks_acc: 0.7692
+2025-07-23 05:06:46,548 - INFO - root - Test setting [til]: [0.6477, 0.9351, 0.9918, 0.5863, 0.6853]
+2025-07-23 05:06:46,548 - INFO - root - Average test_tasks_acc: 0.7692

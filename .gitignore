@@ -1,0 +1,18 @@
+# Model & log files (giữ local, không push)
+*.pth
+*.pt
+*.ckpt
+*.tar.gz
+*.tfevents.*
+logs/
+checkpoints/
+runs/
+pretrained/
+datasets/
+*.ipynb_checkpoints
+__pycache__/
+.vscode/
+output1/
+checkpoints_continual_mtl5_bert_nhitny/
+run_continual_script/
+download_moddel.py

@@ -1,0 +1,1447 @@
+2025-06-05 16:57:22,372 - INFO - root - ***********************************seed: 0***********************************
+2025-06-05 16:57:22,378 - INFO - root - ***** Running training - task 0: am*****
+2025-06-05 16:57:22,379 - INFO - root -   Num Epochs = 40
+2025-06-05 16:57:22,379 - INFO - root -   Num examples datasets = 5984
+2025-06-05 16:57:22,379 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-05 16:57:22,379 - INFO - root -   Total optimization steps = 29920
+2025-06-05 16:57:22,379 - INFO - root -   Num examples training = 239360
+2025-06-05 17:00:10,949 - INFO - root - ***** Task am - Epoch 0: val (seed 0) *****
+2025-06-05 17:00:10,949 - INFO - root - Accuracy: 0.5177
+2025-06-05 17:00:10,949 - INFO - root - F1 weighted: 0.3536
+2025-06-05 17:00:10,949 - INFO - root - F1 macro: 0.2274
+2025-06-05 17:03:17,004 - INFO - root - ***** Task am - Epoch 1: val (seed 0) *****
+2025-06-05 17:03:17,004 - INFO - root - Accuracy: 0.5284
+2025-06-05 17:03:17,004 - INFO - root - F1 weighted: 0.4579
+2025-06-05 17:03:17,004 - INFO - root - F1 macro: 0.3839
+2025-06-05 17:06:22,854 - INFO - root - ***** Task am - Epoch 2: val (seed 0) *****
+2025-06-05 17:06:22,854 - INFO - root - Accuracy: 0.5257
+2025-06-05 17:06:22,854 - INFO - root - F1 weighted: 0.3735
+2025-06-05 17:06:22,854 - INFO - root - F1 macro: 0.2541
+2025-06-05 17:06:22,855 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 17:09:08,615 - INFO - root - ***** Task am - Epoch 3: val (seed 0) *****
+2025-06-05 17:09:08,615 - INFO - root - Accuracy: 0.5357
+2025-06-05 17:09:08,615 - INFO - root - F1 weighted: 0.3983
+2025-06-05 17:09:08,616 - INFO - root - F1 macro: 0.2911
+2025-06-05 17:09:08,616 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 17:11:55,427 - INFO - root - ***** Task am - Epoch 4: val (seed 0) *****
+2025-06-05 17:11:55,427 - INFO - root - Accuracy: 0.5598
+2025-06-05 17:11:55,427 - INFO - root - F1 weighted: 0.4745
+2025-06-05 17:11:55,427 - INFO - root - F1 macro: 0.3987
+2025-06-05 17:15:08,634 - INFO - root - ***** Task am - Epoch 5: val (seed 0) *****
+2025-06-05 17:15:08,635 - INFO - root - Accuracy: 0.5705
+2025-06-05 17:15:08,635 - INFO - root - F1 weighted: 0.5538
+2025-06-05 17:15:08,635 - INFO - root - F1 macro: 0.5151
+2025-06-05 17:18:15,493 - INFO - root - ***** Task am - Epoch 6: val (seed 0) *****
+2025-06-05 17:18:15,493 - INFO - root - Accuracy: 0.5885
+2025-06-05 17:18:15,493 - INFO - root - F1 weighted: 0.5688
+2025-06-05 17:18:15,493 - INFO - root - F1 macro: 0.5341
+2025-06-05 17:21:22,900 - INFO - root - ***** Task am - Epoch 7: val (seed 0) *****
+2025-06-05 17:21:22,900 - INFO - root - Accuracy: 0.5878
+2025-06-05 17:21:22,900 - INFO - root - F1 weighted: 0.5837
+2025-06-05 17:21:22,900 - INFO - root - F1 macro: 0.5618
+2025-06-05 17:24:44,253 - INFO - root - ***** Task am - Epoch 8: val (seed 0) *****
+2025-06-05 17:24:44,253 - INFO - root - Accuracy: 0.5959
+2025-06-05 17:24:44,253 - INFO - root - F1 weighted: 0.5536
+2025-06-05 17:24:44,253 - INFO - root - F1 macro: 0.5048
+2025-06-05 17:24:44,253 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 17:27:29,732 - INFO - root - ***** Task am - Epoch 9: val (seed 0) *****
+2025-06-05 17:27:29,732 - INFO - root - Accuracy: 0.5658
+2025-06-05 17:27:29,732 - INFO - root - F1 weighted: 0.568
+2025-06-05 17:27:29,732 - INFO - root - F1 macro: 0.5604
+2025-06-05 17:27:29,732 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 17:30:14,392 - INFO - root - ***** Task am - Epoch 10: val (seed 0) *****
+2025-06-05 17:30:14,392 - INFO - root - Accuracy: 0.5765
+2025-06-05 17:30:14,392 - INFO - root - F1 weighted: 0.579
+2025-06-05 17:30:14,392 - INFO - root - F1 macro: 0.5715
+2025-06-05 17:30:14,392 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 17:32:58,811 - INFO - root - ***** Task am - Epoch 11: val (seed 0) *****
+2025-06-05 17:32:58,811 - INFO - root - Accuracy: 0.5838
+2025-06-05 17:32:58,811 - INFO - root - F1 weighted: 0.5861
+2025-06-05 17:32:58,811 - INFO - root - F1 macro: 0.5801
+2025-06-05 17:36:04,397 - INFO - root - ***** Task am - Epoch 12: val (seed 0) *****
+2025-06-05 17:36:04,398 - INFO - root - Accuracy: 0.6059
+2025-06-05 17:36:04,398 - INFO - root - F1 weighted: 0.6015
+2025-06-05 17:36:04,398 - INFO - root - F1 macro: 0.581
+2025-06-05 17:39:10,845 - INFO - root - ***** Task am - Epoch 13: val (seed 0) *****
+2025-06-05 17:39:10,845 - INFO - root - Accuracy: 0.5952
+2025-06-05 17:39:10,845 - INFO - root - F1 weighted: 0.5925
+2025-06-05 17:39:10,845 - INFO - root - F1 macro: 0.5794
+2025-06-05 17:39:10,845 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 17:41:55,994 - INFO - root - ***** Task am - Epoch 14: val (seed 0) *****
+2025-06-05 17:41:55,994 - INFO - root - Accuracy: 0.6146
+2025-06-05 17:41:55,994 - INFO - root - F1 weighted: 0.6073
+2025-06-05 17:41:55,994 - INFO - root - F1 macro: 0.5826
+2025-06-05 17:45:01,322 - INFO - root - ***** Task am - Epoch 15: val (seed 0) *****
+2025-06-05 17:45:01,323 - INFO - root - Accuracy: 0.5972
+2025-06-05 17:45:01,323 - INFO - root - F1 weighted: 0.5994
+2025-06-05 17:45:01,323 - INFO - root - F1 macro: 0.5952
+2025-06-05 17:45:01,323 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 17:47:46,410 - INFO - root - ***** Task am - Epoch 16: val (seed 0) *****
+2025-06-05 17:47:46,410 - INFO - root - Accuracy: 0.6119
+2025-06-05 17:47:46,410 - INFO - root - F1 weighted: 0.6106
+2025-06-05 17:47:46,410 - INFO - root - F1 macro: 0.5925
+2025-06-05 17:50:54,055 - INFO - root - ***** Task am - Epoch 17: val (seed 0) *****
+2025-06-05 17:50:54,055 - INFO - root - Accuracy: 0.6112
+2025-06-05 17:50:54,055 - INFO - root - F1 weighted: 0.5938
+2025-06-05 17:50:54,055 - INFO - root - F1 macro: 0.5638
+2025-06-05 17:50:54,056 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 17:53:38,353 - INFO - root - ***** Task am - Epoch 18: val (seed 0) *****
+2025-06-05 17:53:38,353 - INFO - root - Accuracy: 0.5945
+2025-06-05 17:53:38,353 - INFO - root - F1 weighted: 0.5968
+2025-06-05 17:53:38,353 - INFO - root - F1 macro: 0.5893
+2025-06-05 17:53:38,353 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 17:56:31,163 - INFO - root - ***** Task am - Epoch 19: val (seed 0) *****
+2025-06-05 17:56:31,163 - INFO - root - Accuracy: 0.6172
+2025-06-05 17:56:31,163 - INFO - root - F1 weighted: 0.6096
+2025-06-05 17:56:31,163 - INFO - root - F1 macro: 0.5865
+2025-06-05 17:56:31,164 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 17:59:19,421 - INFO - root - ***** Task am - Epoch 20: val (seed 0) *****
+2025-06-05 17:59:19,422 - INFO - root - Accuracy: 0.6199
+2025-06-05 17:59:19,422 - INFO - root - F1 weighted: 0.607
+2025-06-05 17:59:19,422 - INFO - root - F1 macro: 0.5801
+2025-06-05 17:59:19,423 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-05 18:02:11,020 - INFO - root - ***** Task am - Epoch 21: val (seed 0) *****
+2025-06-05 18:02:11,020 - INFO - root - Accuracy: 0.6126
+2025-06-05 18:02:11,020 - INFO - root - F1 weighted: 0.6122
+2025-06-05 18:02:11,020 - INFO - root - F1 macro: 0.5971
+2025-06-05 18:05:17,669 - INFO - root - ***** Task am - Epoch 22: val (seed 0) *****
+2025-06-05 18:05:17,669 - INFO - root - Accuracy: 0.6139
+2025-06-05 18:05:17,669 - INFO - root - F1 weighted: 0.5968
+2025-06-05 18:05:17,669 - INFO - root - F1 macro: 0.5617
+2025-06-05 18:05:17,670 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:08:02,991 - INFO - root - ***** Task am - Epoch 23: val (seed 0) *****
+2025-06-05 18:08:02,991 - INFO - root - Accuracy: 0.6079
+2025-06-05 18:08:02,991 - INFO - root - F1 weighted: 0.6087
+2025-06-05 18:08:02,991 - INFO - root - F1 macro: 0.5964
+2025-06-05 18:08:02,991 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 18:10:47,022 - INFO - root - ***** Task am - Epoch 24: val (seed 0) *****
+2025-06-05 18:10:47,023 - INFO - root - Accuracy: 0.6132
+2025-06-05 18:10:47,023 - INFO - root - F1 weighted: 0.6093
+2025-06-05 18:10:47,023 - INFO - root - F1 macro: 0.5886
+2025-06-05 18:10:47,023 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 18:13:32,249 - INFO - root - ***** Task am - Epoch 25: val (seed 0) *****
+2025-06-05 18:13:32,249 - INFO - root - Accuracy: 0.6159
+2025-06-05 18:13:32,249 - INFO - root - F1 weighted: 0.5925
+2025-06-05 18:13:32,249 - INFO - root - F1 macro: 0.5577
+2025-06-05 18:13:32,249 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-05 18:16:18,657 - INFO - root - ***** Task am - Epoch 26: val (seed 0) *****
+2025-06-05 18:16:18,657 - INFO - root - Accuracy: 0.6159
+2025-06-05 18:16:18,657 - INFO - root - F1 weighted: 0.6096
+2025-06-05 18:16:18,657 - INFO - root - F1 macro: 0.5871
+2025-06-05 18:16:18,657 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-05 18:16:18,659 - INFO - root - Early stop!!! Best epoch for [am]: 21
+2025-06-05 18:16:18,659 - INFO - root - Best evaluation accuracy [am]: 0.6126
+2025-06-05 18:16:18,659 - INFO - root - Best evaluation F1 [am]: 0.6122
+2025-06-05 18:16:18,659 - INFO - root - Loading weights from the best model (best epoch 21)...
+2025-06-05 18:17:14,199 - INFO - root - ***** Task am - Epoch 26: test (seed 0) *****
+2025-06-05 18:17:14,199 - INFO - root - Accuracy: 0.6118
+2025-06-05 18:17:14,199 - INFO - root - F1 weighted: 0.6655
+2025-06-05 18:17:14,199 - INFO - root - F1 macro: 0.5677
+2025-06-05 18:17:14,199 - INFO - root - Best test accuracy [am]: 0.6118
+2025-06-05 18:17:14,199 - INFO - root - Best test F1 [am]: 0.6655
+2025-06-05 18:17:14,204 - INFO - root - ***** Running training - task 1: dz*****
+2025-06-05 18:17:14,204 - INFO - root -   Num Epochs = 40
+2025-06-05 18:17:14,204 - INFO - root -   Num examples datasets = 1656
+2025-06-05 18:17:14,204 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-05 18:17:14,204 - INFO - root -   Total optimization steps = 8280
+2025-06-05 18:17:14,204 - INFO - root -   Num examples training = 66240
+2025-06-05 18:18:04,623 - INFO - root - ***** Task dz - Epoch 0: val (seed 0) *****
+2025-06-05 18:18:04,623 - INFO - root - Accuracy: 0.5413
+2025-06-05 18:18:04,623 - INFO - root - F1 weighted: 0.3802
+2025-06-05 18:18:04,623 - INFO - root - F1 macro: 0.2341
+2025-06-05 18:19:17,762 - INFO - root - ***** Task dz - Epoch 1: val (seed 0) *****
+2025-06-05 18:19:17,763 - INFO - root - Accuracy: 0.5413
+2025-06-05 18:19:17,763 - INFO - root - F1 weighted: 0.3802
+2025-06-05 18:19:17,763 - INFO - root - F1 macro: 0.2341
+2025-06-05 18:19:17,763 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:20:09,232 - INFO - root - ***** Task dz - Epoch 2: val (seed 0) *****
+2025-06-05 18:20:09,233 - INFO - root - Accuracy: 0.5461
+2025-06-05 18:20:09,233 - INFO - root - F1 weighted: 0.3909
+2025-06-05 18:20:09,233 - INFO - root - F1 macro: 0.2476
+2025-06-05 18:21:21,492 - INFO - root - ***** Task dz - Epoch 3: val (seed 0) *****
+2025-06-05 18:21:21,493 - INFO - root - Accuracy: 0.5461
+2025-06-05 18:21:21,493 - INFO - root - F1 weighted: 0.3915
+2025-06-05 18:21:21,493 - INFO - root - F1 macro: 0.2479
+2025-06-05 18:22:33,946 - INFO - root - ***** Task dz - Epoch 4: val (seed 0) *****
+2025-06-05 18:22:33,946 - INFO - root - Accuracy: 0.5534
+2025-06-05 18:22:33,946 - INFO - root - F1 weighted: 0.469
+2025-06-05 18:22:33,946 - INFO - root - F1 macro: 0.3618
+2025-06-05 18:23:48,309 - INFO - root - ***** Task dz - Epoch 5: val (seed 0) *****
+2025-06-05 18:23:48,309 - INFO - root - Accuracy: 0.5461
+2025-06-05 18:23:48,309 - INFO - root - F1 weighted: 0.4273
+2025-06-05 18:23:48,309 - INFO - root - F1 macro: 0.3059
+2025-06-05 18:23:48,309 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:24:39,683 - INFO - root - ***** Task dz - Epoch 6: val (seed 0) *****
+2025-06-05 18:24:39,683 - INFO - root - Accuracy: 0.568
+2025-06-05 18:24:39,683 - INFO - root - F1 weighted: 0.4958
+2025-06-05 18:24:39,683 - INFO - root - F1 macro: 0.4059
+2025-06-05 18:25:51,837 - INFO - root - ***** Task dz - Epoch 7: val (seed 0) *****
+2025-06-05 18:25:51,837 - INFO - root - Accuracy: 0.5534
+2025-06-05 18:25:51,837 - INFO - root - F1 weighted: 0.4099
+2025-06-05 18:25:51,837 - INFO - root - F1 macro: 0.272
+2025-06-05 18:25:51,837 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:26:43,210 - INFO - root - ***** Task dz - Epoch 8: val (seed 0) *****
+2025-06-05 18:26:43,210 - INFO - root - Accuracy: 0.5583
+2025-06-05 18:26:43,210 - INFO - root - F1 weighted: 0.4423
+2025-06-05 18:26:43,210 - INFO - root - F1 macro: 0.3195
+2025-06-05 18:26:43,210 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 18:27:33,441 - INFO - root - ***** Task dz - Epoch 9: val (seed 0) *****
+2025-06-05 18:27:33,441 - INFO - root - Accuracy: 0.5704
+2025-06-05 18:27:33,441 - INFO - root - F1 weighted: 0.53
+2025-06-05 18:27:33,441 - INFO - root - F1 macro: 0.452
+2025-06-05 18:28:45,581 - INFO - root - ***** Task dz - Epoch 10: val (seed 0) *****
+2025-06-05 18:28:45,581 - INFO - root - Accuracy: 0.5558
+2025-06-05 18:28:45,581 - INFO - root - F1 weighted: 0.45
+2025-06-05 18:28:45,581 - INFO - root - F1 macro: 0.3369
+2025-06-05 18:28:45,581 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:29:37,011 - INFO - root - ***** Task dz - Epoch 11: val (seed 0) *****
+2025-06-05 18:29:37,011 - INFO - root - Accuracy: 0.5752
+2025-06-05 18:29:37,011 - INFO - root - F1 weighted: 0.508
+2025-06-05 18:29:37,011 - INFO - root - F1 macro: 0.412
+2025-06-05 18:29:37,011 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 18:30:28,699 - INFO - root - ***** Task dz - Epoch 12: val (seed 0) *****
+2025-06-05 18:30:28,699 - INFO - root - Accuracy: 0.5801
+2025-06-05 18:30:28,699 - INFO - root - F1 weighted: 0.5393
+2025-06-05 18:30:28,699 - INFO - root - F1 macro: 0.4608
+2025-06-05 18:31:41,342 - INFO - root - ***** Task dz - Epoch 13: val (seed 0) *****
+2025-06-05 18:31:41,342 - INFO - root - Accuracy: 0.5777
+2025-06-05 18:31:41,342 - INFO - root - F1 weighted: 0.5041
+2025-06-05 18:31:41,342 - INFO - root - F1 macro: 0.4049
+2025-06-05 18:31:41,342 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 18:32:33,591 - INFO - root - ***** Task dz - Epoch 14: val (seed 0) *****
+2025-06-05 18:32:33,592 - INFO - root - Accuracy: 0.568
+2025-06-05 18:32:33,592 - INFO - root - F1 weighted: 0.4547
+2025-06-05 18:32:33,592 - INFO - root - F1 macro: 0.3312
+2025-06-05 18:32:33,592 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 18:33:25,179 - INFO - root - ***** Task dz - Epoch 15: val (seed 0) *****
+2025-06-05 18:33:25,179 - INFO - root - Accuracy: 0.5752
+2025-06-05 18:33:25,179 - INFO - root - F1 weighted: 0.5265
+2025-06-05 18:33:25,179 - INFO - root - F1 macro: 0.443
+2025-06-05 18:33:25,179 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 18:34:17,578 - INFO - root - ***** Task dz - Epoch 16: val (seed 0) *****
+2025-06-05 18:34:17,579 - INFO - root - Accuracy: 0.585
+2025-06-05 18:34:17,579 - INFO - root - F1 weighted: 0.5124
+2025-06-05 18:34:17,579 - INFO - root - F1 macro: 0.4171
+2025-06-05 18:34:17,579 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-05 18:35:09,404 - INFO - root - ***** Task dz - Epoch 17: val (seed 0) *****
+2025-06-05 18:35:09,404 - INFO - root - Accuracy: 0.5752
+2025-06-05 18:35:09,404 - INFO - root - F1 weighted: 0.491
+2025-06-05 18:35:09,404 - INFO - root - F1 macro: 0.3835
+2025-06-05 18:35:09,406 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-05 18:35:09,407 - INFO - root - Early stop!!! Best epoch for [dz]: 12
+2025-06-05 18:35:09,407 - INFO - root - Best evaluation accuracy [dz]: 0.5801
+2025-06-05 18:35:09,407 - INFO - root - Best evaluation F1 [dz]: 0.5393
+2025-06-05 18:35:09,407 - INFO - root - Loading weights from the best model (best epoch 12)...
+2025-06-05 18:35:50,645 - INFO - root - ***** Task dz - Epoch 17: test (seed 0) *****
+2025-06-05 18:35:50,645 - INFO - root - Accuracy: 0.5929
+2025-06-05 18:35:50,645 - INFO - root - F1 weighted: 0.5611
+2025-06-05 18:35:50,645 - INFO - root - F1 macro: 0.4908
+2025-06-05 18:35:50,646 - INFO - root - Best test accuracy [dz]: 0.5929
+2025-06-05 18:35:50,647 - INFO - root - Best test F1 [dz]: 0.5611
+2025-06-05 18:35:50,653 - INFO - root - ***** Running training - task 2: ha*****
+2025-06-05 18:35:50,653 - INFO - root -   Num Epochs = 40
+2025-06-05 18:35:50,653 - INFO - root -   Num examples datasets = 14176
+2025-06-05 18:35:50,653 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-05 18:35:50,653 - INFO - root -   Total optimization steps = 70880
+2025-06-05 18:35:50,654 - INFO - root -   Num examples training = 567040
+2025-06-05 18:41:55,557 - INFO - root - ***** Task ha - Epoch 0: val (seed 0) *****
+2025-06-05 18:41:55,557 - INFO - root - Accuracy: 0.6321
+2025-06-05 18:41:55,557 - INFO - root - F1 weighted: 0.638
+2025-06-05 18:41:55,557 - INFO - root - F1 macro: 0.6382
+2025-06-05 18:48:20,638 - INFO - root - ***** Task ha - Epoch 1: val (seed 0) *****
+2025-06-05 18:48:20,638 - INFO - root - Accuracy: 0.658
+2025-06-05 18:48:20,638 - INFO - root - F1 weighted: 0.6598
+2025-06-05 18:48:20,638 - INFO - root - F1 macro: 0.6597
+2025-06-05 18:54:46,358 - INFO - root - ***** Task ha - Epoch 2: val (seed 0) *****
+2025-06-05 18:54:46,358 - INFO - root - Accuracy: 0.6653
+2025-06-05 18:54:46,358 - INFO - root - F1 weighted: 0.6668
+2025-06-05 18:54:46,358 - INFO - root - F1 macro: 0.6678
+2025-06-05 19:01:13,609 - INFO - root - ***** Task ha - Epoch 3: val (seed 0) *****
+2025-06-05 19:01:13,609 - INFO - root - Accuracy: 0.6831
+2025-06-05 19:01:13,609 - INFO - root - F1 weighted: 0.6786
+2025-06-05 19:01:13,609 - INFO - root - F1 macro: 0.6778
+2025-06-05 19:07:40,375 - INFO - root - ***** Task ha - Epoch 4: val (seed 0) *****
+2025-06-05 19:07:40,375 - INFO - root - Accuracy: 0.6742
+2025-06-05 19:07:40,375 - INFO - root - F1 weighted: 0.6728
+2025-06-05 19:07:40,375 - INFO - root - F1 macro: 0.6736
+2025-06-05 19:07:40,376 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 19:13:47,994 - INFO - root - ***** Task ha - Epoch 5: val (seed 0) *****
+2025-06-05 19:13:47,994 - INFO - root - Accuracy: 0.6868
+2025-06-05 19:13:47,994 - INFO - root - F1 weighted: 0.6811
+2025-06-05 19:13:47,995 - INFO - root - F1 macro: 0.6803
+2025-06-05 19:20:15,003 - INFO - root - ***** Task ha - Epoch 6: val (seed 0) *****
+2025-06-05 19:20:15,003 - INFO - root - Accuracy: 0.6953
+2025-06-05 19:20:15,003 - INFO - root - F1 weighted: 0.6926
+2025-06-05 19:20:15,003 - INFO - root - F1 macro: 0.6931
+2025-06-05 19:26:43,554 - INFO - root - ***** Task ha - Epoch 7: val (seed 0) *****
+2025-06-05 19:26:43,554 - INFO - root - Accuracy: 0.6819
+2025-06-05 19:26:43,554 - INFO - root - F1 weighted: 0.6782
+2025-06-05 19:26:43,555 - INFO - root - F1 macro: 0.6798
+2025-06-05 19:26:43,555 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 19:32:50,733 - INFO - root - ***** Task ha - Epoch 8: val (seed 0) *****
+2025-06-05 19:32:50,733 - INFO - root - Accuracy: 0.6969
+2025-06-05 19:32:50,733 - INFO - root - F1 weighted: 0.6963
+2025-06-05 19:32:50,733 - INFO - root - F1 macro: 0.6963
+2025-06-05 19:39:17,301 - INFO - root - ***** Task ha - Epoch 9: val (seed 0) *****
+2025-06-05 19:39:17,301 - INFO - root - Accuracy: 0.7086
+2025-06-05 19:39:17,301 - INFO - root - F1 weighted: 0.7073
+2025-06-05 19:39:17,301 - INFO - root - F1 macro: 0.7076
+2025-06-05 19:45:43,482 - INFO - root - ***** Task ha - Epoch 10: val (seed 0) *****
+2025-06-05 19:45:43,482 - INFO - root - Accuracy: 0.7082
+2025-06-05 19:45:43,482 - INFO - root - F1 weighted: 0.7065
+2025-06-05 19:45:43,482 - INFO - root - F1 macro: 0.7074
+2025-06-05 19:45:43,482 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 19:51:48,804 - INFO - root - ***** Task ha - Epoch 11: val (seed 0) *****
+2025-06-05 19:51:48,804 - INFO - root - Accuracy: 0.703
+2025-06-05 19:51:48,804 - INFO - root - F1 weighted: 0.698
+2025-06-05 19:51:48,804 - INFO - root - F1 macro: 0.6981
+2025-06-05 19:51:48,805 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 19:57:54,329 - INFO - root - ***** Task ha - Epoch 12: val (seed 0) *****
+2025-06-05 19:57:54,329 - INFO - root - Accuracy: 0.705
+2025-06-05 19:57:54,329 - INFO - root - F1 weighted: 0.7014
+2025-06-05 19:57:54,329 - INFO - root - F1 macro: 0.7028
+2025-06-05 19:57:54,329 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 20:04:01,220 - INFO - root - ***** Task ha - Epoch 13: val (seed 0) *****
+2025-06-05 20:04:01,221 - INFO - root - Accuracy: 0.7058
+2025-06-05 20:04:01,221 - INFO - root - F1 weighted: 0.7018
+2025-06-05 20:04:01,221 - INFO - root - F1 macro: 0.7029
+2025-06-05 20:04:01,221 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-05 20:10:06,004 - INFO - root - ***** Task ha - Epoch 14: val (seed 0) *****
+2025-06-05 20:10:06,005 - INFO - root - Accuracy: 0.7163
+2025-06-05 20:10:06,005 - INFO - root - F1 weighted: 0.7127
+2025-06-05 20:10:06,005 - INFO - root - F1 macro: 0.7129
+2025-06-05 20:16:32,179 - INFO - root - ***** Task ha - Epoch 15: val (seed 0) *****
+2025-06-05 20:16:32,179 - INFO - root - Accuracy: 0.6953
+2025-06-05 20:16:32,179 - INFO - root - F1 weighted: 0.6865
+2025-06-05 20:16:32,179 - INFO - root - F1 macro: 0.6888
+2025-06-05 20:16:32,179 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 20:22:36,746 - INFO - root - ***** Task ha - Epoch 16: val (seed 0) *****
+2025-06-05 20:22:36,746 - INFO - root - Accuracy: 0.709
+2025-06-05 20:22:36,746 - INFO - root - F1 weighted: 0.7044
+2025-06-05 20:22:36,746 - INFO - root - F1 macro: 0.705
+2025-06-05 20:22:36,747 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 20:28:41,927 - INFO - root - ***** Task ha - Epoch 17: val (seed 0) *****
+2025-06-05 20:28:41,927 - INFO - root - Accuracy: 0.7115
+2025-06-05 20:28:41,927 - INFO - root - F1 weighted: 0.7062
+2025-06-05 20:28:41,927 - INFO - root - F1 macro: 0.7076
+2025-06-05 20:28:41,928 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 20:34:46,867 - INFO - root - ***** Task ha - Epoch 18: val (seed 0) *****
+2025-06-05 20:34:46,867 - INFO - root - Accuracy: 0.7191
+2025-06-05 20:34:46,867 - INFO - root - F1 weighted: 0.7182
+2025-06-05 20:34:46,867 - INFO - root - F1 macro: 0.7191
+2025-06-05 20:41:24,011 - INFO - root - ***** Task ha - Epoch 19: val (seed 0) *****
+2025-06-05 20:41:24,011 - INFO - root - Accuracy: 0.7244
+2025-06-05 20:41:24,011 - INFO - root - F1 weighted: 0.7246
+2025-06-05 20:41:24,011 - INFO - root - F1 macro: 0.725
+2025-06-05 20:47:51,303 - INFO - root - ***** Task ha - Epoch 20: val (seed 0) *****
+2025-06-05 20:47:51,304 - INFO - root - Accuracy: 0.7232
+2025-06-05 20:47:51,304 - INFO - root - F1 weighted: 0.7204
+2025-06-05 20:47:51,304 - INFO - root - F1 macro: 0.7208
+2025-06-05 20:47:51,304 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 20:53:57,177 - INFO - root - ***** Task ha - Epoch 21: val (seed 0) *****
+2025-06-05 20:53:57,178 - INFO - root - Accuracy: 0.7187
+2025-06-05 20:53:57,178 - INFO - root - F1 weighted: 0.7158
+2025-06-05 20:53:57,178 - INFO - root - F1 macro: 0.7173
+2025-06-05 20:53:57,178 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 21:00:02,077 - INFO - root - ***** Task ha - Epoch 22: val (seed 0) *****
+2025-06-05 21:00:02,077 - INFO - root - Accuracy: 0.7232
+2025-06-05 21:00:02,077 - INFO - root - F1 weighted: 0.7171
+2025-06-05 21:00:02,077 - INFO - root - F1 macro: 0.7167
+2025-06-05 21:00:02,077 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 21:06:08,887 - INFO - root - ***** Task ha - Epoch 23: val (seed 0) *****
+2025-06-05 21:06:08,887 - INFO - root - Accuracy: 0.7333
+2025-06-05 21:06:08,888 - INFO - root - F1 weighted: 0.7309
+2025-06-05 21:06:08,888 - INFO - root - F1 macro: 0.7308
+2025-06-05 21:12:34,207 - INFO - root - ***** Task ha - Epoch 24: val (seed 0) *****
+2025-06-05 21:12:34,207 - INFO - root - Accuracy: 0.7341
+2025-06-05 21:12:34,207 - INFO - root - F1 weighted: 0.7332
+2025-06-05 21:12:34,207 - INFO - root - F1 macro: 0.7331
+2025-06-05 21:19:00,715 - INFO - root - ***** Task ha - Epoch 25: val (seed 0) *****
+2025-06-05 21:19:00,715 - INFO - root - Accuracy: 0.7357
+2025-06-05 21:19:00,716 - INFO - root - F1 weighted: 0.7333
+2025-06-05 21:19:00,716 - INFO - root - F1 macro: 0.7334
+2025-06-05 21:25:25,858 - INFO - root - ***** Task ha - Epoch 26: val (seed 0) *****
+2025-06-05 21:25:25,858 - INFO - root - Accuracy: 0.7252
+2025-06-05 21:25:25,858 - INFO - root - F1 weighted: 0.7232
+2025-06-05 21:25:25,858 - INFO - root - F1 macro: 0.7245
+2025-06-05 21:25:25,858 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 21:31:31,962 - INFO - root - ***** Task ha - Epoch 27: val (seed 0) *****
+2025-06-05 21:31:31,962 - INFO - root - Accuracy: 0.7341
+2025-06-05 21:31:31,962 - INFO - root - F1 weighted: 0.7331
+2025-06-05 21:31:31,962 - INFO - root - F1 macro: 0.7337
+2025-06-05 21:31:31,963 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 21:37:36,363 - INFO - root - ***** Task ha - Epoch 28: val (seed 0) *****
+2025-06-05 21:37:36,364 - INFO - root - Accuracy: 0.7329
+2025-06-05 21:37:36,364 - INFO - root - F1 weighted: 0.7304
+2025-06-05 21:37:36,364 - INFO - root - F1 macro: 0.7314
+2025-06-05 21:37:36,364 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 21:43:40,685 - INFO - root - ***** Task ha - Epoch 29: val (seed 0) *****
+2025-06-05 21:43:40,685 - INFO - root - Accuracy: 0.7365
+2025-06-05 21:43:40,685 - INFO - root - F1 weighted: 0.7345
+2025-06-05 21:43:40,685 - INFO - root - F1 macro: 0.7352
+2025-06-05 21:50:06,923 - INFO - root - ***** Task ha - Epoch 30: val (seed 0) *****
+2025-06-05 21:50:06,923 - INFO - root - Accuracy: 0.7406
+2025-06-05 21:50:06,923 - INFO - root - F1 weighted: 0.7393
+2025-06-05 21:50:06,923 - INFO - root - F1 macro: 0.7397
+2025-06-05 21:56:33,240 - INFO - root - ***** Task ha - Epoch 31: val (seed 0) *****
+2025-06-05 21:56:33,240 - INFO - root - Accuracy: 0.7289
+2025-06-05 21:56:33,240 - INFO - root - F1 weighted: 0.7251
+2025-06-05 21:56:33,240 - INFO - root - F1 macro: 0.7267
+2025-06-05 21:56:33,241 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 22:02:38,108 - INFO - root - ***** Task ha - Epoch 32: val (seed 0) *****
+2025-06-05 22:02:38,108 - INFO - root - Accuracy: 0.7293
+2025-06-05 22:02:38,108 - INFO - root - F1 weighted: 0.7274
+2025-06-05 22:02:38,108 - INFO - root - F1 macro: 0.7284
+2025-06-05 22:02:38,108 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 22:08:44,879 - INFO - root - ***** Task ha - Epoch 33: val (seed 0) *****
+2025-06-05 22:08:44,879 - INFO - root - Accuracy: 0.7378
+2025-06-05 22:08:44,879 - INFO - root - F1 weighted: 0.7358
+2025-06-05 22:08:44,879 - INFO - root - F1 macro: 0.7364
+2025-06-05 22:08:44,879 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-05 22:14:50,600 - INFO - root - ***** Task ha - Epoch 34: val (seed 0) *****
+2025-06-05 22:14:50,600 - INFO - root - Accuracy: 0.7406
+2025-06-05 22:14:50,600 - INFO - root - F1 weighted: 0.739
+2025-06-05 22:14:50,600 - INFO - root - F1 macro: 0.7395
+2025-06-05 22:14:50,601 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-05 22:20:56,772 - INFO - root - ***** Task ha - Epoch 35: val (seed 0) *****
+2025-06-05 22:20:56,773 - INFO - root - Accuracy: 0.7467
+2025-06-05 22:20:56,773 - INFO - root - F1 weighted: 0.7451
+2025-06-05 22:20:56,773 - INFO - root - F1 macro: 0.7454
+2025-06-05 22:27:22,590 - INFO - root - ***** Task ha - Epoch 36: val (seed 0) *****
+2025-06-05 22:27:22,590 - INFO - root - Accuracy: 0.7398
+2025-06-05 22:27:22,590 - INFO - root - F1 weighted: 0.7392
+2025-06-05 22:27:22,590 - INFO - root - F1 macro: 0.7398
+2025-06-05 22:27:22,591 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 22:33:27,560 - INFO - root - ***** Task ha - Epoch 37: val (seed 0) *****
+2025-06-05 22:33:27,560 - INFO - root - Accuracy: 0.7378
+2025-06-05 22:33:27,560 - INFO - root - F1 weighted: 0.7336
+2025-06-05 22:33:27,560 - INFO - root - F1 macro: 0.7348
+2025-06-05 22:33:27,561 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-05 22:39:32,676 - INFO - root - ***** Task ha - Epoch 38: val (seed 0) *****
+2025-06-05 22:39:32,676 - INFO - root - Accuracy: 0.7463
+2025-06-05 22:39:32,676 - INFO - root - F1 weighted: 0.7454
+2025-06-05 22:39:32,676 - INFO - root - F1 macro: 0.7459
+2025-06-05 22:45:59,044 - INFO - root - ***** Task ha - Epoch 39: val (seed 0) *****
+2025-06-05 22:45:59,044 - INFO - root - Accuracy: 0.7305
+2025-06-05 22:45:59,044 - INFO - root - F1 weighted: 0.7256
+2025-06-05 22:45:59,044 - INFO - root - F1 macro: 0.7273
+2025-06-05 22:45:59,045 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 22:45:59,045 - INFO - root - Early stop!!! Best epoch for [ha]: 38
+2025-06-05 22:45:59,045 - INFO - root - Best evaluation accuracy [ha]: 0.7463
+2025-06-05 22:45:59,045 - INFO - root - Best evaluation F1 [ha]: 0.7454
+2025-06-05 22:45:59,045 - INFO - root - Loading weights from the best model (best epoch 38)...
+2025-06-05 22:47:38,971 - INFO - root - ***** Task ha - Epoch 39: test (seed 0) *****
+2025-06-05 22:47:38,971 - INFO - root - Accuracy: 0.7439
+2025-06-05 22:47:38,971 - INFO - root - F1 weighted: 0.7424
+2025-06-05 22:47:38,971 - INFO - root - F1 macro: 0.7428
+2025-06-05 22:47:38,972 - INFO - root - Best test accuracy [ha]: 0.7439
+2025-06-05 22:47:38,972 - INFO - root - Best test F1 [ha]: 0.7424
+2025-06-05 22:47:38,976 - INFO - root - ***** Running training - task 3: ig*****
+2025-06-05 22:47:38,977 - INFO - root -   Num Epochs = 40
+2025-06-05 22:47:38,977 - INFO - root -   Num examples datasets = 10192
+2025-06-05 22:47:38,977 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-05 22:47:38,977 - INFO - root -   Total optimization steps = 50960
+2025-06-05 22:47:38,977 - INFO - root -   Num examples training = 407680
+2025-06-05 22:52:06,793 - INFO - root - ***** Task ig - Epoch 0: val (seed 0) *****
+2025-06-05 22:52:06,793 - INFO - root - Accuracy: 0.6051
+2025-06-05 22:52:06,793 - INFO - root - F1 weighted: 0.6025
+2025-06-05 22:52:06,793 - INFO - root - F1 macro: 0.5879
+2025-06-05 22:56:55,958 - INFO - root - ***** Task ig - Epoch 1: val (seed 0) *****
+2025-06-05 22:56:55,958 - INFO - root - Accuracy: 0.6233
+2025-06-05 22:56:55,958 - INFO - root - F1 weighted: 0.6187
+2025-06-05 22:56:55,958 - INFO - root - F1 macro: 0.6025
+2025-06-05 23:01:44,716 - INFO - root - ***** Task ig - Epoch 2: val (seed 0) *****
+2025-06-05 23:01:44,716 - INFO - root - Accuracy: 0.6361
+2025-06-05 23:01:44,716 - INFO - root - F1 weighted: 0.6324
+2025-06-05 23:01:44,716 - INFO - root - F1 macro: 0.6171
+2025-06-05 23:06:36,030 - INFO - root - ***** Task ig - Epoch 3: val (seed 0) *****
+2025-06-05 23:06:36,030 - INFO - root - Accuracy: 0.6372
+2025-06-05 23:06:36,030 - INFO - root - F1 weighted: 0.608
+2025-06-05 23:06:36,030 - INFO - root - F1 macro: 0.579
+2025-06-05 23:06:36,031 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 23:11:04,084 - INFO - root - ***** Task ig - Epoch 4: val (seed 0) *****
+2025-06-05 23:11:04,084 - INFO - root - Accuracy: 0.6482
+2025-06-05 23:11:04,084 - INFO - root - F1 weighted: 0.634
+2025-06-05 23:11:04,084 - INFO - root - F1 macro: 0.6135
+2025-06-05 23:15:53,573 - INFO - root - ***** Task ig - Epoch 5: val (seed 0) *****
+2025-06-05 23:15:53,573 - INFO - root - Accuracy: 0.6593
+2025-06-05 23:15:53,573 - INFO - root - F1 weighted: 0.6576
+2025-06-05 23:15:53,573 - INFO - root - F1 macro: 0.6461
+2025-06-05 23:20:42,494 - INFO - root - ***** Task ig - Epoch 6: val (seed 0) *****
+2025-06-05 23:20:42,494 - INFO - root - Accuracy: 0.6538
+2025-06-05 23:20:42,494 - INFO - root - F1 weighted: 0.6375
+2025-06-05 23:20:42,494 - INFO - root - F1 macro: 0.6158
+2025-06-05 23:20:42,495 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 23:25:10,721 - INFO - root - ***** Task ig - Epoch 7: val (seed 0) *****
+2025-06-05 23:25:10,721 - INFO - root - Accuracy: 0.6687
+2025-06-05 23:25:10,722 - INFO - root - F1 weighted: 0.6634
+2025-06-05 23:25:10,722 - INFO - root - F1 macro: 0.6496
+2025-06-05 23:30:00,203 - INFO - root - ***** Task ig - Epoch 8: val (seed 0) *****
+2025-06-05 23:30:00,203 - INFO - root - Accuracy: 0.6731
+2025-06-05 23:30:00,203 - INFO - root - F1 weighted: 0.6657
+2025-06-05 23:30:00,203 - INFO - root - F1 macro: 0.6513
+2025-06-05 23:34:47,816 - INFO - root - ***** Task ig - Epoch 9: val (seed 0) *****
+2025-06-05 23:34:47,816 - INFO - root - Accuracy: 0.6847
+2025-06-05 23:34:47,816 - INFO - root - F1 weighted: 0.6806
+2025-06-05 23:34:47,816 - INFO - root - F1 macro: 0.6675
+2025-06-05 23:39:35,745 - INFO - root - ***** Task ig - Epoch 10: val (seed 0) *****
+2025-06-05 23:39:35,745 - INFO - root - Accuracy: 0.6875
+2025-06-05 23:39:35,745 - INFO - root - F1 weighted: 0.6818
+2025-06-05 23:39:35,745 - INFO - root - F1 macro: 0.6683
+2025-06-05 23:44:25,765 - INFO - root - ***** Task ig - Epoch 11: val (seed 0) *****
+2025-06-05 23:44:25,765 - INFO - root - Accuracy: 0.6903
+2025-06-05 23:44:25,765 - INFO - root - F1 weighted: 0.684
+2025-06-05 23:44:25,765 - INFO - root - F1 macro: 0.6706
+2025-06-05 23:49:12,922 - INFO - root - ***** Task ig - Epoch 12: val (seed 0) *****
+2025-06-05 23:49:12,923 - INFO - root - Accuracy: 0.6925
+2025-06-05 23:49:12,923 - INFO - root - F1 weighted: 0.6905
+2025-06-05 23:49:12,923 - INFO - root - F1 macro: 0.6785
+2025-06-05 23:54:00,685 - INFO - root - ***** Task ig - Epoch 13: val (seed 0) *****
+2025-06-05 23:54:00,685 - INFO - root - Accuracy: 0.6903
+2025-06-05 23:54:00,685 - INFO - root - F1 weighted: 0.6853
+2025-06-05 23:54:00,685 - INFO - root - F1 macro: 0.6723
+2025-06-05 23:54:00,686 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-05 23:58:27,053 - INFO - root - ***** Task ig - Epoch 14: val (seed 0) *****
+2025-06-05 23:58:27,053 - INFO - root - Accuracy: 0.6986
+2025-06-05 23:58:27,053 - INFO - root - F1 weighted: 0.6955
+2025-06-05 23:58:27,053 - INFO - root - F1 macro: 0.6838
+2025-06-06 00:03:12,621 - INFO - root - ***** Task ig - Epoch 15: val (seed 0) *****
+2025-06-06 00:03:12,621 - INFO - root - Accuracy: 0.7058
+2025-06-06 00:03:12,621 - INFO - root - F1 weighted: 0.7021
+2025-06-06 00:03:12,621 - INFO - root - F1 macro: 0.6912
+2025-06-06 00:08:00,332 - INFO - root - ***** Task ig - Epoch 16: val (seed 0) *****
+2025-06-06 00:08:00,332 - INFO - root - Accuracy: 0.6975
+2025-06-06 00:08:00,332 - INFO - root - F1 weighted: 0.6911
+2025-06-06 00:08:00,332 - INFO - root - F1 macro: 0.6772
+2025-06-06 00:08:00,332 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 00:12:26,590 - INFO - root - ***** Task ig - Epoch 17: val (seed 0) *****
+2025-06-06 00:12:26,590 - INFO - root - Accuracy: 0.7035
+2025-06-06 00:12:26,590 - INFO - root - F1 weighted: 0.7032
+2025-06-06 00:12:26,590 - INFO - root - F1 macro: 0.6938
+2025-06-06 00:17:13,285 - INFO - root - ***** Task ig - Epoch 18: val (seed 0) *****
+2025-06-06 00:17:13,285 - INFO - root - Accuracy: 0.7052
+2025-06-06 00:17:13,285 - INFO - root - F1 weighted: 0.7025
+2025-06-06 00:17:13,285 - INFO - root - F1 macro: 0.6919
+2025-06-06 00:17:13,285 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 00:21:38,948 - INFO - root - ***** Task ig - Epoch 19: val (seed 0) *****
+2025-06-06 00:21:38,948 - INFO - root - Accuracy: 0.703
+2025-06-06 00:21:38,948 - INFO - root - F1 weighted: 0.7004
+2025-06-06 00:21:38,948 - INFO - root - F1 macro: 0.6936
+2025-06-06 00:21:38,949 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 00:26:05,274 - INFO - root - ***** Task ig - Epoch 20: val (seed 0) *****
+2025-06-06 00:26:05,274 - INFO - root - Accuracy: 0.7212
+2025-06-06 00:26:05,274 - INFO - root - F1 weighted: 0.7175
+2025-06-06 00:26:05,274 - INFO - root - F1 macro: 0.7066
+2025-06-06 00:30:53,428 - INFO - root - ***** Task ig - Epoch 21: val (seed 0) *****
+2025-06-06 00:30:53,428 - INFO - root - Accuracy: 0.7135
+2025-06-06 00:30:53,429 - INFO - root - F1 weighted: 0.7093
+2025-06-06 00:30:53,429 - INFO - root - F1 macro: 0.6971
+2025-06-06 00:30:53,429 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 00:35:20,462 - INFO - root - ***** Task ig - Epoch 22: val (seed 0) *****
+2025-06-06 00:35:20,463 - INFO - root - Accuracy: 0.7163
+2025-06-06 00:35:20,463 - INFO - root - F1 weighted: 0.7125
+2025-06-06 00:35:20,463 - INFO - root - F1 macro: 0.7015
+2025-06-06 00:35:20,463 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 00:39:46,961 - INFO - root - ***** Task ig - Epoch 23: val (seed 0) *****
+2025-06-06 00:39:46,961 - INFO - root - Accuracy: 0.7174
+2025-06-06 00:39:46,961 - INFO - root - F1 weighted: 0.7144
+2025-06-06 00:39:46,962 - INFO - root - F1 macro: 0.7036
+2025-06-06 00:39:46,962 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 00:44:12,617 - INFO - root - ***** Task ig - Epoch 24: val (seed 0) *****
+2025-06-06 00:44:12,617 - INFO - root - Accuracy: 0.7223
+2025-06-06 00:44:12,617 - INFO - root - F1 weighted: 0.7197
+2025-06-06 00:44:12,617 - INFO - root - F1 macro: 0.7098
+2025-06-06 00:49:02,019 - INFO - root - ***** Task ig - Epoch 25: val (seed 0) *****
+2025-06-06 00:49:02,019 - INFO - root - Accuracy: 0.7196
+2025-06-06 00:49:02,019 - INFO - root - F1 weighted: 0.7196
+2025-06-06 00:49:02,019 - INFO - root - F1 macro: 0.7108
+2025-06-06 00:49:02,020 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 00:53:28,004 - INFO - root - ***** Task ig - Epoch 26: val (seed 0) *****
+2025-06-06 00:53:28,004 - INFO - root - Accuracy: 0.7201
+2025-06-06 00:53:28,004 - INFO - root - F1 weighted: 0.7204
+2025-06-06 00:53:28,004 - INFO - root - F1 macro: 0.7114
+2025-06-06 00:58:16,753 - INFO - root - ***** Task ig - Epoch 27: val (seed 0) *****
+2025-06-06 00:58:16,753 - INFO - root - Accuracy: 0.7196
+2025-06-06 00:58:16,753 - INFO - root - F1 weighted: 0.719
+2025-06-06 00:58:16,753 - INFO - root - F1 macro: 0.7107
+2025-06-06 00:58:16,753 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 01:02:42,787 - INFO - root - ***** Task ig - Epoch 28: val (seed 0) *****
+2025-06-06 01:02:42,788 - INFO - root - Accuracy: 0.7163
+2025-06-06 01:02:42,788 - INFO - root - F1 weighted: 0.7167
+2025-06-06 01:02:42,788 - INFO - root - F1 macro: 0.7129
+2025-06-06 01:02:42,788 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 01:07:09,241 - INFO - root - ***** Task ig - Epoch 29: val (seed 0) *****
+2025-06-06 01:07:09,241 - INFO - root - Accuracy: 0.7129
+2025-06-06 01:07:09,241 - INFO - root - F1 weighted: 0.7158
+2025-06-06 01:07:09,241 - INFO - root - F1 macro: 0.7099
+2025-06-06 01:07:09,242 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 01:11:34,533 - INFO - root - ***** Task ig - Epoch 30: val (seed 0) *****
+2025-06-06 01:11:34,533 - INFO - root - Accuracy: 0.7251
+2025-06-06 01:11:34,533 - INFO - root - F1 weighted: 0.7239
+2025-06-06 01:11:34,533 - INFO - root - F1 macro: 0.7142
+2025-06-06 01:16:23,399 - INFO - root - ***** Task ig - Epoch 31: val (seed 0) *****
+2025-06-06 01:16:23,399 - INFO - root - Accuracy: 0.7251
+2025-06-06 01:16:23,399 - INFO - root - F1 weighted: 0.7247
+2025-06-06 01:16:23,399 - INFO - root - F1 macro: 0.7155
+2025-06-06 01:21:12,160 - INFO - root - ***** Task ig - Epoch 32: val (seed 0) *****
+2025-06-06 01:21:12,160 - INFO - root - Accuracy: 0.7306
+2025-06-06 01:21:12,160 - INFO - root - F1 weighted: 0.7278
+2025-06-06 01:21:12,160 - INFO - root - F1 macro: 0.7189
+2025-06-06 01:25:59,597 - INFO - root - ***** Task ig - Epoch 33: val (seed 0) *****
+2025-06-06 01:25:59,597 - INFO - root - Accuracy: 0.734
+2025-06-06 01:25:59,597 - INFO - root - F1 weighted: 0.7334
+2025-06-06 01:25:59,598 - INFO - root - F1 macro: 0.7244
+2025-06-06 01:30:48,531 - INFO - root - ***** Task ig - Epoch 34: val (seed 0) *****
+2025-06-06 01:30:48,531 - INFO - root - Accuracy: 0.7317
+2025-06-06 01:30:48,531 - INFO - root - F1 weighted: 0.7299
+2025-06-06 01:30:48,531 - INFO - root - F1 macro: 0.7211
+2025-06-06 01:30:48,531 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 01:35:15,906 - INFO - root - ***** Task ig - Epoch 35: val (seed 0) *****
+2025-06-06 01:35:15,906 - INFO - root - Accuracy: 0.74
+2025-06-06 01:35:15,906 - INFO - root - F1 weighted: 0.7372
+2025-06-06 01:35:15,906 - INFO - root - F1 macro: 0.7274
+2025-06-06 01:40:04,198 - INFO - root - ***** Task ig - Epoch 36: val (seed 0) *****
+2025-06-06 01:40:04,198 - INFO - root - Accuracy: 0.7273
+2025-06-06 01:40:04,198 - INFO - root - F1 weighted: 0.7291
+2025-06-06 01:40:04,198 - INFO - root - F1 macro: 0.7235
+2025-06-06 01:40:04,199 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 01:44:31,494 - INFO - root - ***** Task ig - Epoch 37: val (seed 0) *****
+2025-06-06 01:44:31,494 - INFO - root - Accuracy: 0.7423
+2025-06-06 01:44:31,494 - INFO - root - F1 weighted: 0.7384
+2025-06-06 01:44:31,494 - INFO - root - F1 macro: 0.7276
+2025-06-06 01:49:18,566 - INFO - root - ***** Task ig - Epoch 38: val (seed 0) *****
+2025-06-06 01:49:18,567 - INFO - root - Accuracy: 0.7362
+2025-06-06 01:49:18,567 - INFO - root - F1 weighted: 0.7344
+2025-06-06 01:49:18,567 - INFO - root - F1 macro: 0.7247
+2025-06-06 01:49:18,567 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 01:53:45,191 - INFO - root - ***** Task ig - Epoch 39: val (seed 0) *****
+2025-06-06 01:53:45,191 - INFO - root - Accuracy: 0.7395
+2025-06-06 01:53:45,191 - INFO - root - F1 weighted: 0.737
+2025-06-06 01:53:45,191 - INFO - root - F1 macro: 0.7276
+2025-06-06 01:53:45,191 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 01:53:45,191 - INFO - root - Early stop!!! Best epoch for [ig]: 37
+2025-06-06 01:53:45,191 - INFO - root - Best evaluation accuracy [ig]: 0.7423
+2025-06-06 01:53:45,191 - INFO - root - Best evaluation F1 [ig]: 0.7384
+2025-06-06 01:53:45,191 - INFO - root - Loading weights from the best model (best epoch 37)...
+2025-06-06 01:55:02,736 - INFO - root - ***** Task ig - Epoch 39: test (seed 0) *****
+2025-06-06 01:55:02,736 - INFO - root - Accuracy: 0.7216
+2025-06-06 01:55:02,736 - INFO - root - F1 weighted: 0.7134
+2025-06-06 01:55:02,736 - INFO - root - F1 macro: 0.7003
+2025-06-06 01:55:02,737 - INFO - root - Best test accuracy [ig]: 0.7216
+2025-06-06 01:55:02,737 - INFO - root - Best test F1 [ig]: 0.7134
+2025-06-06 01:55:02,741 - INFO - root - ***** Running training - task 4: kr*****
+2025-06-06 01:55:02,741 - INFO - root -   Num Epochs = 40
+2025-06-06 01:55:02,741 - INFO - root -   Num examples datasets = 3304
+2025-06-06 01:55:02,741 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 01:55:02,742 - INFO - root -   Total optimization steps = 16520
+2025-06-06 01:55:02,742 - INFO - root -   Num examples training = 132160
+2025-06-06 01:56:37,623 - INFO - root - ***** Task kr - Epoch 0: val (seed 0) *****
+2025-06-06 01:56:37,623 - INFO - root - Accuracy: 0.6347
+2025-06-06 01:56:37,623 - INFO - root - F1 weighted: 0.6328
+2025-06-06 01:56:37,623 - INFO - root - F1 macro: 0.6377
+2025-06-06 01:58:34,479 - INFO - root - ***** Task kr - Epoch 1: val (seed 0) *****
+2025-06-06 01:58:34,479 - INFO - root - Accuracy: 0.6397
+2025-06-06 01:58:34,479 - INFO - root - F1 weighted: 0.6407
+2025-06-06 01:58:34,479 - INFO - root - F1 macro: 0.6437
+2025-06-06 02:00:31,391 - INFO - root - ***** Task kr - Epoch 2: val (seed 0) *****
+2025-06-06 02:00:31,391 - INFO - root - Accuracy: 0.6658
+2025-06-06 02:00:31,391 - INFO - root - F1 weighted: 0.6666
+2025-06-06 02:00:31,391 - INFO - root - F1 macro: 0.669
+2025-06-06 02:02:28,755 - INFO - root - ***** Task kr - Epoch 3: val (seed 0) *****
+2025-06-06 02:02:28,755 - INFO - root - Accuracy: 0.6758
+2025-06-06 02:02:28,755 - INFO - root - F1 weighted: 0.676
+2025-06-06 02:02:28,755 - INFO - root - F1 macro: 0.6793
+2025-06-06 02:04:27,184 - INFO - root - ***** Task kr - Epoch 4: val (seed 0) *****
+2025-06-06 02:04:27,184 - INFO - root - Accuracy: 0.6746
+2025-06-06 02:04:27,184 - INFO - root - F1 weighted: 0.6751
+2025-06-06 02:04:27,184 - INFO - root - F1 macro: 0.6777
+2025-06-06 02:04:27,184 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:06:03,001 - INFO - root - ***** Task kr - Epoch 5: val (seed 0) *****
+2025-06-06 02:06:03,001 - INFO - root - Accuracy: 0.6771
+2025-06-06 02:06:03,001 - INFO - root - F1 weighted: 0.6758
+2025-06-06 02:06:03,001 - INFO - root - F1 macro: 0.6799
+2025-06-06 02:06:03,001 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 02:07:39,163 - INFO - root - ***** Task kr - Epoch 6: val (seed 0) *****
+2025-06-06 02:07:39,163 - INFO - root - Accuracy: 0.6733
+2025-06-06 02:07:39,163 - INFO - root - F1 weighted: 0.6731
+2025-06-06 02:07:39,163 - INFO - root - F1 macro: 0.6759
+2025-06-06 02:07:39,163 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 02:09:15,332 - INFO - root - ***** Task kr - Epoch 7: val (seed 0) *****
+2025-06-06 02:09:15,332 - INFO - root - Accuracy: 0.6845
+2025-06-06 02:09:15,332 - INFO - root - F1 weighted: 0.6837
+2025-06-06 02:09:15,332 - INFO - root - F1 macro: 0.687
+2025-06-06 02:11:12,828 - INFO - root - ***** Task kr - Epoch 8: val (seed 0) *****
+2025-06-06 02:11:12,828 - INFO - root - Accuracy: 0.6908
+2025-06-06 02:11:12,828 - INFO - root - F1 weighted: 0.6901
+2025-06-06 02:11:12,828 - INFO - root - F1 macro: 0.6929
+2025-06-06 02:13:10,756 - INFO - root - ***** Task kr - Epoch 9: val (seed 0) *****
+2025-06-06 02:13:10,756 - INFO - root - Accuracy: 0.6796
+2025-06-06 02:13:10,756 - INFO - root - F1 weighted: 0.6794
+2025-06-06 02:13:10,756 - INFO - root - F1 macro: 0.6825
+2025-06-06 02:13:10,757 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:14:46,985 - INFO - root - ***** Task kr - Epoch 10: val (seed 0) *****
+2025-06-06 02:14:46,985 - INFO - root - Accuracy: 0.6895
+2025-06-06 02:14:46,985 - INFO - root - F1 weighted: 0.6897
+2025-06-06 02:14:46,985 - INFO - root - F1 macro: 0.6911
+2025-06-06 02:14:46,986 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 02:16:23,072 - INFO - root - ***** Task kr - Epoch 11: val (seed 0) *****
+2025-06-06 02:16:23,072 - INFO - root - Accuracy: 0.6833
+2025-06-06 02:16:23,072 - INFO - root - F1 weighted: 0.6839
+2025-06-06 02:16:23,072 - INFO - root - F1 macro: 0.6851
+2025-06-06 02:16:23,072 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 02:17:58,914 - INFO - root - ***** Task kr - Epoch 12: val (seed 0) *****
+2025-06-06 02:17:58,915 - INFO - root - Accuracy: 0.6858
+2025-06-06 02:17:58,915 - INFO - root - F1 weighted: 0.6841
+2025-06-06 02:17:58,915 - INFO - root - F1 macro: 0.6884
+2025-06-06 02:17:58,915 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 02:19:34,863 - INFO - root - ***** Task kr - Epoch 13: val (seed 0) *****
+2025-06-06 02:19:34,863 - INFO - root - Accuracy: 0.692
+2025-06-06 02:19:34,863 - INFO - root - F1 weighted: 0.6907
+2025-06-06 02:19:34,863 - INFO - root - F1 macro: 0.6948
+2025-06-06 02:21:32,663 - INFO - root - ***** Task kr - Epoch 14: val (seed 0) *****
+2025-06-06 02:21:32,663 - INFO - root - Accuracy: 0.697
+2025-06-06 02:21:32,663 - INFO - root - F1 weighted: 0.6967
+2025-06-06 02:21:32,663 - INFO - root - F1 macro: 0.7005
+2025-06-06 02:23:30,015 - INFO - root - ***** Task kr - Epoch 15: val (seed 0) *****
+2025-06-06 02:23:30,015 - INFO - root - Accuracy: 0.6958
+2025-06-06 02:23:30,015 - INFO - root - F1 weighted: 0.6959
+2025-06-06 02:23:30,015 - INFO - root - F1 macro: 0.698
+2025-06-06 02:23:30,015 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:25:05,566 - INFO - root - ***** Task kr - Epoch 16: val (seed 0) *****
+2025-06-06 02:25:05,566 - INFO - root - Accuracy: 0.6983
+2025-06-06 02:25:05,566 - INFO - root - F1 weighted: 0.6978
+2025-06-06 02:25:05,566 - INFO - root - F1 macro: 0.7017
+2025-06-06 02:27:03,871 - INFO - root - ***** Task kr - Epoch 17: val (seed 0) *****
+2025-06-06 02:27:03,871 - INFO - root - Accuracy: 0.697
+2025-06-06 02:27:03,871 - INFO - root - F1 weighted: 0.6968
+2025-06-06 02:27:03,871 - INFO - root - F1 macro: 0.6995
+2025-06-06 02:27:03,871 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:28:39,151 - INFO - root - ***** Task kr - Epoch 18: val (seed 0) *****
+2025-06-06 02:28:39,151 - INFO - root - Accuracy: 0.6808
+2025-06-06 02:28:39,151 - INFO - root - F1 weighted: 0.6813
+2025-06-06 02:28:39,151 - INFO - root - F1 macro: 0.6829
+2025-06-06 02:28:39,151 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 02:30:14,067 - INFO - root - ***** Task kr - Epoch 19: val (seed 0) *****
+2025-06-06 02:30:14,067 - INFO - root - Accuracy: 0.6933
+2025-06-06 02:30:14,067 - INFO - root - F1 weighted: 0.6932
+2025-06-06 02:30:14,067 - INFO - root - F1 macro: 0.6968
+2025-06-06 02:30:14,068 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 02:31:48,990 - INFO - root - ***** Task kr - Epoch 20: val (seed 0) *****
+2025-06-06 02:31:48,990 - INFO - root - Accuracy: 0.6933
+2025-06-06 02:31:48,990 - INFO - root - F1 weighted: 0.692
+2025-06-06 02:31:48,990 - INFO - root - F1 macro: 0.6966
+2025-06-06 02:31:48,990 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 02:33:25,158 - INFO - root - ***** Task kr - Epoch 21: val (seed 0) *****
+2025-06-06 02:33:25,158 - INFO - root - Accuracy: 0.6883
+2025-06-06 02:33:25,158 - INFO - root - F1 weighted: 0.6886
+2025-06-06 02:33:25,158 - INFO - root - F1 macro: 0.6901
+2025-06-06 02:33:25,158 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 02:33:25,158 - INFO - root - Early stop!!! Best epoch for [kr]: 16
+2025-06-06 02:33:25,158 - INFO - root - Best evaluation accuracy [kr]: 0.6983
+2025-06-06 02:33:25,158 - INFO - root - Best evaluation F1 [kr]: 0.6978
+2025-06-06 02:33:25,158 - INFO - root - Loading weights from the best model (best epoch 16)...
+2025-06-06 02:34:11,477 - INFO - root - ***** Task kr - Epoch 21: test (seed 0) *****
+2025-06-06 02:34:11,477 - INFO - root - Accuracy: 0.692
+2025-06-06 02:34:11,477 - INFO - root - F1 weighted: 0.6918
+2025-06-06 02:34:11,477 - INFO - root - F1 macro: 0.6941
+2025-06-06 02:34:11,478 - INFO - root - Best test accuracy [kr]: 0.692
+2025-06-06 02:34:11,478 - INFO - root - Best test F1 [kr]: 0.6918
+2025-06-06 02:34:11,482 - INFO - root - ***** Running training - task 5: ma*****
+2025-06-06 02:34:11,482 - INFO - root -   Num Epochs = 40
+2025-06-06 02:34:11,482 - INFO - root -   Num examples datasets = 5584
+2025-06-06 02:34:11,482 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 02:34:11,482 - INFO - root -   Total optimization steps = 27920
+2025-06-06 02:34:11,482 - INFO - root -   Num examples training = 223360
+2025-06-06 02:36:29,755 - INFO - root - ***** Task ma - Epoch 0: val (seed 0) *****
+2025-06-06 02:36:29,755 - INFO - root - Accuracy: 0.67
+2025-06-06 02:36:29,755 - INFO - root - F1 weighted: 0.6664
+2025-06-06 02:36:29,755 - INFO - root - F1 macro: 0.6675
+2025-06-06 02:39:08,611 - INFO - root - ***** Task ma - Epoch 1: val (seed 0) *****
+2025-06-06 02:39:08,611 - INFO - root - Accuracy: 0.61
+2025-06-06 02:39:08,611 - INFO - root - F1 weighted: 0.6093
+2025-06-06 02:39:08,611 - INFO - root - F1 macro: 0.6119
+2025-06-06 02:39:08,611 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:41:25,699 - INFO - root - ***** Task ma - Epoch 2: val (seed 0) *****
+2025-06-06 02:41:25,699 - INFO - root - Accuracy: 0.68
+2025-06-06 02:41:25,699 - INFO - root - F1 weighted: 0.6785
+2025-06-06 02:41:25,700 - INFO - root - F1 macro: 0.6791
+2025-06-06 02:44:05,004 - INFO - root - ***** Task ma - Epoch 3: val (seed 0) *****
+2025-06-06 02:44:05,004 - INFO - root - Accuracy: 0.64
+2025-06-06 02:44:05,004 - INFO - root - F1 weighted: 0.6434
+2025-06-06 02:44:05,004 - INFO - root - F1 macro: 0.6487
+2025-06-06 02:44:05,004 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 02:46:23,142 - INFO - root - ***** Task ma - Epoch 4: val (seed 0) *****
+2025-06-06 02:46:23,142 - INFO - root - Accuracy: 0.67
+2025-06-06 02:46:23,143 - INFO - root - F1 weighted: 0.6666
+2025-06-06 02:46:23,143 - INFO - root - F1 macro: 0.6678
+2025-06-06 02:46:23,143 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 02:48:42,358 - INFO - root - ***** Task ma - Epoch 5: val (seed 0) *****
+2025-06-06 02:48:42,359 - INFO - root - Accuracy: 0.64
+2025-06-06 02:48:42,359 - INFO - root - F1 weighted: 0.6353
+2025-06-06 02:48:42,359 - INFO - root - F1 macro: 0.6398
+2025-06-06 02:48:42,359 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 02:50:58,649 - INFO - root - ***** Task ma - Epoch 6: val (seed 0) *****
+2025-06-06 02:50:58,649 - INFO - root - Accuracy: 0.67
+2025-06-06 02:50:58,649 - INFO - root - F1 weighted: 0.6641
+2025-06-06 02:50:58,649 - INFO - root - F1 macro: 0.6668
+2025-06-06 02:50:58,649 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 02:53:16,395 - INFO - root - ***** Task ma - Epoch 7: val (seed 0) *****
+2025-06-06 02:53:16,396 - INFO - root - Accuracy: 0.65
+2025-06-06 02:53:16,396 - INFO - root - F1 weighted: 0.6505
+2025-06-06 02:53:16,396 - INFO - root - F1 macro: 0.6543
+2025-06-06 02:53:16,396 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 02:53:16,396 - INFO - root - Early stop!!! Best epoch for [ma]: 2
+2025-06-06 02:53:16,396 - INFO - root - Best evaluation accuracy [ma]: 0.68
+2025-06-06 02:53:16,396 - INFO - root - Best evaluation F1 [ma]: 0.6785
+2025-06-06 02:53:16,396 - INFO - root - Loading weights from the best model (best epoch 2)...
+2025-06-06 02:54:25,898 - INFO - root - ***** Task ma - Epoch 7: test (seed 0) *****
+2025-06-06 02:54:25,898 - INFO - root - Accuracy: 0.5316
+2025-06-06 02:54:25,898 - INFO - root - F1 weighted: 0.5179
+2025-06-06 02:54:25,898 - INFO - root - F1 macro: 0.5101
+2025-06-06 02:54:25,899 - INFO - root - Best test accuracy [ma]: 0.5316
+2025-06-06 02:54:25,927 - INFO - root - Best test F1 [ma]: 0.5179
+2025-06-06 02:54:25,935 - INFO - root - ***** Running training - task 6: pcm*****
+2025-06-06 02:54:25,935 - INFO - root -   Num Epochs = 40
+2025-06-06 02:54:25,935 - INFO - root -   Num examples datasets = 5128
+2025-06-06 02:54:25,936 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 02:54:25,936 - INFO - root -   Total optimization steps = 25640
+2025-06-06 02:54:25,936 - INFO - root -   Num examples training = 205120
+2025-06-06 02:56:46,775 - INFO - root - ***** Task pcm - Epoch 0: val (seed 0) *****
+2025-06-06 02:56:46,775 - INFO - root - Accuracy: 0.74
+2025-06-06 02:56:46,775 - INFO - root - F1 weighted: 0.729
+2025-06-06 02:56:46,775 - INFO - root - F1 macro: 0.4759
+2025-06-06 02:59:30,924 - INFO - root - ***** Task pcm - Epoch 1: val (seed 0) *****
+2025-06-06 02:59:30,925 - INFO - root - Accuracy: 0.7419
+2025-06-06 02:59:30,925 - INFO - root - F1 weighted: 0.7271
+2025-06-06 02:59:30,925 - INFO - root - F1 macro: 0.4721
+2025-06-06 02:59:30,925 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:01:52,903 - INFO - root - ***** Task pcm - Epoch 2: val (seed 0) *****
+2025-06-06 03:01:52,903 - INFO - root - Accuracy: 0.7409
+2025-06-06 03:01:52,903 - INFO - root - F1 weighted: 0.7243
+2025-06-06 03:01:52,903 - INFO - root - F1 macro: 0.4693
+2025-06-06 03:01:52,903 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:04:13,554 - INFO - root - ***** Task pcm - Epoch 3: val (seed 0) *****
+2025-06-06 03:04:13,554 - INFO - root - Accuracy: 0.7447
+2025-06-06 03:04:13,554 - INFO - root - F1 weighted: 0.7303
+2025-06-06 03:04:13,554 - INFO - root - F1 macro: 0.475
+2025-06-06 03:06:56,892 - INFO - root - ***** Task pcm - Epoch 4: val (seed 0) *****
+2025-06-06 03:06:56,892 - INFO - root - Accuracy: 0.7352
+2025-06-06 03:06:56,892 - INFO - root - F1 weighted: 0.7164
+2025-06-06 03:06:56,892 - INFO - root - F1 macro: 0.4619
+2025-06-06 03:06:56,893 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:09:17,240 - INFO - root - ***** Task pcm - Epoch 5: val (seed 0) *****
+2025-06-06 03:09:17,240 - INFO - root - Accuracy: 0.7361
+2025-06-06 03:09:17,241 - INFO - root - F1 weighted: 0.7176
+2025-06-06 03:09:17,241 - INFO - root - F1 macro: 0.4629
+2025-06-06 03:09:17,241 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:11:38,543 - INFO - root - ***** Task pcm - Epoch 6: val (seed 0) *****
+2025-06-06 03:11:38,544 - INFO - root - Accuracy: 0.7333
+2025-06-06 03:11:38,544 - INFO - root - F1 weighted: 0.7082
+2025-06-06 03:11:38,544 - INFO - root - F1 macro: 0.453
+2025-06-06 03:11:38,544 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 03:13:58,841 - INFO - root - ***** Task pcm - Epoch 7: val (seed 0) *****
+2025-06-06 03:13:58,841 - INFO - root - Accuracy: 0.7467
+2025-06-06 03:13:58,841 - INFO - root - F1 weighted: 0.7366
+2025-06-06 03:13:58,841 - INFO - root - F1 macro: 0.4823
+2025-06-06 03:16:41,738 - INFO - root - ***** Task pcm - Epoch 8: val (seed 0) *****
+2025-06-06 03:16:41,738 - INFO - root - Accuracy: 0.7467
+2025-06-06 03:16:41,738 - INFO - root - F1 weighted: 0.7308
+2025-06-06 03:16:41,738 - INFO - root - F1 macro: 0.4745
+2025-06-06 03:16:41,738 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:19:01,810 - INFO - root - ***** Task pcm - Epoch 9: val (seed 0) *****
+2025-06-06 03:19:01,810 - INFO - root - Accuracy: 0.7467
+2025-06-06 03:19:01,810 - INFO - root - F1 weighted: 0.7294
+2025-06-06 03:19:01,810 - INFO - root - F1 macro: 0.4728
+2025-06-06 03:19:01,810 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:21:22,034 - INFO - root - ***** Task pcm - Epoch 10: val (seed 0) *****
+2025-06-06 03:21:22,035 - INFO - root - Accuracy: 0.7476
+2025-06-06 03:21:22,035 - INFO - root - F1 weighted: 0.7276
+2025-06-06 03:21:22,035 - INFO - root - F1 macro: 0.4701
+2025-06-06 03:21:22,035 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 03:23:44,086 - INFO - root - ***** Task pcm - Epoch 11: val (seed 0) *****
+2025-06-06 03:23:44,086 - INFO - root - Accuracy: 0.7371
+2025-06-06 03:23:44,086 - INFO - root - F1 weighted: 0.7301
+2025-06-06 03:23:44,086 - INFO - root - F1 macro: 0.4793
+2025-06-06 03:23:44,087 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 03:26:05,288 - INFO - root - ***** Task pcm - Epoch 12: val (seed 0) *****
+2025-06-06 03:26:05,288 - INFO - root - Accuracy: 0.74
+2025-06-06 03:26:05,288 - INFO - root - F1 weighted: 0.7306
+2025-06-06 03:26:05,288 - INFO - root - F1 macro: 0.4781
+2025-06-06 03:26:05,289 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 03:26:05,289 - INFO - root - Early stop!!! Best epoch for [pcm]: 7
+2025-06-06 03:26:05,289 - INFO - root - Best evaluation accuracy [pcm]: 0.7467
+2025-06-06 03:26:05,289 - INFO - root - Best evaluation F1 [pcm]: 0.7366
+2025-06-06 03:26:05,289 - INFO - root - Loading weights from the best model (best epoch 7)...
+2025-06-06 03:27:33,311 - INFO - root - ***** Task pcm - Epoch 12: test (seed 0) *****
+2025-06-06 03:27:33,311 - INFO - root - Accuracy: 0.7032
+2025-06-06 03:27:33,311 - INFO - root - F1 weighted: 0.6623
+2025-06-06 03:27:33,312 - INFO - root - F1 macro: 0.4823
+2025-06-06 03:27:33,312 - INFO - root - Best test accuracy [pcm]: 0.7032
+2025-06-06 03:27:33,312 - INFO - root - Best test F1 [pcm]: 0.6623
+2025-06-06 03:27:33,317 - INFO - root - ***** Running training - task 7: pt*****
+2025-06-06 03:27:33,317 - INFO - root -   Num Epochs = 40
+2025-06-06 03:27:33,317 - INFO - root -   Num examples datasets = 3064
+2025-06-06 03:27:33,317 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 03:27:33,317 - INFO - root -   Total optimization steps = 15320
+2025-06-06 03:27:33,318 - INFO - root -   Num examples training = 122560
+2025-06-06 03:29:03,511 - INFO - root - ***** Task pt - Epoch 0: val (seed 0) *****
+2025-06-06 03:29:03,511 - INFO - root - Accuracy: 0.6676
+2025-06-06 03:29:03,511 - INFO - root - F1 weighted: 0.6663
+2025-06-06 03:29:03,511 - INFO - root - F1 macro: 0.6548
+2025-06-06 03:30:55,234 - INFO - root - ***** Task pt - Epoch 1: val (seed 0) *****
+2025-06-06 03:30:55,235 - INFO - root - Accuracy: 0.677
+2025-06-06 03:30:55,235 - INFO - root - F1 weighted: 0.6672
+2025-06-06 03:30:55,235 - INFO - root - F1 macro: 0.6469
+2025-06-06 03:32:46,323 - INFO - root - ***** Task pt - Epoch 2: val (seed 0) *****
+2025-06-06 03:32:46,323 - INFO - root - Accuracy: 0.6689
+2025-06-06 03:32:46,323 - INFO - root - F1 weighted: 0.6521
+2025-06-06 03:32:46,323 - INFO - root - F1 macro: 0.6258
+2025-06-06 03:32:46,323 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:34:15,367 - INFO - root - ***** Task pt - Epoch 3: val (seed 0) *****
+2025-06-06 03:34:15,368 - INFO - root - Accuracy: 0.6904
+2025-06-06 03:34:15,368 - INFO - root - F1 weighted: 0.6871
+2025-06-06 03:34:15,368 - INFO - root - F1 macro: 0.6719
+2025-06-06 03:36:05,079 - INFO - root - ***** Task pt - Epoch 4: val (seed 0) *****
+2025-06-06 03:36:05,080 - INFO - root - Accuracy: 0.6864
+2025-06-06 03:36:05,080 - INFO - root - F1 weighted: 0.6883
+2025-06-06 03:36:05,080 - INFO - root - F1 macro: 0.6838
+2025-06-06 03:37:55,283 - INFO - root - ***** Task pt - Epoch 5: val (seed 0) *****
+2025-06-06 03:37:55,283 - INFO - root - Accuracy: 0.681
+2025-06-06 03:37:55,283 - INFO - root - F1 weighted: 0.6818
+2025-06-06 03:37:55,283 - INFO - root - F1 macro: 0.6739
+2025-06-06 03:37:55,283 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:39:25,096 - INFO - root - ***** Task pt - Epoch 6: val (seed 0) *****
+2025-06-06 03:39:25,096 - INFO - root - Accuracy: 0.7026
+2025-06-06 03:39:25,096 - INFO - root - F1 weighted: 0.7013
+2025-06-06 03:39:25,096 - INFO - root - F1 macro: 0.6878
+2025-06-06 03:41:17,027 - INFO - root - ***** Task pt - Epoch 7: val (seed 0) *****
+2025-06-06 03:41:17,027 - INFO - root - Accuracy: 0.6945
+2025-06-06 03:41:17,027 - INFO - root - F1 weighted: 0.6939
+2025-06-06 03:41:17,027 - INFO - root - F1 macro: 0.6845
+2025-06-06 03:41:17,027 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:42:47,089 - INFO - root - ***** Task pt - Epoch 8: val (seed 0) *****
+2025-06-06 03:42:47,090 - INFO - root - Accuracy: 0.6945
+2025-06-06 03:42:47,090 - INFO - root - F1 weighted: 0.6943
+2025-06-06 03:42:47,090 - INFO - root - F1 macro: 0.6826
+2025-06-06 03:42:47,090 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:44:16,027 - INFO - root - ***** Task pt - Epoch 9: val (seed 0) *****
+2025-06-06 03:44:16,027 - INFO - root - Accuracy: 0.7012
+2025-06-06 03:44:16,027 - INFO - root - F1 weighted: 0.7017
+2025-06-06 03:44:16,027 - INFO - root - F1 macro: 0.6925
+2025-06-06 03:46:08,222 - INFO - root - ***** Task pt - Epoch 10: val (seed 0) *****
+2025-06-06 03:46:08,223 - INFO - root - Accuracy: 0.7093
+2025-06-06 03:46:08,223 - INFO - root - F1 weighted: 0.7067
+2025-06-06 03:46:08,223 - INFO - root - F1 macro: 0.6916
+2025-06-06 03:47:59,739 - INFO - root - ***** Task pt - Epoch 11: val (seed 0) *****
+2025-06-06 03:47:59,739 - INFO - root - Accuracy: 0.6999
+2025-06-06 03:47:59,739 - INFO - root - F1 weighted: 0.6938
+2025-06-06 03:47:59,739 - INFO - root - F1 macro: 0.6761
+2025-06-06 03:47:59,740 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:49:28,139 - INFO - root - ***** Task pt - Epoch 12: val (seed 0) *****
+2025-06-06 03:49:28,139 - INFO - root - Accuracy: 0.6985
+2025-06-06 03:49:28,139 - INFO - root - F1 weighted: 0.6986
+2025-06-06 03:49:28,139 - INFO - root - F1 macro: 0.6866
+2025-06-06 03:49:28,140 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:50:57,954 - INFO - root - ***** Task pt - Epoch 13: val (seed 0) *****
+2025-06-06 03:50:57,954 - INFO - root - Accuracy: 0.6985
+2025-06-06 03:50:57,955 - INFO - root - F1 weighted: 0.6977
+2025-06-06 03:50:57,955 - INFO - root - F1 macro: 0.6851
+2025-06-06 03:50:57,955 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 03:52:27,371 - INFO - root - ***** Task pt - Epoch 14: val (seed 0) *****
+2025-06-06 03:52:27,371 - INFO - root - Accuracy: 0.6864
+2025-06-06 03:52:27,371 - INFO - root - F1 weighted: 0.6881
+2025-06-06 03:52:27,371 - INFO - root - F1 macro: 0.683
+2025-06-06 03:52:27,372 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 03:53:56,018 - INFO - root - ***** Task pt - Epoch 15: val (seed 0) *****
+2025-06-06 03:53:56,018 - INFO - root - Accuracy: 0.7133
+2025-06-06 03:53:56,018 - INFO - root - F1 weighted: 0.7102
+2025-06-06 03:53:56,019 - INFO - root - F1 macro: 0.6941
+2025-06-06 03:55:47,848 - INFO - root - ***** Task pt - Epoch 16: val (seed 0) *****
+2025-06-06 03:55:47,848 - INFO - root - Accuracy: 0.6743
+2025-06-06 03:55:47,848 - INFO - root - F1 weighted: 0.6752
+2025-06-06 03:55:47,848 - INFO - root - F1 macro: 0.6735
+2025-06-06 03:55:47,848 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 03:57:17,800 - INFO - root - ***** Task pt - Epoch 17: val (seed 0) *****
+2025-06-06 03:57:17,800 - INFO - root - Accuracy: 0.7039
+2025-06-06 03:57:17,800 - INFO - root - F1 weighted: 0.7044
+2025-06-06 03:57:17,800 - INFO - root - F1 macro: 0.6942
+2025-06-06 03:57:17,801 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 03:58:47,302 - INFO - root - ***** Task pt - Epoch 18: val (seed 0) *****
+2025-06-06 03:58:47,302 - INFO - root - Accuracy: 0.7012
+2025-06-06 03:58:47,302 - INFO - root - F1 weighted: 0.7022
+2025-06-06 03:58:47,302 - INFO - root - F1 macro: 0.6945
+2025-06-06 03:58:47,302 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 04:00:16,840 - INFO - root - ***** Task pt - Epoch 19: val (seed 0) *****
+2025-06-06 04:00:16,841 - INFO - root - Accuracy: 0.7106
+2025-06-06 04:00:16,841 - INFO - root - F1 weighted: 0.7106
+2025-06-06 04:00:16,841 - INFO - root - F1 macro: 0.6997
+2025-06-06 04:02:08,264 - INFO - root - ***** Task pt - Epoch 20: val (seed 0) *****
+2025-06-06 04:02:08,265 - INFO - root - Accuracy: 0.716
+2025-06-06 04:02:08,265 - INFO - root - F1 weighted: 0.7146
+2025-06-06 04:02:08,265 - INFO - root - F1 macro: 0.7008
+2025-06-06 04:04:06,363 - INFO - root - ***** Task pt - Epoch 21: val (seed 0) *****
+2025-06-06 04:04:06,363 - INFO - root - Accuracy: 0.6985
+2025-06-06 04:04:06,363 - INFO - root - F1 weighted: 0.6995
+2025-06-06 04:04:06,363 - INFO - root - F1 macro: 0.6926
+2025-06-06 04:04:06,364 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:05:35,975 - INFO - root - ***** Task pt - Epoch 22: val (seed 0) *****
+2025-06-06 04:05:35,975 - INFO - root - Accuracy: 0.7052
+2025-06-06 04:05:35,975 - INFO - root - F1 weighted: 0.706
+2025-06-06 04:05:35,975 - INFO - root - F1 macro: 0.698
+2025-06-06 04:05:35,975 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:07:05,965 - INFO - root - ***** Task pt - Epoch 23: val (seed 0) *****
+2025-06-06 04:07:05,965 - INFO - root - Accuracy: 0.712
+2025-06-06 04:07:05,965 - INFO - root - F1 weighted: 0.711
+2025-06-06 04:07:05,965 - INFO - root - F1 macro: 0.6989
+2025-06-06 04:07:05,966 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 04:08:35,711 - INFO - root - ***** Task pt - Epoch 24: val (seed 0) *****
+2025-06-06 04:08:35,711 - INFO - root - Accuracy: 0.7026
+2025-06-06 04:08:35,711 - INFO - root - F1 weighted: 0.7028
+2025-06-06 04:08:35,711 - INFO - root - F1 macro: 0.6945
+2025-06-06 04:08:35,712 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 04:10:05,710 - INFO - root - ***** Task pt - Epoch 25: val (seed 0) *****
+2025-06-06 04:10:05,710 - INFO - root - Accuracy: 0.7106
+2025-06-06 04:10:05,710 - INFO - root - F1 weighted: 0.7103
+2025-06-06 04:10:05,710 - INFO - root - F1 macro: 0.6996
+2025-06-06 04:10:05,711 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 04:10:05,711 - INFO - root - Early stop!!! Best epoch for [pt]: 20
+2025-06-06 04:10:05,711 - INFO - root - Best evaluation accuracy [pt]: 0.716
+2025-06-06 04:10:05,711 - INFO - root - Best evaluation F1 [pt]: 0.7146
+2025-06-06 04:10:05,711 - INFO - root - Loading weights from the best model (best epoch 20)...
+2025-06-06 04:11:23,183 - INFO - root - ***** Task pt - Epoch 25: test (seed 0) *****
+2025-06-06 04:11:23,183 - INFO - root - Accuracy: 0.6942
+2025-06-06 04:11:23,183 - INFO - root - F1 weighted: 0.6992
+2025-06-06 04:11:23,183 - INFO - root - F1 macro: 0.6356
+2025-06-06 04:11:23,185 - INFO - root - Best test accuracy [pt]: 0.6942
+2025-06-06 04:11:23,185 - INFO - root - Best test F1 [pt]: 0.6992
+2025-06-06 04:11:23,189 - INFO - root - ***** Running training - task 8: sw*****
+2025-06-06 04:11:23,190 - INFO - root -   Num Epochs = 40
+2025-06-06 04:11:23,190 - INFO - root -   Num examples datasets = 1816
+2025-06-06 04:11:23,190 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 04:11:23,190 - INFO - root -   Total optimization steps = 9080
+2025-06-06 04:11:23,190 - INFO - root -   Num examples training = 72640
+2025-06-06 04:12:19,564 - INFO - root - ***** Task sw - Epoch 0: val (seed 0) *****
+2025-06-06 04:12:19,564 - INFO - root - Accuracy: 0.62
+2025-06-06 04:12:19,564 - INFO - root - F1 weighted: 0.5703
+2025-06-06 04:12:19,564 - INFO - root - F1 macro: 0.4056
+2025-06-06 04:13:37,599 - INFO - root - ***** Task sw - Epoch 1: val (seed 0) *****
+2025-06-06 04:13:37,599 - INFO - root - Accuracy: 0.6378
+2025-06-06 04:13:37,599 - INFO - root - F1 weighted: 0.5896
+2025-06-06 04:13:37,599 - INFO - root - F1 macro: 0.4689
+2025-06-06 04:14:55,311 - INFO - root - ***** Task sw - Epoch 2: val (seed 0) *****
+2025-06-06 04:14:55,311 - INFO - root - Accuracy: 0.64
+2025-06-06 04:14:55,311 - INFO - root - F1 weighted: 0.628
+2025-06-06 04:14:55,311 - INFO - root - F1 macro: 0.5425
+2025-06-06 04:16:14,715 - INFO - root - ***** Task sw - Epoch 3: val (seed 0) *****
+2025-06-06 04:16:14,716 - INFO - root - Accuracy: 0.6422
+2025-06-06 04:16:14,716 - INFO - root - F1 weighted: 0.6383
+2025-06-06 04:16:14,716 - INFO - root - F1 macro: 0.5717
+2025-06-06 04:17:32,909 - INFO - root - ***** Task sw - Epoch 4: val (seed 0) *****
+2025-06-06 04:17:32,909 - INFO - root - Accuracy: 0.6222
+2025-06-06 04:17:32,909 - INFO - root - F1 weighted: 0.6097
+2025-06-06 04:17:32,910 - INFO - root - F1 macro: 0.5366
+2025-06-06 04:17:32,910 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:18:29,485 - INFO - root - ***** Task sw - Epoch 5: val (seed 0) *****
+2025-06-06 04:18:29,485 - INFO - root - Accuracy: 0.6178
+2025-06-06 04:18:29,485 - INFO - root - F1 weighted: 0.6095
+2025-06-06 04:18:29,485 - INFO - root - F1 macro: 0.5463
+2025-06-06 04:18:29,485 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:19:25,629 - INFO - root - ***** Task sw - Epoch 6: val (seed 0) *****
+2025-06-06 04:19:25,629 - INFO - root - Accuracy: 0.6356
+2025-06-06 04:19:25,629 - INFO - root - F1 weighted: 0.6167
+2025-06-06 04:19:25,629 - INFO - root - F1 macro: 0.551
+2025-06-06 04:19:25,629 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 04:20:20,558 - INFO - root - ***** Task sw - Epoch 7: val (seed 0) *****
+2025-06-06 04:20:20,558 - INFO - root - Accuracy: 0.6311
+2025-06-06 04:20:20,558 - INFO - root - F1 weighted: 0.6142
+2025-06-06 04:20:20,558 - INFO - root - F1 macro: 0.5413
+2025-06-06 04:20:20,558 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 04:21:17,846 - INFO - root - ***** Task sw - Epoch 8: val (seed 0) *****
+2025-06-06 04:21:17,846 - INFO - root - Accuracy: 0.6067
+2025-06-06 04:21:17,846 - INFO - root - F1 weighted: 0.6026
+2025-06-06 04:21:17,847 - INFO - root - F1 macro: 0.5446
+2025-06-06 04:21:17,847 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 04:21:17,847 - INFO - root - Early stop!!! Best epoch for [sw]: 3
+2025-06-06 04:21:17,848 - INFO - root - Best evaluation accuracy [sw]: 0.6422
+2025-06-06 04:21:17,848 - INFO - root - Best evaluation F1 [sw]: 0.6383
+2025-06-06 04:21:17,848 - INFO - root - Loading weights from the best model (best epoch 3)...
+2025-06-06 04:21:54,818 - INFO - root - ***** Task sw - Epoch 8: test (seed 0) *****
+2025-06-06 04:21:54,818 - INFO - root - Accuracy: 0.6217
+2025-06-06 04:21:54,818 - INFO - root - F1 weighted: 0.6211
+2025-06-06 04:21:54,818 - INFO - root - F1 macro: 0.5854
+2025-06-06 04:21:54,819 - INFO - root - Best test accuracy [sw]: 0.6217
+2025-06-06 04:21:54,819 - INFO - root - Best test F1 [sw]: 0.6211
+2025-06-06 04:21:54,823 - INFO - root - ***** Running training - task 9: ts*****
+2025-06-06 04:21:54,823 - INFO - root -   Num Epochs = 40
+2025-06-06 04:21:54,824 - INFO - root -   Num examples datasets = 808
+2025-06-06 04:21:54,824 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 04:21:54,824 - INFO - root -   Total optimization steps = 4040
+2025-06-06 04:21:54,824 - INFO - root -   Num examples training = 32320
+2025-06-06 04:22:24,533 - INFO - root - ***** Task ts - Epoch 0: val (seed 0) *****
+2025-06-06 04:22:24,533 - INFO - root - Accuracy: 0.5616
+2025-06-06 04:22:24,533 - INFO - root - F1 weighted: 0.4914
+2025-06-06 04:22:24,533 - INFO - root - F1 macro: 0.3853
+2025-06-06 04:23:16,357 - INFO - root - ***** Task ts - Epoch 1: val (seed 0) *****
+2025-06-06 04:23:16,358 - INFO - root - Accuracy: 0.5961
+2025-06-06 04:23:16,358 - INFO - root - F1 weighted: 0.5448
+2025-06-06 04:23:16,358 - INFO - root - F1 macro: 0.4458
+2025-06-06 04:24:06,973 - INFO - root - ***** Task ts - Epoch 2: val (seed 0) *****
+2025-06-06 04:24:06,973 - INFO - root - Accuracy: 0.5714
+2025-06-06 04:24:06,973 - INFO - root - F1 weighted: 0.5098
+2025-06-06 04:24:06,973 - INFO - root - F1 macro: 0.4041
+2025-06-06 04:24:06,973 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:24:37,352 - INFO - root - ***** Task ts - Epoch 3: val (seed 0) *****
+2025-06-06 04:24:37,352 - INFO - root - Accuracy: 0.5813
+2025-06-06 04:24:37,352 - INFO - root - F1 weighted: 0.5229
+2025-06-06 04:24:37,352 - INFO - root - F1 macro: 0.4154
+2025-06-06 04:24:37,352 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:25:08,709 - INFO - root - ***** Task ts - Epoch 4: val (seed 0) *****
+2025-06-06 04:25:08,709 - INFO - root - Accuracy: 0.5862
+2025-06-06 04:25:08,710 - INFO - root - F1 weighted: 0.5524
+2025-06-06 04:25:08,710 - INFO - root - F1 macro: 0.4778
+2025-06-06 04:25:59,398 - INFO - root - ***** Task ts - Epoch 5: val (seed 0) *****
+2025-06-06 04:25:59,398 - INFO - root - Accuracy: 0.5714
+2025-06-06 04:25:59,398 - INFO - root - F1 weighted: 0.5137
+2025-06-06 04:25:59,398 - INFO - root - F1 macro: 0.4081
+2025-06-06 04:25:59,398 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:26:30,420 - INFO - root - ***** Task ts - Epoch 6: val (seed 0) *****
+2025-06-06 04:26:30,420 - INFO - root - Accuracy: 0.5764
+2025-06-06 04:26:30,420 - INFO - root - F1 weighted: 0.5167
+2025-06-06 04:26:30,420 - INFO - root - F1 macro: 0.4186
+2025-06-06 04:26:30,421 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:27:00,241 - INFO - root - ***** Task ts - Epoch 7: val (seed 0) *****
+2025-06-06 04:27:00,241 - INFO - root - Accuracy: 0.5764
+2025-06-06 04:27:00,241 - INFO - root - F1 weighted: 0.5215
+2025-06-06 04:27:00,241 - INFO - root - F1 macro: 0.4154
+2025-06-06 04:27:00,241 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 04:27:30,894 - INFO - root - ***** Task ts - Epoch 8: val (seed 0) *****
+2025-06-06 04:27:30,894 - INFO - root - Accuracy: 0.5813
+2025-06-06 04:27:30,894 - INFO - root - F1 weighted: 0.5228
+2025-06-06 04:27:30,894 - INFO - root - F1 macro: 0.4163
+2025-06-06 04:27:30,894 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 04:28:02,150 - INFO - root - ***** Task ts - Epoch 9: val (seed 0) *****
+2025-06-06 04:28:02,150 - INFO - root - Accuracy: 0.5764
+2025-06-06 04:28:02,150 - INFO - root - F1 weighted: 0.5235
+2025-06-06 04:28:02,150 - INFO - root - F1 macro: 0.4173
+2025-06-06 04:28:02,151 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 04:28:02,151 - INFO - root - Early stop!!! Best epoch for [ts]: 4
+2025-06-06 04:28:02,151 - INFO - root - Best evaluation accuracy [ts]: 0.5862
+2025-06-06 04:28:02,151 - INFO - root - Best evaluation F1 [ts]: 0.5524
+2025-06-06 04:28:02,151 - INFO - root - Loading weights from the best model (best epoch 4)...
+2025-06-06 04:28:32,737 - INFO - root - ***** Task ts - Epoch 9: test (seed 0) *****
+2025-06-06 04:28:32,737 - INFO - root - Accuracy: 0.5
+2025-06-06 04:28:32,737 - INFO - root - F1 weighted: 0.4684
+2025-06-06 04:28:32,737 - INFO - root - F1 macro: 0.3878
+2025-06-06 04:28:32,737 - INFO - root - Best test accuracy [ts]: 0.5
+2025-06-06 04:28:32,738 - INFO - root - Best test F1 [ts]: 0.4684
+2025-06-06 04:28:32,742 - INFO - root - ***** Running training - task 10: twi*****
+2025-06-06 04:28:32,742 - INFO - root -   Num Epochs = 40
+2025-06-06 04:28:32,742 - INFO - root -   Num examples datasets = 3488
+2025-06-06 04:28:32,743 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 04:28:32,743 - INFO - root -   Total optimization steps = 17440
+2025-06-06 04:28:32,743 - INFO - root -   Num examples training = 139520
+2025-06-06 04:30:06,131 - INFO - root - ***** Task twi - Epoch 0: val (seed 0) *****
+2025-06-06 04:30:06,132 - INFO - root - Accuracy: 0.4985
+2025-06-06 04:30:06,132 - INFO - root - F1 weighted: 0.4546
+2025-06-06 04:30:06,132 - INFO - root - F1 macro: 0.3626
+2025-06-06 04:32:02,048 - INFO - root - ***** Task twi - Epoch 1: val (seed 0) *****
+2025-06-06 04:32:02,048 - INFO - root - Accuracy: 0.5015
+2025-06-06 04:32:02,048 - INFO - root - F1 weighted: 0.4568
+2025-06-06 04:32:02,048 - INFO - root - F1 macro: 0.3649
+2025-06-06 04:33:56,638 - INFO - root - ***** Task twi - Epoch 2: val (seed 0) *****
+2025-06-06 04:33:56,638 - INFO - root - Accuracy: 0.4954
+2025-06-06 04:33:56,639 - INFO - root - F1 weighted: 0.4516
+2025-06-06 04:33:56,639 - INFO - root - F1 macro: 0.3599
+2025-06-06 04:33:56,639 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:35:32,402 - INFO - root - ***** Task twi - Epoch 3: val (seed 0) *****
+2025-06-06 04:35:32,402 - INFO - root - Accuracy: 0.5046
+2025-06-06 04:35:32,402 - INFO - root - F1 weighted: 0.4598
+2025-06-06 04:35:32,402 - INFO - root - F1 macro: 0.3658
+2025-06-06 04:37:26,117 - INFO - root - ***** Task twi - Epoch 4: val (seed 0) *****
+2025-06-06 04:37:26,117 - INFO - root - Accuracy: 0.5229
+2025-06-06 04:37:26,118 - INFO - root - F1 weighted: 0.4806
+2025-06-06 04:37:26,118 - INFO - root - F1 macro: 0.3916
+2025-06-06 04:39:21,454 - INFO - root - ***** Task twi - Epoch 5: val (seed 0) *****
+2025-06-06 04:39:21,454 - INFO - root - Accuracy: 0.5229
+2025-06-06 04:39:21,454 - INFO - root - F1 weighted: 0.476
+2025-06-06 04:39:21,454 - INFO - root - F1 macro: 0.3813
+2025-06-06 04:39:21,454 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:40:53,734 - INFO - root - ***** Task twi - Epoch 6: val (seed 0) *****
+2025-06-06 04:40:53,735 - INFO - root - Accuracy: 0.5168
+2025-06-06 04:40:53,735 - INFO - root - F1 weighted: 0.47
+2025-06-06 04:40:53,735 - INFO - root - F1 macro: 0.3768
+2025-06-06 04:40:53,735 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:42:26,700 - INFO - root - ***** Task twi - Epoch 7: val (seed 0) *****
+2025-06-06 04:42:26,701 - INFO - root - Accuracy: 0.5505
+2025-06-06 04:42:26,701 - INFO - root - F1 weighted: 0.5081
+2025-06-06 04:42:26,701 - INFO - root - F1 macro: 0.4113
+2025-06-06 04:44:22,444 - INFO - root - ***** Task twi - Epoch 8: val (seed 0) *****
+2025-06-06 04:44:22,444 - INFO - root - Accuracy: 0.5657
+2025-06-06 04:44:22,444 - INFO - root - F1 weighted: 0.5037
+2025-06-06 04:44:22,444 - INFO - root - F1 macro: 0.3971
+2025-06-06 04:44:22,445 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:45:56,804 - INFO - root - ***** Task twi - Epoch 9: val (seed 0) *****
+2025-06-06 04:45:56,804 - INFO - root - Accuracy: 0.5596
+2025-06-06 04:45:56,805 - INFO - root - F1 weighted: 0.5008
+2025-06-06 04:45:56,805 - INFO - root - F1 macro: 0.395
+2025-06-06 04:45:56,805 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:47:29,591 - INFO - root - ***** Task twi - Epoch 10: val (seed 0) *****
+2025-06-06 04:47:29,591 - INFO - root - Accuracy: 0.5749
+2025-06-06 04:47:29,591 - INFO - root - F1 weighted: 0.5218
+2025-06-06 04:47:29,591 - INFO - root - F1 macro: 0.4133
+2025-06-06 04:49:25,338 - INFO - root - ***** Task twi - Epoch 11: val (seed 0) *****
+2025-06-06 04:49:25,338 - INFO - root - Accuracy: 0.5688
+2025-06-06 04:49:25,338 - INFO - root - F1 weighted: 0.5287
+2025-06-06 04:49:25,338 - INFO - root - F1 macro: 0.4309
+2025-06-06 04:51:21,342 - INFO - root - ***** Task twi - Epoch 12: val (seed 0) *****
+2025-06-06 04:51:21,342 - INFO - root - Accuracy: 0.581
+2025-06-06 04:51:21,342 - INFO - root - F1 weighted: 0.5311
+2025-06-06 04:51:21,342 - INFO - root - F1 macro: 0.4326
+2025-06-06 04:53:16,611 - INFO - root - ***** Task twi - Epoch 13: val (seed 0) *****
+2025-06-06 04:53:16,611 - INFO - root - Accuracy: 0.5413
+2025-06-06 04:53:16,611 - INFO - root - F1 weighted: 0.4961
+2025-06-06 04:53:16,611 - INFO - root - F1 macro: 0.3952
+2025-06-06 04:53:16,611 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:54:49,575 - INFO - root - ***** Task twi - Epoch 14: val (seed 0) *****
+2025-06-06 04:54:49,575 - INFO - root - Accuracy: 0.5627
+2025-06-06 04:54:49,575 - INFO - root - F1 weighted: 0.5184
+2025-06-06 04:54:49,575 - INFO - root - F1 macro: 0.4181
+2025-06-06 04:54:49,575 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 04:56:24,266 - INFO - root - ***** Task twi - Epoch 15: val (seed 0) *****
+2025-06-06 04:56:24,266 - INFO - root - Accuracy: 0.5841
+2025-06-06 04:56:24,266 - INFO - root - F1 weighted: 0.5362
+2025-06-06 04:56:24,266 - INFO - root - F1 macro: 0.432
+2025-06-06 04:58:19,705 - INFO - root - ***** Task twi - Epoch 16: val (seed 0) *****
+2025-06-06 04:58:19,705 - INFO - root - Accuracy: 0.5841
+2025-06-06 04:58:19,705 - INFO - root - F1 weighted: 0.5297
+2025-06-06 04:58:19,705 - INFO - root - F1 macro: 0.4258
+2025-06-06 04:58:19,705 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 04:59:54,538 - INFO - root - ***** Task twi - Epoch 17: val (seed 0) *****
+2025-06-06 04:59:54,538 - INFO - root - Accuracy: 0.5627
+2025-06-06 04:59:54,538 - INFO - root - F1 weighted: 0.5248
+2025-06-06 04:59:54,538 - INFO - root - F1 macro: 0.4327
+2025-06-06 04:59:54,538 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 05:01:28,920 - INFO - root - ***** Task twi - Epoch 18: val (seed 0) *****
+2025-06-06 05:01:28,920 - INFO - root - Accuracy: 0.5596
+2025-06-06 05:01:28,920 - INFO - root - F1 weighted: 0.5138
+2025-06-06 05:01:28,920 - INFO - root - F1 macro: 0.4074
+2025-06-06 05:01:28,920 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 05:03:03,253 - INFO - root - ***** Task twi - Epoch 19: val (seed 0) *****
+2025-06-06 05:03:03,253 - INFO - root - Accuracy: 0.5688
+2025-06-06 05:03:03,253 - INFO - root - F1 weighted: 0.5427
+2025-06-06 05:03:03,253 - INFO - root - F1 macro: 0.457
+2025-06-06 05:04:57,289 - INFO - root - ***** Task twi - Epoch 20: val (seed 0) *****
+2025-06-06 05:04:57,289 - INFO - root - Accuracy: 0.5749
+2025-06-06 05:04:57,290 - INFO - root - F1 weighted: 0.5365
+2025-06-06 05:04:57,290 - INFO - root - F1 macro: 0.4425
+2025-06-06 05:04:57,290 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 05:06:30,896 - INFO - root - ***** Task twi - Epoch 21: val (seed 0) *****
+2025-06-06 05:06:30,897 - INFO - root - Accuracy: 0.5872
+2025-06-06 05:06:30,897 - INFO - root - F1 weighted: 0.5376
+2025-06-06 05:06:30,897 - INFO - root - F1 macro: 0.4332
+2025-06-06 05:06:30,897 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 05:08:04,212 - INFO - root - ***** Task twi - Epoch 22: val (seed 0) *****
+2025-06-06 05:08:04,212 - INFO - root - Accuracy: 0.5872
+2025-06-06 05:08:04,212 - INFO - root - F1 weighted: 0.538
+2025-06-06 05:08:04,212 - INFO - root - F1 macro: 0.4279
+2025-06-06 05:08:04,213 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 05:09:37,949 - INFO - root - ***** Task twi - Epoch 23: val (seed 0) *****
+2025-06-06 05:09:37,949 - INFO - root - Accuracy: 0.5749
+2025-06-06 05:09:37,949 - INFO - root - F1 weighted: 0.5328
+2025-06-06 05:09:37,949 - INFO - root - F1 macro: 0.4303
+2025-06-06 05:09:37,949 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 05:11:11,368 - INFO - root - ***** Task twi - Epoch 24: val (seed 0) *****
+2025-06-06 05:11:11,368 - INFO - root - Accuracy: 0.5688
+2025-06-06 05:11:11,368 - INFO - root - F1 weighted: 0.5214
+2025-06-06 05:11:11,369 - INFO - root - F1 macro: 0.4149
+2025-06-06 05:11:11,369 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 05:11:11,369 - INFO - root - Early stop!!! Best epoch for [twi]: 19
+2025-06-06 05:11:11,369 - INFO - root - Best evaluation accuracy [twi]: 0.5688
+2025-06-06 05:11:11,369 - INFO - root - Best evaluation F1 [twi]: 0.5427
+2025-06-06 05:11:11,369 - INFO - root - Loading weights from the best model (best epoch 19)...
+2025-06-06 05:11:51,383 - INFO - root - ***** Task twi - Epoch 24: test (seed 0) *****
+2025-06-06 05:11:51,383 - INFO - root - Accuracy: 0.6059
+2025-06-06 05:11:51,383 - INFO - root - F1 weighted: 0.5832
+2025-06-06 05:11:51,383 - INFO - root - F1 macro: 0.4978
+2025-06-06 05:11:51,385 - INFO - root - Best test accuracy [twi]: 0.6059
+2025-06-06 05:11:51,385 - INFO - root - Best test F1 [twi]: 0.5832
+2025-06-06 05:11:51,389 - INFO - root - ***** Running training - task 11: yo*****
+2025-06-06 05:11:51,389 - INFO - root -   Num Epochs = 40
+2025-06-06 05:11:51,389 - INFO - root -   Num examples datasets = 8528
+2025-06-06 05:11:51,390 - INFO - root -   Instantaneous batch size per device = 8
+2025-06-06 05:11:51,390 - INFO - root -   Total optimization steps = 42640
+2025-06-06 05:11:51,390 - INFO - root -   Num examples training = 341120
+2025-06-06 05:15:42,147 - INFO - root - ***** Task yo - Epoch 0: val (seed 0) *****
+2025-06-06 05:15:42,147 - INFO - root - Accuracy: 0.6417
+2025-06-06 05:15:42,148 - INFO - root - F1 weighted: 0.6194
+2025-06-06 05:15:42,148 - INFO - root - F1 macro: 0.5763
+2025-06-06 05:19:55,950 - INFO - root - ***** Task yo - Epoch 1: val (seed 0) *****
+2025-06-06 05:19:55,950 - INFO - root - Accuracy: 0.675
+2025-06-06 05:19:55,950 - INFO - root - F1 weighted: 0.6757
+2025-06-06 05:19:55,950 - INFO - root - F1 macro: 0.6557
+2025-06-06 05:24:10,745 - INFO - root - ***** Task yo - Epoch 2: val (seed 0) *****
+2025-06-06 05:24:10,745 - INFO - root - Accuracy: 0.68
+2025-06-06 05:24:10,745 - INFO - root - F1 weighted: 0.6729
+2025-06-06 05:24:10,745 - INFO - root - F1 macro: 0.6458
+2025-06-06 05:24:10,746 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 05:28:03,131 - INFO - root - ***** Task yo - Epoch 3: val (seed 0) *****
+2025-06-06 05:28:03,131 - INFO - root - Accuracy: 0.6892
+2025-06-06 05:28:03,131 - INFO - root - F1 weighted: 0.6864
+2025-06-06 05:28:03,131 - INFO - root - F1 macro: 0.6637
+2025-06-06 05:32:16,724 - INFO - root - ***** Task yo - Epoch 4: val (seed 0) *****
+2025-06-06 05:32:16,724 - INFO - root - Accuracy: 0.6925
+2025-06-06 05:32:16,724 - INFO - root - F1 weighted: 0.687
+2025-06-06 05:32:16,724 - INFO - root - F1 macro: 0.6618
+2025-06-06 05:36:30,277 - INFO - root - ***** Task yo - Epoch 5: val (seed 0) *****
+2025-06-06 05:36:30,278 - INFO - root - Accuracy: 0.6903
+2025-06-06 05:36:30,278 - INFO - root - F1 weighted: 0.6824
+2025-06-06 05:36:30,278 - INFO - root - F1 macro: 0.6545
+2025-06-06 05:36:30,278 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 05:40:23,295 - INFO - root - ***** Task yo - Epoch 6: val (seed 0) *****
+2025-06-06 05:40:23,296 - INFO - root - Accuracy: 0.6789
+2025-06-06 05:40:23,296 - INFO - root - F1 weighted: 0.6725
+2025-06-06 05:40:23,296 - INFO - root - F1 macro: 0.6467
+2025-06-06 05:40:23,296 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 05:44:15,864 - INFO - root - ***** Task yo - Epoch 7: val (seed 0) *****
+2025-06-06 05:44:15,864 - INFO - root - Accuracy: 0.6952
+2025-06-06 05:44:15,864 - INFO - root - F1 weighted: 0.6833
+2025-06-06 05:44:15,864 - INFO - root - F1 macro: 0.6529
+2025-06-06 05:44:15,865 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 05:48:09,391 - INFO - root - ***** Task yo - Epoch 8: val (seed 0) *****
+2025-06-06 05:48:09,391 - INFO - root - Accuracy: 0.7067
+2025-06-06 05:48:09,391 - INFO - root - F1 weighted: 0.703
+2025-06-06 05:48:09,391 - INFO - root - F1 macro: 0.6788
+2025-06-06 05:52:23,260 - INFO - root - ***** Task yo - Epoch 9: val (seed 0) *****
+2025-06-06 05:52:23,261 - INFO - root - Accuracy: 0.7018
+2025-06-06 05:52:23,261 - INFO - root - F1 weighted: 0.6979
+2025-06-06 05:52:23,261 - INFO - root - F1 macro: 0.6749
+2025-06-06 05:52:23,261 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 05:56:17,459 - INFO - root - ***** Task yo - Epoch 10: val (seed 0) *****
+2025-06-06 05:56:17,459 - INFO - root - Accuracy: 0.6996
+2025-06-06 05:56:17,459 - INFO - root - F1 weighted: 0.6961
+2025-06-06 05:56:17,459 - INFO - root - F1 macro: 0.6721
+2025-06-06 05:56:17,460 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 06:00:10,843 - INFO - root - ***** Task yo - Epoch 11: val (seed 0) *****
+2025-06-06 06:00:10,843 - INFO - root - Accuracy: 0.6914
+2025-06-06 06:00:10,843 - INFO - root - F1 weighted: 0.6973
+2025-06-06 06:00:10,843 - INFO - root - F1 macro: 0.6777
+2025-06-06 06:00:10,844 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 06:04:02,801 - INFO - root - ***** Task yo - Epoch 12: val (seed 0) *****
+2025-06-06 06:04:02,801 - INFO - root - Accuracy: 0.7094
+2025-06-06 06:04:02,801 - INFO - root - F1 weighted: 0.7078
+2025-06-06 06:04:02,801 - INFO - root - F1 macro: 0.6864
+2025-06-06 06:08:16,195 - INFO - root - ***** Task yo - Epoch 13: val (seed 0) *****
+2025-06-06 06:08:16,195 - INFO - root - Accuracy: 0.7094
+2025-06-06 06:08:16,195 - INFO - root - F1 weighted: 0.7087
+2025-06-06 06:08:16,196 - INFO - root - F1 macro: 0.688
+2025-06-06 06:12:30,166 - INFO - root - ***** Task yo - Epoch 14: val (seed 0) *****
+2025-06-06 06:12:30,166 - INFO - root - Accuracy: 0.6991
+2025-06-06 06:12:30,166 - INFO - root - F1 weighted: 0.6969
+2025-06-06 06:12:30,166 - INFO - root - F1 macro: 0.6764
+2025-06-06 06:12:30,166 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 06:16:22,469 - INFO - root - ***** Task yo - Epoch 15: val (seed 0) *****
+2025-06-06 06:16:22,469 - INFO - root - Accuracy: 0.71
+2025-06-06 06:16:22,469 - INFO - root - F1 weighted: 0.7101
+2025-06-06 06:16:22,469 - INFO - root - F1 macro: 0.6887
+2025-06-06 06:20:37,481 - INFO - root - ***** Task yo - Epoch 16: val (seed 0) *****
+2025-06-06 06:20:37,481 - INFO - root - Accuracy: 0.7023
+2025-06-06 06:20:37,481 - INFO - root - F1 weighted: 0.7012
+2025-06-06 06:20:37,481 - INFO - root - F1 macro: 0.6803
+2025-06-06 06:20:37,482 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-06-06 06:24:36,336 - INFO - root - ***** Task yo - Epoch 17: val (seed 0) *****
+2025-06-06 06:24:36,336 - INFO - root - Accuracy: 0.7073
+2025-06-06 06:24:36,336 - INFO - root - F1 weighted: 0.6998
+2025-06-06 06:24:36,336 - INFO - root - F1 macro: 0.6733
+2025-06-06 06:24:36,336 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-06-06 06:28:29,523 - INFO - root - ***** Task yo - Epoch 18: val (seed 0) *****
+2025-06-06 06:28:29,523 - INFO - root - Accuracy: 0.71
+2025-06-06 06:28:29,523 - INFO - root - F1 weighted: 0.7064
+2025-06-06 06:28:29,523 - INFO - root - F1 macro: 0.6825
+2025-06-06 06:28:29,523 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-06-06 06:32:22,304 - INFO - root - ***** Task yo - Epoch 19: val (seed 0) *****
+2025-06-06 06:32:22,304 - INFO - root - Accuracy: 0.7144
+2025-06-06 06:32:22,304 - INFO - root - F1 weighted: 0.7087
+2025-06-06 06:32:22,304 - INFO - root - F1 macro: 0.6827
+2025-06-06 06:32:22,304 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-06-06 06:36:16,002 - INFO - root - ***** Task yo - Epoch 20: val (seed 0) *****
+2025-06-06 06:36:16,002 - INFO - root - Accuracy: 0.71
+2025-06-06 06:36:16,002 - INFO - root - F1 weighted: 0.7099
+2025-06-06 06:36:16,002 - INFO - root - F1 macro: 0.6881
+2025-06-06 06:36:16,002 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-06-06 06:36:16,003 - INFO - root - Early stop!!! Best epoch for [yo]: 15
+2025-06-06 06:36:16,003 - INFO - root - Best evaluation accuracy [yo]: 0.71
+2025-06-06 06:36:16,003 - INFO - root - Best evaluation F1 [yo]: 0.7101
+2025-06-06 06:36:16,003 - INFO - root - Loading weights from the best model (best epoch 15)...
+2025-06-06 06:37:47,359 - INFO - root - ***** Task yo - Epoch 20: test (seed 0) *****
+2025-06-06 06:37:47,359 - INFO - root - Accuracy: 0.6848
+2025-06-06 06:37:47,359 - INFO - root - F1 weighted: 0.687
+2025-06-06 06:37:47,359 - INFO - root - F1 macro: 0.6672
+2025-06-06 06:37:47,360 - INFO - root - Best test accuracy [yo]: 0.6848
+2025-06-06 06:37:47,361 - INFO - root - Best test F1 [yo]: 0.687
+2025-06-06 06:37:47,361 - INFO - root - Final evaluation (seed-0) on task [am]
+2025-06-06 06:38:20,698 - INFO - root - ***** Task am - Final evaluation: test *****
+2025-06-06 06:38:20,698 - INFO - root - Accuracy: 0.2226
+2025-06-06 06:38:20,698 - INFO - root - F1 weighted: 0.1034
+2025-06-06 06:38:20,698 - INFO - root - F1 macro: 0.1943
+2025-06-06 06:38:20,699 - INFO - root - Final evaluation (seed-0) on task [dz]
+2025-06-06 06:38:38,752 - INFO - root - ***** Task dz - Final evaluation: test *****
+2025-06-06 06:38:38,752 - INFO - root - Accuracy: 0.5146
+2025-06-06 06:38:38,752 - INFO - root - F1 weighted: 0.4836
+2025-06-06 06:38:38,752 - INFO - root - F1 macro: 0.4517
+2025-06-06 06:38:38,753 - INFO - root - Final evaluation (seed-0) on task [ha]
+2025-06-06 06:39:58,564 - INFO - root - ***** Task ha - Final evaluation: test *****
+2025-06-06 06:39:58,564 - INFO - root - Accuracy: 0.6774
+2025-06-06 06:39:58,564 - INFO - root - F1 weighted: 0.6528
+2025-06-06 06:39:58,564 - INFO - root - F1 macro: 0.6527
+2025-06-06 06:39:58,565 - INFO - root - Final evaluation (seed-0) on task [ig]
+2025-06-06 06:40:55,511 - INFO - root - ***** Task ig - Final evaluation: test *****
+2025-06-06 06:40:55,511 - INFO - root - Accuracy: 0.5269
+2025-06-06 06:40:55,511 - INFO - root - F1 weighted: 0.4968
+2025-06-06 06:40:55,511 - INFO - root - F1 macro: 0.5133
+2025-06-06 06:40:55,512 - INFO - root - Final evaluation (seed-0) on task [kr]
+2025-06-06 06:41:15,598 - INFO - root - ***** Task kr - Final evaluation: test *****
+2025-06-06 06:41:15,598 - INFO - root - Accuracy: 0.6667
+2025-06-06 06:41:15,598 - INFO - root - F1 weighted: 0.6594
+2025-06-06 06:41:15,598 - INFO - root - F1 macro: 0.6644
+2025-06-06 06:41:15,599 - INFO - root - Final evaluation (seed-0) on task [ma]
+2025-06-06 06:42:02,288 - INFO - root - ***** Task ma - Final evaluation: test *****
+2025-06-06 06:42:02,288 - INFO - root - Accuracy: 0.51
+2025-06-06 06:42:02,288 - INFO - root - F1 weighted: 0.5003
+2025-06-06 06:42:02,288 - INFO - root - F1 macro: 0.4888
+2025-06-06 06:42:02,289 - INFO - root - Final evaluation (seed-0) on task [pcm]
+2025-06-06 06:43:06,743 - INFO - root - ***** Task pcm - Final evaluation: test *****
+2025-06-06 06:43:06,743 - INFO - root - Accuracy: 0.7078
+2025-06-06 06:43:06,743 - INFO - root - F1 weighted: 0.6678
+2025-06-06 06:43:06,743 - INFO - root - F1 macro: 0.4863
+2025-06-06 06:43:06,744 - INFO - root - Final evaluation (seed-0) on task [pt]
+2025-06-06 06:44:02,862 - INFO - root - ***** Task pt - Final evaluation: test *****
+2025-06-06 06:44:02,862 - INFO - root - Accuracy: 0.6972
+2025-06-06 06:44:02,862 - INFO - root - F1 weighted: 0.7033
+2025-06-06 06:44:02,862 - INFO - root - F1 macro: 0.643
+2025-06-06 06:44:02,863 - INFO - root - Final evaluation (seed-0) on task [sw]
+2025-06-06 06:44:19,074 - INFO - root - ***** Task sw - Final evaluation: test *****
+2025-06-06 06:44:19,074 - INFO - root - Accuracy: 0.5481
+2025-06-06 06:44:19,074 - INFO - root - F1 weighted: 0.5542
+2025-06-06 06:44:19,074 - INFO - root - F1 macro: 0.538
+2025-06-06 06:44:19,074 - INFO - root - Final evaluation (seed-0) on task [ts]
+2025-06-06 06:44:27,206 - INFO - root - ***** Task ts - Final evaluation: test *****
+2025-06-06 06:44:27,206 - INFO - root - Accuracy: 0.5394
+2025-06-06 06:44:27,206 - INFO - root - F1 weighted: 0.4917
+2025-06-06 06:44:27,206 - INFO - root - F1 macro: 0.3946
+2025-06-06 06:44:27,206 - INFO - root - Final evaluation (seed-0) on task [twi]
+2025-06-06 06:44:46,103 - INFO - root - ***** Task twi - Final evaluation: test *****
+2025-06-06 06:44:46,103 - INFO - root - Accuracy: 0.5785
+2025-06-06 06:44:46,103 - INFO - root - F1 weighted: 0.5615
+2025-06-06 06:44:46,104 - INFO - root - F1 macro: 0.4862
+2025-06-06 06:44:46,104 - INFO - root - Final evaluation (seed-0) on task [yo]
+2025-06-06 06:45:55,934 - INFO - root - ***** Task yo - Final evaluation: test *****
+2025-06-06 06:45:55,934 - INFO - root - Accuracy: 0.6848
+2025-06-06 06:45:55,934 - INFO - root - F1 weighted: 0.687
+2025-06-06 06:45:55,934 - INFO - root - F1 macro: 0.6672
+2025-06-07 10:40:43,037 - INFO - root - ***********************************seed: 0***********************************
+2025-06-07 10:41:57,671 - INFO - root - ***********************************seed: 1***********************************
+2025-06-07 10:42:52,244 - INFO - root - ***********************************seed: 0***********************************
+2025-06-07 10:43:41,054 - INFO - root - ***********************************seed: 1***********************************
+2025-06-07 10:44:43,795 - INFO - root - ***********************************seed: 2***********************************
+2025-06-07 12:16:32,912 - INFO - root - ***********************************seed: 1***********************************
+2025-06-07 12:17:20,110 - INFO - root - ***********************************seed: 2***********************************

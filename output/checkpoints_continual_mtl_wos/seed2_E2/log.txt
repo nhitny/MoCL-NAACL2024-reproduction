@@ -1,0 +1,501 @@
+2025-07-11 14:16:20,378 - INFO - root - Task-[0]-train first 2 examples: 
+ ['Low-cost, high-performance vision sensors in conjunction with aerial sensing platforms are providing new possibilities for achieving autonomous visual inspection in civil engineering structures. A large volume of images of a given structure can readily be collected for use in visual inspection, overcoming spatial and temporal limitations associated with human-based inspection. Although researchers have explored several algorithms and techniques for visionbased inspection in recent decades, a major challenge in past implementations lies in dealing with a high volume of images while only a small fraction of them are important for actual inspection. Because processing irrelevant images can generate a significant number of falsepositives, automated visual inspection techniques should be used in coordination with methods to localize relevant regions on the images. When combined, automated visual inspection will be able to meet the objectives and quality of human visual inspection. To enable this technology, we develop and validate a novel automated image localization technique to extract regions of interest (ROIs) on each of the images before utilizing vision-based damage detection techniques. ROIs are the portions of an image that contain the physical region of the structure that is targeted for visual interrogation, denoted as the targeted region of interest (TRI). ROIs are computed based on the geometric relationship between the collected images and the TRIs. Analysis of such highly relevant and localized images would enable efficient and reliable visual inspection. We successfully demonstrate the capability of the technique to extract the ROIs using a full-scale highway sign structure in the case where weld connections serve as the TRIs.'
+ 'Avian scavengers are declining throughout the world, and are affected by a large number of threats such as poisoning, electrocution, collision with man-made structures, direct persecution, changes in agricultural practices, landscape composition, and sanitary regulations that can reduce food availability. To formulate effective conservation strategies, it is important to quantify which of these factors has the greatest influence on demographic parameters such as territory occupancy and breeding success, and whether quantitative models can be transferred across geographic regions and political boundaries. We collated territory and nest monitoring data of the endangered Egyptian Vulture Neophron percnopterus in the Balkans to understand the relative influence of various factors on population declines. We monitored occupancy in 87 different territories and breeding performance of 405 territory-monitoring years between 2003 and 2015, with an overall territory occupancy rate of 69% and a mean productivity of 0.80 fledglings per occupied territory. We examined which of 48 different environmental variables were most influential in explaining variation in territory occupancy and breeding success in Bulgaria and Greece, and tested whether these models were transferrable to the Former Yugoslav Republic of Macedonia. Territory occupancy and breeding success were affected by a wide range of environmental variables, each of which had a small effect that may not be the same across political boundaries. Both models had reasonably good discriminative ability [area under the receiver-operated characteristic curve (AUC) for territory occupancy = 0.871, AUC for breeding success = 0.744], but were unsuccessful in predicting occupancy or breeding success in the external validation data set from a different country, possibly because the most influential factors vary geographically. Management focussing on a small number of environmental variables is unlikely to be effective in slowing the decline of Egyptian Vultures on the Balkan Peninsula. We recommend that in the short term the reduction of adult mortality through the enforcement of anti-poison laws, and in the long term the adoption of large-scale landscape conservation programs that retain or restore historical small-scale farming practices may benefit vultures and other biodiversity.']
+2025-07-11 14:16:20,378 - INFO - root - Task-[0]-test first 2 examples: 
+ ["Many senior citizens are keeping in touch with modern times and put modern technologies to good use. They attempt to adapt to this era and don't avoid computers or smart devices. Such senior citizens often also educate themselves further in ICT, but are not immune to troubles that come hand in hand with ICT, or even psychological issues that stem from learning new skills in high age. Many even reconsider, asking themselves if all the effort is worth the outcome. Courses they attend might not be the best suited for them and can be very different from one another. Taught operating systems, teacher's individual attitude, accessibility of the course itself and learning environment have huge impact on both senior's attitude and quality of gained skills. This article aims to describe areas and issues senior citizens feel are most limiting in their access to quality education in ICT, and how they are tackled. The results come from a qualitative research among a selected sample of senior citizens that took part in our ICT courses. (C) 2016 Published by Elsevier Ltd."
+ "We present a methodology based on matrix factorization and gradient descent to predict the number of sessions established in the access points of a Wi-Fi network according to the users' behavior. As the network considered in this work is monitored and controlled by software in order to manage users and resources in real time, we may consider it as a cyber-physical system that interacts with the physical world through access points, whose demands can be predicted according to users' activity. These predictions are useful for relocating or reinforcing some access points according to the changing physical environment. In this work we propose a prediction model based on machine learning techniques, which is validated by comparing the prediction results with real user's activity. Our experiments collected the activity of 1095 users demanding 26,673 network sessions during one month in a Wi-Fi network composed of 10 access points, and the results are qualitatively valid with regard to the previous knowledge. We can conclude that our proposal is suitable for predicting the demand of sessions in access points when some devices are removed taking into account the usual activity of the network users. (C) 2017 Elsevier B.V. All rights reserved."]
+2025-07-11 14:16:20,667 - INFO - root - Task-[1]-train first 2 examples: 
+ ['DC distribution power systems are vulnerable to instability because of the destabilizing effect of converter-controlled constant power loads (CPLs) and input filters. Standard stability analysis tools based on averaging linearization techniques can be used only when the switching frequency of the converter is significantly higher than the cutoff frequency of the filter. However, dc distribution systems with a reduced size filter, and consequently a high cutoff frequency, are common in transportation applications. Conventional methods fail to detect instabilities in the system because they do not take into account the switching effect. To overcome this drawback, this paper proposes a discrete-time method to analyze the stability of dc distribution systems. This model is applied here to a dc power system with a CPL. The switching effects and the nonlinearities of the system model are taken into account with a simple discretization approach. The proposed method is able to predict the dynamic properties of the system, such as slow-scale and fast-scale instabilities. An active stabilizer is also included in the system model in order to extend the stability margin of the system. Finally, these observations are validated experimentally on a laboratory test bench.'
+ 'Currently, privatized state-owned Taiwan Power Company (Taipower) has a monopoly over energy production and vertically integrates the electricity market in Taiwan. Because of the geographical environments, economies of scales, social structures, and diverse political ideologies in Taiwan, the electricity market exhibits unique characteristics. To maximize the benefits of electricity liberalization, future market operations must not only involve conventional considerations for economic dispatch; overall social welfare should be included by incorporating the perspectives of fairness, responsibility, and the environment, and key electrical grid operations should be executed appropriately. We responded to the future market liberalization planning by including factors, such as, environmental effects and government policies, in addition to electrical line construction, and operation cost factors involved in the entire operational model planning. On the basis of responsibility sharing, this study used the simulated -responsibility three-phase pricing method. The proposed pricing method is expected to help attain the following policy goals: 1. Achieving reasonable power price allocations; 2. Simultaneously ensuring fair and efficient electric grid operation; 3. Changing the operation orientations of the power plants and electrical grid facilities; and 4. Increasing the rate of renewable energy use.']
+2025-07-11 14:16:20,668 - INFO - root - Task-[1]-test first 2 examples: 
+ ['A new, small and efficient voltage regulator, realized using a resonant switched-capacitor converter technology, is introduced. Voltage regulation is implemented by means of simple digital pulse density modulation. It displays an ideal transient response with a zero-order nature to all disturbance types. The newly developed topology acts as a gyrator with awide range of voltage conversion ratios (below as well as above unity) with constant efficiency characteristics for the entire operation range. The operation of the voltage regulator is verified on a 20 W experimental prototype, demonstrating ideal transient recovery without over/undershoots in response to load and line transients. Simple design guidelines for the voltage regulation system are provided and verified by experiments.'
+ 'A digital control method combining primary-side sensing, observer and model-predictive-control techniques is proposed. A conventional isolated Flyback converter is chosen for demonstrating the method. The only measured signal is the drain-source voltage over the switch. Following a procedure of signal processing, state estimation and constraint problem formulation, the controller determines the optimal duty cycle ratio. The advantages of the proposed method include minimal overshoot and fast stabilization, converter state restriction, and measurement network simplification.']
+2025-07-11 14:16:20,870 - INFO - root - Task-[2]-train first 2 examples: 
+ ["Though people report idiosyncratic desires for particular traits in an ideal romantic partner, few studies have examined whether these ideals predict important long-term relationship outcomes. The present 3.5-year longitudinal study of newlywed couples used survival analysis to investigate whether the match between participants' ideal preferences and the traits they perceive in their partner predict the likelihood of divorce. Results depended entirely on whether the match was conceptualized as a match in level (e. g., high ideal preference for a trait with the presence of the trait in the partner) or in pattern (e. g., the within-person correlation of ideals with a partner's traits across all traits). The match between the pattern of ideals and traits negatively predicted divorce with an effect size larger than most established divorce risk factors. However, the match in level was unrelated to divorce, suggesting that perspectives emphasizing ideals for the level of traits may encounter predictive validity problems."
+ "Fear of negative evaluation (FNE), state anxiety (SA), and dominance have consequences for social functioning. The present study assessed how FNE, SA, and a target's dominance-relevant label are related to perceptions of personality. One hundred seventy-eight participants who scored high or low on FNE underwent a laboratory manipulation of SA, viewed a photograph of a target with a high or low dominance-relevant label, and rated the target on the Big Five personality traits and dominance. FNE and SA were unrelated to perceptions, but the high-dominance label was associated with perceptions of higher dominance, conscientiousness, and openness. In conclusion, judges did use information about others when making initial judgments of personality, but these judgments were not impacted by trait or state psychological distress."]
+2025-07-11 14:16:20,871 - INFO - root - Task-[2]-test first 2 examples: 
+ ["Colorblindness and multiculturalism offer divergent prescriptions for reducing racial tensions. Colorblindness encourages looking beyond racial differences, whereas multiculturalism encourages recognizing them. We introduce a new construct, perceived intentionality of racial discrimination (PIRD) individuals' beliefs about how intentional discrimination is to help explain when and why colorblindness versus multiculturalism will be preferred, and potentially more effective, for improving race relations. We first establish the distinctiveness of the PIRD construct and assess its stability over time and across intergroup contexts (Studies 1-2). We then observe that greater PIRD predicts beliefs that colorblindness versus multiculturalism will improve race relations (Studies 2-5), in part because Unintentional (versus intentional) discrimination is perceived to stem from ignorance and misunderstanding versus knowingly treating racial groups unequally (Studies 4, 5b). Evidence also suggests that PIRD may shape the actual merits of colorblindness and multiculturalism for improving race relationsvia encouraging donations (Study 6), positive interracial interaction intentions (Study 7), and comfort with discussing race following the widely -publicized shooting of a Black teen (Study 8). Taken together, our empirical findings demonstrate the usefulness of PIRD for understanding, predicting, and influencing individuals' preferences for colorblindness versus multiculturalism. (C) 2016 Elsevier Inc. All rights reserved."
+ 'The objective of this study is to evaluate the relationship between social cognition (SC) and cognitive impairment in persons with multiple sclerosis (PwMS). A prospective study was conducted in 60 PwMS, 30 with relapsing-remitting MS (RRMS), 15 with secondary progressive MS (SPMS) and 15 with primary progressive MS (PPMS), and in healthy subjects (HS). All subjects were assessed by the Bordeaux Social Cognition Evaluation Protocol (PECS-B) (facial emotion recognition, theory of mind, emotional awareness and cognitive and affective alexithymia), by a large neuropsychological battery and by questionnaires (depression and anxiety). 43.3% of PwMS were impaired for at least one SC test. The proportion of PwMS with at least two impaired SC tests was similar in all three phenotypes (20%). Mean scores differed significantly between PwMS and HS only for the Reading the Mind in the Eyes Test, a test of Theory of Mind (ToM). ANOVA analyses showed an effect of phenotype on emotional awareness scores with lower scores in PPMS as compared to RRMS. ToM performance was significantly correlated (r (2) = 0.56) with executive functions, working memory and episodic memory scores. SC impairment was found in all phenotypes and was more prominent in cognitively impaired MS patients. Executive functions, and working and episodic memory performance accounts for approximately 50% of ToM performance. Emotional awareness is more impaired in progressive MS.']
+2025-07-11 14:16:21,195 - INFO - root - Task-[3]-train first 2 examples: 
+ ['The integrity of a reactor pressure vessel (RPV) has to be ensured throughout its entire life in accordance with the applicable regulations. Typically an assessment of the RPV against brittle failure needs to be conducted by taking into account all possible loading cases. One of the most severe loading cases, which can potentially occur during the operating time, is the loss-of-coolant accident, where cold water is injected into the RPV nearly at operating conditions. High pressure in combination with a thermal shock of the ferritic pressure vessel wall caused by the injection of cold water leads to a considerable load at the belt-line area known as Pressurized Thermal Shock (PTS). Usually the assessment against brittle failure is based on a deterministic fracture-mechanics analysis, in which common parameters like J-integral or stress intensity factor are employed to calculate the load path for an assumed (postulated) flaw during the PTS event. The most important input data for the fracture mechanics analysis is the transient thermal-hydraulics (TH) load of the RPV during the emergency cooling. Such data can be calculated by analytical fluid-mixing codes verified on experiments, such as KWU-MIX, or by numerical Computational Fluid Dynamics (CFD) tools after suitable validation. In KWU-MIX, which is the standard used for TH calculations within PTS analyses, rather conservative analytical models for the quantification of mixing and, depending on the water level, condensation processes in the downcomer (including simplified stripe and plume formations) are utilized. On the contrary, the numerical CFD tools can provide best-estimate results due to the possibility to consider more realistically the stripe and plume formations as well as the geometry of the RPV in detail. In order to quantify the safety margin inherent to the standard approach, two fracture-mechanics analyses of the RPV Beznau 1 based on thermal-hydraulic input data from KWU-MIX and CFD analyses were performed. Subsequently the resulting loading paths were compared between each other and with material properties obtained from the irradiation surveillance program of the RPV to demonstrate the exclusion of brittle-fracture initiation.'
+ 'Knowledge of the material properties is important at machine design from composite materials. This information cannot be found in related literature and is not standard, therefore, it was necessary to determine, by measurements and by basic experiments of the mechanics of materials. This paper presents a new 3D finite element (FE) model-cell for the modeling of the material properties of a roving. By this numerical modeling method, one can determine the orthotropic and macroscopic material properties of a roving. This model-cell, models numerically, a roving, which consists of multiples of thousands of fibers that are embedded in a matrix material, as a homogenized orthotropic material. The numerical results of the material properties of the roving, can be applied to the definition of the macroscopic material properties of fiber reinforced composite laminates.']
+2025-07-11 14:16:21,196 - INFO - root - Task-[3]-test first 2 examples: 
+ ['In this article, a numerical method for detailed studies of two-phase mass transfer is introduced that is based on a three-dimensional finite volume Arbitrary Lagrangian-Eulerian method. The implementation of the two-phase species equation employs the Dirichlet-Neumann algorithm, following the domain coupling technique of the underlying hydrodynamical solver by Tukovic and Jasak (2012). The coupling is found to be dependent on the discontinuities of the concentration and its first derivative, as well as on which side of the interface Dirichlet or Neumann conditions are specified. Relaxation parameters are introduced to stabilize the algorithm and optimal coefficients are calculated explicitly. The numerical method is thoroughly validated by a three dimensional advection-diffusion test case, proving the accuracy of the local Sherwood numbers for Peclet numbers up to 100000, which is ten times higher than the currently reported maximum. Additionally, a limit model for instantaneous reactions is implemented and validated, allowing the computation of product concentrations and of local and global enhancement factors. (C) 2016 Elsevier Ltd. All rights reserved.'
+ 'A tsunami is a series of great waves primarily caused by a major subduction-zone earthquake with large-scale displacement of the sea floor or by initiation of submarine landslides. Many coastal areas in the western United States are subject to tsunami hazard that is infrequent but potentially extremely destructive. The public safety risk has been only partially mitigated through warning and preparedness of evacuation; there are many coastal communities in the states of Alaska, Washington, Oregon, California, and Hawaii where there is insufficient time for complete evacuation, and places of higher elevation and/or taller structures could provide life safety. Community disaster resilience would also require that critical and essential facilities provide structural resistance to collapse. Towards that goal, the Tsunami Loads and Effects Subcommittee of the ASCE/Structural Engineering Institute (ASCE/SEI) 7 Standards Committee has developed a new Chapter 6 with design requirements for tsunami loads and effects, contained in the 2016 edition of the ASCE 7 standard Minimum Design Loads for Buildings and Other Structures [Minimum design loads for buildings and other structures]. The ASCE 7-16 Tsunami Loads and Effects chapter will become the first national, consensus-based standard for tsunami resilience for use in the states of Alaska, Washington, Oregon, California, and Hawaii. The purpose of this paper is to provide an explanation of the technical basis and methodology for tsunami-resilient design of critical and essential facilities, tsunami vertical evacuation refuge structures, and other multistory building structures. The ASCE 7 provisions for tsunami loads and effects implements a unified set of analysis and design methodologies with design maps based on probabilistic hazard analysis, loads based on tsunami physics, and a structural ultimate strength basis of design. Probabilistic offshore tsunami amplitude maps and tsunami design zone inundation maps were developed using a method consistent with probabilistic seismic hazard analysis in the treatment of seismic source uncertainties. Procedures for tsunami inundation analysis are based on using mapped values of offshore tsunami amplitude or the runup and inundation limit shown in tsunami design zone maps. The ASCE 7 Tsunami Loads and Effects chapter is consistent with the principles of probabilistic hazard analysis, tsunami physics, and fluid mechanics, integrated into a comprehensive set of design provisions.']
+2025-07-11 14:16:21,699 - INFO - root - Task-[4]-train first 2 examples: 
+ ['Analyzing retrieval accuracy and precision is an important element of space-based CO2 retrievals. However, this error analysis is sometimes challenging to perform rigorously because of the subtlety of Multivariate Statistics. To help address this issue, we revisit some fundamentals of Multivariate Statistics that help reveal the statistical essence of the associated error analysis. We show that the related statistical methodology is useful for revealing the intrinsic discrepancy and relation between the retrieval error for a nonzero-variate CO2 state and that for a zero-variate one. Our study suggests that the two scenarios essentially yield the same-magnitude accuracy, while the latter scenario yields a better precision than the former. We also use this methodology to obtain a rigorous framework systematically and explore a broadly used approximate framework for analyzing CO2 retrieval errors. The approximate framework introduces errors due to an essential, but often forgotten, fact that a priori climatology in reality is never equal to the true state. Due to the nature of the problem considered, realistic numerical simulations that produce synthetic spectra may be more appropriate than remote sensing data for our specific exploration. As highlighted in our retrieval simulations, utilizing the approximate framework may not be universally satisfactory in assessing the accuracy and precision of Xco(2) retrievals (with errors up to 0.17-0.28ppm and 1.4-1.7ppm, respectively, at SNR=400). In situ measurements of CO2 are needed to further our understanding of this issue and related implications.'
+ "Recent developments in domains of ambient intelligence (AmI), Internet of Things, cyber-physical systems (CPS), ubiquitous/pervasive computing, etc., have led to numerous attempts to apply ICT solutions in the occupational safety and health (OSH) area. A literature review reveals a wide range of examples of smart materials, smart personal protective equipment and other AmI applications that have been developed to improve workers' safety and health. Because the use of these solutions modifies work methods, increases complexity of production processes and introduces high dynamism into thus created smart working environments (SWE), a new conceptual framework for dynamic OSH management in SWE is called for. A proposed framework is based on a new paradigm of OSH risk management consisting of real-time risk assessment and the capacity to monitor the risk level of each worker individually. A rationale for context-based reasoning in SWE and a respective model of the SWE-dedicated CPS are also proposed."]
+2025-07-11 14:16:21,699 - INFO - root - Task-[4]-test first 2 examples: 
+ ['Edge extraction from high spatial resolution (HSR) remotely sensed images is one of the essential tasks for image segmentation and object identification. We present an optimal Gabor-based edge detection method which mainly focuses on selecting optimal parameters, including central frequency and spectrum scale, for Gabor filter. The central frequency is automatically optimized by phase randomization and the human visual system-based structure similarity index. Next, the optimal spectrum scale is determined based on two-dimensional power spectrum density. The edge detection method is comprehensively discussed in the analysis of parameter sensitivity, overall performance, and comparative tests with several widely used methods. Qualitative and quantitative experimental studies, performed on six test images with various spatial resolution, show that the proposed method provides a promising solution to edge detection from HSR remotely sensed images. (C) 2017 Society of Photo-Optical Instrumentation Engineers (SPIE)'
+ "Localization, tracking, and recognition of objects and humans are basic tasks that are of high value in the applications of ambient intelligence. Sensing floors were introduced to address these tasks in a non-intrusive way. To recognize the humans moving on the floor, they are usually first localized, and then a set of gait features are extracted (stride length, cadence, and pressure profile over a footstep). However, recognition generally fails when several people stand or walk together, preventing successful tracking. This paper presents a detection, tracking, and recognition technique which uses objects' weight. It continues working even when tracking individual persons becomes impossible. Inspired by computer vision, this technique processes the floor pressure-image by segmenting the blobs containing objects, tracking them, and recognizing their contents through a mix of inference and combinatorial search. The result lists the probabilities of assignments of known objects to observed blobs. The concept was successfully evaluated in daily life activity scenarii, involving multi-object tracking and recognition on low-resolution sensors, crossing of user trajectories, and weight ambiguity. This technique can be used to provide a probabilistic input for multi-modal object tracking and recognition systems."]
+2025-07-11 14:16:22,061 - INFO - root - Task-[5]-train first 2 examples: 
+ ['Axial spondyloarthritis (axSpA), which encompasses ankylosing spondylitis, is a complex genetic disease. Aberrant bone formation is a key feature of pathogenesis that can lead to ankylosis of the spine. Our objective is to determine, whether genes whose variants confer susceptibility to AS are expressed in bone progenitors like mesenchymal stem cells (MSCs). Since MSCs from bone marrow is difficult to obtain, we first examined, whether MSCs can be derived from induced pluripotent stem cells (iPSCs). Dermal fibroblasts of two axSpA patients and one healthy control were reprogrammed into iPSCs using a Sendai virus vector encoding pluripotency genes. Pluripotency of iPSCs was examined by embryoid body formation and by testing for stem cell specific gene and protein expression using RT-PCR and immuno fluorescence. iPSCs were differentiated into MSCs by a TGF inhibitor. MSCs were characterized by flow cytometry using lineage specific antibodies and by their capacity to develop into chondrocytes, adipocytes, and osteoblasts in lineage-specific medium. RNA-seq was applied to determine genome-wide gene expression patterns in MSCs, iPSCs, and blood. We show for the first time, that expression levels of several AS susceptibility genes (EDIL3, ANO6, HAPLN1, ANTXR2) involved in bone formation are significantly elevated in MSCs (2-15-fold; p <= 0.05) compared to blood or iPSCs and demonstrate that iPSC-derived MSCs can be differentiated into osteoblasts, chondrocytes, and adipocytes. We conclude, MSCs generated from patient fibroblast-derived iPSC lines are useful tools for studying functional genomics of risk genes associated with bone formation in AS pathogenesis.'
+ 'Chronic diarrhoea is a common presenting symptom in both primary care medicine and in specialized gastroenterology clinics. It is estimated that >5% of the population has chronic diarrhoea and nearly 40% of these patients are older than 60 years. Clinicians often need to select the best diagnostic approach to these patients and choose between the multiple diagnostic tests available. In 2014 the Catalan Society of Gastroenterology formed a working group with the main objective of creating diagnostic algorithms based on clinical practice and to evaluate diagnostic tests and the scientific evidence available for their use. The GRADE system was used to classify scientific evidence and strength of recommendations. The consensus document contains 28 recommendations and 6 diagnostic algorithms. The document also describes criteria for referral from primary to specialized care. (C) 2015 Elsevier Espana, S.L.U., AEEH y AEG. All rights reserved.']
+2025-07-11 14:16:22,061 - INFO - root - Task-[5]-test first 2 examples: 
+ ['Aim: To investigate the relationship between inflammatory markers and platelet size in generalized aggressive periodontitis (GAgP). Material and Methods: Periodontal, inflammatory and platelet indices were compared between 59 GAgP patients and 59 healthy subjects. Gingival biopsies from five patients and five healthy subjects were examined by immunohistochemistry and electron microscopy. Changes in patient periodontal and platelet indices were re-evaluated at 3 months after periodontal therapy. Results: Platelet size was decreased significantly in GAgP patients compared to healthy subjects (p <= 0.003). Weak negative correlations between platelet size and periodontal parameters were found in GAgP patients (p <= 0.025). Platelet aggregates and adhesion to the endothelium or leucocytes were found in venules and connective tissues of gingival biopsies from GAgP patients. Mean platelet volume (MPV) and platelet large cell ratio increased after periodontal therapy in GAgP patients (p <= 0.038). The increase in MPV was related to the decrease in bleeding index in GAgP patients after periodontal therapy (p < 0.001; r = 0.357). Conclusion: Platelet size was reduced in GAgP patients compared to healthy controls, possibly due to the consumption of large platelets at sites of periodontal inflammation. Platelets may be involved in host responses to periodontal infection in GAgP.'
+ 'A range of risk factors lead to opioid use and substance-related problems (SRP) including childhood maltreatment, elevated impulsivity, and psychopathology. These constructs are highly interrelated such that childhood maltreatment is associated with elevated impulsivity and trauma-related psychopathology such as posttraumatic stress disorder (PTSD), and impulsivity particularly urgency and PTSD are related. Prior work has examined the association between these constructs and substance-related problems independently and it is unclear how these multi-faceted constructs (i.e., maltreatment types and positive and negative urgency) are associated with one another and SRP. The current study used structural equation modeling (SEM) to examine the relations among childhood maltreatment, trait urgency, PTSD symptoms, and SRP in a sample of individuals with a history of opioid use. An initial model that included paths from each type of childhood maltreatment, positive and negative urgency, PTSD and SRP did not fit the data well. A pruned model with excellent fit was identified that suggested emotional abuse, positive urgency, and negative urgency were directly related to PTSD symptoms and only PTSD symptoms were directly related to SRP. Furthermore, significant indirect effects suggested that emotional abuse and negative urgency were related to SRP via PTSD symptom severity. These results suggest that PTSD plays an important role in the severity of SRP. (C) 2017 Elsevier Ltd. All rights reserved.']
+2025-07-11 14:16:22,376 - INFO - root - Task-[6]-train first 2 examples: 
+ ['This article features an authentic research-lab experience developed for use in a freshman-level general biology course for nonmajors at a two-year college. Students work in groups to select and investigate factors affecting microalgal cell growth and relate their findings to a real-life application of social significance. This lab experience was designed using a four-step pedagogical framework originally developed at a four-year university in a sophomore-level molecular and cell biology course. The creators of the pedagogical framework at the four-year university mentored the instructor at the two-year college through the process of using the pedagogical framework to design and implement the authentic research lab experience described in this article. This example shows that adaptation of successful pedagogical models, particularly within mentoring partnerships, can greatly increase the implementation of authentic research experiences in biology lab courses at varying levels of study.'
+ 'Monitoring human metabolism is of crucial importance for personalized medicine. The aim of the present work is to design an interface circuit to realize an integrated platform for the detection of endogenous and exogenous metabolites for implantable applications. Cyclic voltammetry and chronoamperometry are the most common methods for metabolite detection. We propose a CMOS circuit to implement these two methods in a multi- target detection scheme.']
+2025-07-11 14:16:22,377 - INFO - root - Task-[6]-test first 2 examples: 
+ ['Glioma is still difficult to treat because of its high malignancy, high recurrence rate, and high resistance to anticancer drugs. An alternative method for research of gliomagenesis and drug resistance is to use in vitro tumor model that closely mimics the in vivo tumor microenvironment. In this study, we established a 3D bioprinted glioma stem cell model, using modified porous gelatin/alginate/ fibrinogen hydrogel that mimics the extracellular matrix. Glioma stem cells achieved a survival rate of 86.92%, and proliferated with high cellular activity immediately following bioprinting. During the in vitro culture period, the printed glioma stem cells not only maintained their inherent characteristics of cancer stem cells (Nestin), but also showed differentiation potential (glial fibrillary acidic protein and beta-tubulin III). In order to verify the vascularization potential of glioma stem cells, tumor angiogenesis biomarker, vascular endothelial growth factor was detected by immunohistochemistry, and its expression increased from week one to three during the culture period. Drug-sensitivity results showed that 3D printed tumor model was more resistant to temozolomide than 2D monolayer model at TMZ concentrations of 400-1600 mu g ml(-1). In summary, 3D bioprinted glioma model provides a novel alternative tool for studying gliomagenesis, glioma stem cell biology, drug resistance, and anticancer drug susceptibility in vitro.'
+ "The anticipation of ethical issues that may arise with the clinical use of genomic technologies is crucial to envision their future implementation in a manner sensitive to local contexts. Yet, populations in low- and middle-income countries are underrepresented in studies that aim to explore stakeholders' perspectives on the use of such technologies. Within the framework of a research project entitled Personalized medicine in the treatment of epilepsy, we sought to increase inclusiveness by widening the reach of our survey, inviting neurologists from around the world to share their views and practices regarding the use of whole-genome sequencing in clinical neurology and its associated ethics. We discuss herein the compelling scientific and ethical reasons that led us to attempt to recruit neurologists worldwide, despite the lack, in many low- or middle-income countries, of access to genomic technologies. Recruitment procedures and their results are presented and discussed, as well as the barriers we faced. We conclude that inclusive recruitment remains a challenging, albeit necessary and legitimate, endeavour."]
+2025-07-11 14:16:22,783 - INFO - root - ***********************************seed: 2***********************************
+2025-07-11 14:16:22,783 - INFO - root - ***********************************lr: [0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03]***********************************
+2025-07-11 14:16:22,787 - INFO - root - ***** Running training - task 0: 0*****
+2025-07-11 14:16:22,787 - INFO - root -   Num Epochs = 40
+2025-07-11 14:16:22,787 - INFO - root -   Num examples datasets = 928
+2025-07-11 14:16:22,787 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:16:22,787 - INFO - root -   Total optimization steps = 1160
+2025-07-11 14:16:22,787 - INFO - root -   Num examples training = 37120
+2025-07-11 14:16:38,341 - INFO - root - ***** Task 0 - Epoch 0: val (seed 2) *****
+2025-07-11 14:16:38,342 - INFO - root - Accuracy: 0.2575
+2025-07-11 14:17:00,887 - INFO - root - ***** Task 0 - Epoch 1: val (seed 2) *****
+2025-07-11 14:17:00,888 - INFO - root - Accuracy: 0.2977
+2025-07-11 14:17:23,133 - INFO - root - ***** Task 0 - Epoch 2: val (seed 2) *****
+2025-07-11 14:17:23,133 - INFO - root - Accuracy: 0.4716
+2025-07-11 14:17:46,471 - INFO - root - ***** Task 0 - Epoch 3: val (seed 2) *****
+2025-07-11 14:17:46,471 - INFO - root - Accuracy: 0.6154
+2025-07-11 14:18:08,427 - INFO - root - ***** Task 0 - Epoch 4: val (seed 2) *****
+2025-07-11 14:18:08,427 - INFO - root - Accuracy: 0.6555
+2025-07-11 14:18:29,328 - INFO - root - ***** Task 0 - Epoch 5: val (seed 2) *****
+2025-07-11 14:18:29,328 - INFO - root - Accuracy: 0.806
+2025-07-11 14:18:48,844 - INFO - root - ***** Task 0 - Epoch 6: val (seed 2) *****
+2025-07-11 14:18:48,844 - INFO - root - Accuracy: 0.8796
+2025-07-11 14:19:08,461 - INFO - root - ***** Task 0 - Epoch 7: val (seed 2) *****
+2025-07-11 14:19:08,462 - INFO - root - Accuracy: 0.9064
+2025-07-11 14:19:28,049 - INFO - root - ***** Task 0 - Epoch 8: val (seed 2) *****
+2025-07-11 14:19:28,050 - INFO - root - Accuracy: 0.8963
+2025-07-11 14:19:28,050 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:19:43,559 - INFO - root - ***** Task 0 - Epoch 9: val (seed 2) *****
+2025-07-11 14:19:43,559 - INFO - root - Accuracy: 0.9164
+2025-07-11 14:20:03,166 - INFO - root - ***** Task 0 - Epoch 10: val (seed 2) *****
+2025-07-11 14:20:03,166 - INFO - root - Accuracy: 0.913
+2025-07-11 14:20:03,166 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:20:18,727 - INFO - root - ***** Task 0 - Epoch 11: val (seed 2) *****
+2025-07-11 14:20:18,728 - INFO - root - Accuracy: 0.9064
+2025-07-11 14:20:18,728 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:20:34,279 - INFO - root - ***** Task 0 - Epoch 12: val (seed 2) *****
+2025-07-11 14:20:34,279 - INFO - root - Accuracy: 0.8997
+2025-07-11 14:20:34,279 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:20:49,845 - INFO - root - ***** Task 0 - Epoch 13: val (seed 2) *****
+2025-07-11 14:20:49,845 - INFO - root - Accuracy: 0.8829
+2025-07-11 14:20:49,845 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:21:05,407 - INFO - root - ***** Task 0 - Epoch 14: val (seed 2) *****
+2025-07-11 14:21:05,407 - INFO - root - Accuracy: 0.9231
+2025-07-11 14:21:27,543 - INFO - root - ***** Task 0 - Epoch 15: val (seed 2) *****
+2025-07-11 14:21:27,543 - INFO - root - Accuracy: 0.9064
+2025-07-11 14:21:27,543 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:21:43,057 - INFO - root - ***** Task 0 - Epoch 16: val (seed 2) *****
+2025-07-11 14:21:43,057 - INFO - root - Accuracy: 0.8997
+2025-07-11 14:21:43,057 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:21:58,614 - INFO - root - ***** Task 0 - Epoch 17: val (seed 2) *****
+2025-07-11 14:21:58,614 - INFO - root - Accuracy: 0.9064
+2025-07-11 14:21:58,614 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:22:14,178 - INFO - root - ***** Task 0 - Epoch 18: val (seed 2) *****
+2025-07-11 14:22:14,178 - INFO - root - Accuracy: 0.903
+2025-07-11 14:22:14,178 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:22:29,739 - INFO - root - ***** Task 0 - Epoch 19: val (seed 2) *****
+2025-07-11 14:22:29,739 - INFO - root - Accuracy: 0.8796
+2025-07-11 14:22:29,739 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:22:29,780 - INFO - root - Early stop!!! Best epoch for [0]: 14
+2025-07-11 14:22:29,780 - INFO - root - Best evaluation accuracy [0]: 0.9231
+2025-07-11 14:22:29,780 - INFO - root - Loading weights from the best model (best epoch 14)...
+2025-07-11 14:22:45,613 - INFO - root - ***** Task 0 - Epoch 19: test (seed 2) *****
+2025-07-11 14:22:45,613 - INFO - root - Accuracy: 0.9264
+2025-07-11 14:22:45,613 - INFO - root - Best test accuracy [0]: 0.9264
+2025-07-11 14:22:45,659 - INFO - root - ***** Running training - task 1: 1*****
+2025-07-11 14:22:45,659 - INFO - root -   Num Epochs = 40
+2025-07-11 14:22:45,659 - INFO - root -   Num examples datasets = 704
+2025-07-11 14:22:45,659 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:22:45,659 - INFO - root -   Total optimization steps = 880
+2025-07-11 14:22:45,659 - INFO - root -   Num examples training = 28160
+2025-07-11 14:22:57,374 - INFO - root - ***** Task 1 - Epoch 0: val (seed 2) *****
+2025-07-11 14:22:57,374 - INFO - root - Accuracy: 0.7788
+2025-07-11 14:23:13,997 - INFO - root - ***** Task 1 - Epoch 1: val (seed 2) *****
+2025-07-11 14:23:13,997 - INFO - root - Accuracy: 0.8053
+2025-07-11 14:23:33,247 - INFO - root - ***** Task 1 - Epoch 2: val (seed 2) *****
+2025-07-11 14:23:33,247 - INFO - root - Accuracy: 0.708
+2025-07-11 14:23:33,247 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:23:44,976 - INFO - root - ***** Task 1 - Epoch 3: val (seed 2) *****
+2025-07-11 14:23:44,976 - INFO - root - Accuracy: 0.8717
+2025-07-11 14:24:06,029 - INFO - root - ***** Task 1 - Epoch 4: val (seed 2) *****
+2025-07-11 14:24:06,029 - INFO - root - Accuracy: 0.885
+2025-07-11 14:24:24,820 - INFO - root - ***** Task 1 - Epoch 5: val (seed 2) *****
+2025-07-11 14:24:24,820 - INFO - root - Accuracy: 0.9159
+2025-07-11 14:24:40,766 - INFO - root - ***** Task 1 - Epoch 6: val (seed 2) *****
+2025-07-11 14:24:40,766 - INFO - root - Accuracy: 0.9027
+2025-07-11 14:24:40,766 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:24:52,545 - INFO - root - ***** Task 1 - Epoch 7: val (seed 2) *****
+2025-07-11 14:24:52,545 - INFO - root - Accuracy: 0.9248
+2025-07-11 14:25:08,464 - INFO - root - ***** Task 1 - Epoch 8: val (seed 2) *****
+2025-07-11 14:25:08,464 - INFO - root - Accuracy: 0.9292
+2025-07-11 14:25:24,227 - INFO - root - ***** Task 1 - Epoch 9: val (seed 2) *****
+2025-07-11 14:25:24,227 - INFO - root - Accuracy: 0.9292
+2025-07-11 14:25:24,228 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:25:35,984 - INFO - root - ***** Task 1 - Epoch 10: val (seed 2) *****
+2025-07-11 14:25:35,984 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:25:51,860 - INFO - root - ***** Task 1 - Epoch 11: val (seed 2) *****
+2025-07-11 14:25:51,861 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:25:51,861 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:26:03,688 - INFO - root - ***** Task 1 - Epoch 12: val (seed 2) *****
+2025-07-11 14:26:03,688 - INFO - root - Accuracy: 0.9425
+2025-07-11 14:26:19,573 - INFO - root - ***** Task 1 - Epoch 13: val (seed 2) *****
+2025-07-11 14:26:19,573 - INFO - root - Accuracy: 0.9292
+2025-07-11 14:26:19,573 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:26:31,351 - INFO - root - ***** Task 1 - Epoch 14: val (seed 2) *****
+2025-07-11 14:26:31,351 - INFO - root - Accuracy: 0.9513
+2025-07-11 14:26:47,217 - INFO - root - ***** Task 1 - Epoch 15: val (seed 2) *****
+2025-07-11 14:26:47,217 - INFO - root - Accuracy: 0.9425
+2025-07-11 14:26:47,217 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:26:58,974 - INFO - root - ***** Task 1 - Epoch 16: val (seed 2) *****
+2025-07-11 14:26:58,974 - INFO - root - Accuracy: 0.9336
+2025-07-11 14:26:58,974 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:27:10,754 - INFO - root - ***** Task 1 - Epoch 17: val (seed 2) *****
+2025-07-11 14:27:10,755 - INFO - root - Accuracy: 0.9469
+2025-07-11 14:27:10,755 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:27:22,561 - INFO - root - ***** Task 1 - Epoch 18: val (seed 2) *****
+2025-07-11 14:27:22,561 - INFO - root - Accuracy: 0.9425
+2025-07-11 14:27:22,561 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:27:34,368 - INFO - root - ***** Task 1 - Epoch 19: val (seed 2) *****
+2025-07-11 14:27:34,368 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:27:34,369 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:27:34,369 - INFO - root - Early stop!!! Best epoch for [1]: 14
+2025-07-11 14:27:34,369 - INFO - root - Best evaluation accuracy [1]: 0.9513
+2025-07-11 14:27:34,369 - INFO - root - Loading weights from the best model (best epoch 14)...
+2025-07-11 14:27:40,807 - INFO - root - ***** Task 1 - Epoch 19: test (seed 2) *****
+2025-07-11 14:27:40,807 - INFO - root - Accuracy: 0.9558
+2025-07-11 14:27:40,807 - INFO - root - Best test accuracy [1]: 0.9558
+2025-07-11 14:27:40,809 - INFO - root - ***** Running training - task 2: 2*****
+2025-07-11 14:27:40,809 - INFO - root -   Num Epochs = 40
+2025-07-11 14:27:40,809 - INFO - root -   Num examples datasets = 1184
+2025-07-11 14:27:40,809 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:27:40,809 - INFO - root -   Total optimization steps = 1480
+2025-07-11 14:27:40,809 - INFO - root -   Num examples training = 47360
+2025-07-11 14:28:01,051 - INFO - root - ***** Task 2 - Epoch 0: val (seed 2) *****
+2025-07-11 14:28:01,051 - INFO - root - Accuracy: 0.6343
+2025-07-11 14:28:25,373 - INFO - root - ***** Task 2 - Epoch 1: val (seed 2) *****
+2025-07-11 14:28:25,373 - INFO - root - Accuracy: 0.7161
+2025-07-11 14:28:51,316 - INFO - root - ***** Task 2 - Epoch 2: val (seed 2) *****
+2025-07-11 14:28:51,316 - INFO - root - Accuracy: 0.7442
+2025-07-11 14:29:16,034 - INFO - root - ***** Task 2 - Epoch 3: val (seed 2) *****
+2025-07-11 14:29:16,034 - INFO - root - Accuracy: 0.7801
+2025-07-11 14:29:40,443 - INFO - root - ***** Task 2 - Epoch 4: val (seed 2) *****
+2025-07-11 14:29:40,443 - INFO - root - Accuracy: 0.7877
+2025-07-11 14:30:05,046 - INFO - root - ***** Task 2 - Epoch 5: val (seed 2) *****
+2025-07-11 14:30:05,046 - INFO - root - Accuracy: 0.7698
+2025-07-11 14:30:05,046 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:30:25,498 - INFO - root - ***** Task 2 - Epoch 6: val (seed 2) *****
+2025-07-11 14:30:25,498 - INFO - root - Accuracy: 0.821
+2025-07-11 14:30:50,051 - INFO - root - ***** Task 2 - Epoch 7: val (seed 2) *****
+2025-07-11 14:30:50,051 - INFO - root - Accuracy: 0.8056
+2025-07-11 14:30:50,051 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:31:10,482 - INFO - root - ***** Task 2 - Epoch 8: val (seed 2) *****
+2025-07-11 14:31:10,483 - INFO - root - Accuracy: 0.7928
+2025-07-11 14:31:10,483 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:31:30,962 - INFO - root - ***** Task 2 - Epoch 9: val (seed 2) *****
+2025-07-11 14:31:30,962 - INFO - root - Accuracy: 0.8184
+2025-07-11 14:31:30,963 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:31:51,387 - INFO - root - ***** Task 2 - Epoch 10: val (seed 2) *****
+2025-07-11 14:31:51,387 - INFO - root - Accuracy: 0.8312
+2025-07-11 14:32:15,970 - INFO - root - ***** Task 2 - Epoch 11: val (seed 2) *****
+2025-07-11 14:32:15,970 - INFO - root - Accuracy: 0.8056
+2025-07-11 14:32:15,970 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:32:36,418 - INFO - root - ***** Task 2 - Epoch 12: val (seed 2) *****
+2025-07-11 14:32:36,419 - INFO - root - Accuracy: 0.8056
+2025-07-11 14:32:36,419 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:32:56,878 - INFO - root - ***** Task 2 - Epoch 13: val (seed 2) *****
+2025-07-11 14:32:56,878 - INFO - root - Accuracy: 0.8235
+2025-07-11 14:32:56,878 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:33:17,283 - INFO - root - ***** Task 2 - Epoch 14: val (seed 2) *****
+2025-07-11 14:33:17,283 - INFO - root - Accuracy: 0.8031
+2025-07-11 14:33:17,284 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:33:37,771 - INFO - root - ***** Task 2 - Epoch 15: val (seed 2) *****
+2025-07-11 14:33:37,771 - INFO - root - Accuracy: 0.8005
+2025-07-11 14:33:37,771 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:33:37,775 - INFO - root - Early stop!!! Best epoch for [2]: 10
+2025-07-11 14:33:37,775 - INFO - root - Best evaluation accuracy [2]: 0.8312
+2025-07-11 14:33:37,775 - INFO - root - Loading weights from the best model (best epoch 10)...
+2025-07-11 14:33:56,108 - INFO - root - ***** Task 2 - Epoch 15: test (seed 2) *****
+2025-07-11 14:33:56,109 - INFO - root - Accuracy: 0.7749
+2025-07-11 14:33:56,109 - INFO - root - Best test accuracy [2]: 0.7749
+2025-07-11 14:33:56,119 - INFO - root - ***** Running training - task 3: 3*****
+2025-07-11 14:33:56,119 - INFO - root -   Num Epochs = 40
+2025-07-11 14:33:56,119 - INFO - root -   Num examples datasets = 1184
+2025-07-11 14:33:56,119 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:33:56,119 - INFO - root -   Total optimization steps = 1480
+2025-07-11 14:33:56,119 - INFO - root -   Num examples training = 47360
+2025-07-11 14:34:16,105 - INFO - root - ***** Task 3 - Epoch 0: val (seed 2) *****
+2025-07-11 14:34:16,105 - INFO - root - Accuracy: 0.7299
+2025-07-11 14:34:40,596 - INFO - root - ***** Task 3 - Epoch 1: val (seed 2) *****
+2025-07-11 14:34:40,596 - INFO - root - Accuracy: 0.8234
+2025-07-11 14:35:05,302 - INFO - root - ***** Task 3 - Epoch 2: val (seed 2) *****
+2025-07-11 14:35:05,302 - INFO - root - Accuracy: 0.8338
+2025-07-11 14:35:32,715 - INFO - root - ***** Task 3 - Epoch 3: val (seed 2) *****
+2025-07-11 14:35:32,715 - INFO - root - Accuracy: 0.8753
+2025-07-11 14:36:02,661 - INFO - root - ***** Task 3 - Epoch 4: val (seed 2) *****
+2025-07-11 14:36:02,661 - INFO - root - Accuracy: 0.9143
+2025-07-11 14:36:27,243 - INFO - root - ***** Task 3 - Epoch 5: val (seed 2) *****
+2025-07-11 14:36:27,243 - INFO - root - Accuracy: 0.8883
+2025-07-11 14:36:27,243 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:36:47,301 - INFO - root - ***** Task 3 - Epoch 6: val (seed 2) *****
+2025-07-11 14:36:47,301 - INFO - root - Accuracy: 0.9117
+2025-07-11 14:36:47,301 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:37:07,412 - INFO - root - ***** Task 3 - Epoch 7: val (seed 2) *****
+2025-07-11 14:37:07,412 - INFO - root - Accuracy: 0.9195
+2025-07-11 14:37:34,483 - INFO - root - ***** Task 3 - Epoch 8: val (seed 2) *****
+2025-07-11 14:37:34,483 - INFO - root - Accuracy: 0.9039
+2025-07-11 14:37:34,483 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:37:54,559 - INFO - root - ***** Task 3 - Epoch 9: val (seed 2) *****
+2025-07-11 14:37:54,559 - INFO - root - Accuracy: 0.9351
+2025-07-11 14:38:19,115 - INFO - root - ***** Task 3 - Epoch 10: val (seed 2) *****
+2025-07-11 14:38:19,115 - INFO - root - Accuracy: 0.9065
+2025-07-11 14:38:19,115 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:38:39,160 - INFO - root - ***** Task 3 - Epoch 11: val (seed 2) *****
+2025-07-11 14:38:39,160 - INFO - root - Accuracy: 0.9273
+2025-07-11 14:38:39,160 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:38:59,274 - INFO - root - ***** Task 3 - Epoch 12: val (seed 2) *****
+2025-07-11 14:38:59,274 - INFO - root - Accuracy: 0.9481
+2025-07-11 14:39:26,378 - INFO - root - ***** Task 3 - Epoch 13: val (seed 2) *****
+2025-07-11 14:39:26,379 - INFO - root - Accuracy: 0.9377
+2025-07-11 14:39:26,379 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:39:46,477 - INFO - root - ***** Task 3 - Epoch 14: val (seed 2) *****
+2025-07-11 14:39:46,477 - INFO - root - Accuracy: 0.9325
+2025-07-11 14:39:46,477 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:40:06,610 - INFO - root - ***** Task 3 - Epoch 15: val (seed 2) *****
+2025-07-11 14:40:06,610 - INFO - root - Accuracy: 0.9247
+2025-07-11 14:40:06,610 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:40:26,702 - INFO - root - ***** Task 3 - Epoch 16: val (seed 2) *****
+2025-07-11 14:40:26,702 - INFO - root - Accuracy: 0.9403
+2025-07-11 14:40:26,702 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:40:46,805 - INFO - root - ***** Task 3 - Epoch 17: val (seed 2) *****
+2025-07-11 14:40:46,805 - INFO - root - Accuracy: 0.9403
+2025-07-11 14:40:46,805 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:40:46,844 - INFO - root - Early stop!!! Best epoch for [3]: 12
+2025-07-11 14:40:46,844 - INFO - root - Best evaluation accuracy [3]: 0.9481
+2025-07-11 14:40:46,844 - INFO - root - Loading weights from the best model (best epoch 12)...
+2025-07-11 14:41:18,343 - INFO - root - ***** Task 3 - Epoch 17: test (seed 2) *****
+2025-07-11 14:41:18,343 - INFO - root - Accuracy: 0.9403
+2025-07-11 14:41:18,344 - INFO - root - Best test accuracy [3]: 0.9403
+2025-07-11 14:41:18,387 - INFO - root - ***** Running training - task 4: 4*****
+2025-07-11 14:41:18,387 - INFO - root -   Num Epochs = 40
+2025-07-11 14:41:18,387 - INFO - root -   Num examples datasets = 1280
+2025-07-11 14:41:18,387 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:41:18,387 - INFO - root -   Total optimization steps = 1600
+2025-07-11 14:41:18,387 - INFO - root -   Num examples training = 51200
+2025-07-11 14:41:40,254 - INFO - root - ***** Task 4 - Epoch 0: val (seed 2) *****
+2025-07-11 14:41:40,254 - INFO - root - Accuracy: 0.8741
+2025-07-11 14:42:12,472 - INFO - root - ***** Task 4 - Epoch 1: val (seed 2) *****
+2025-07-11 14:42:12,472 - INFO - root - Accuracy: 0.8717
+2025-07-11 14:42:12,472 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:42:34,430 - INFO - root - ***** Task 4 - Epoch 2: val (seed 2) *****
+2025-07-11 14:42:34,430 - INFO - root - Accuracy: 0.8836
+2025-07-11 14:43:02,838 - INFO - root - ***** Task 4 - Epoch 3: val (seed 2) *****
+2025-07-11 14:43:02,838 - INFO - root - Accuracy: 0.9074
+2025-07-11 14:43:31,486 - INFO - root - ***** Task 4 - Epoch 4: val (seed 2) *****
+2025-07-11 14:43:31,486 - INFO - root - Accuracy: 0.9097
+2025-07-11 14:44:00,770 - INFO - root - ***** Task 4 - Epoch 5: val (seed 2) *****
+2025-07-11 14:44:00,770 - INFO - root - Accuracy: 0.9359
+2025-07-11 14:44:30,821 - INFO - root - ***** Task 4 - Epoch 6: val (seed 2) *****
+2025-07-11 14:44:30,821 - INFO - root - Accuracy: 0.9454
+2025-07-11 14:44:57,214 - INFO - root - ***** Task 4 - Epoch 7: val (seed 2) *****
+2025-07-11 14:44:57,214 - INFO - root - Accuracy: 0.9454
+2025-07-11 14:44:57,214 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:45:19,174 - INFO - root - ***** Task 4 - Epoch 8: val (seed 2) *****
+2025-07-11 14:45:19,174 - INFO - root - Accuracy: 0.9454
+2025-07-11 14:45:19,174 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:45:41,186 - INFO - root - ***** Task 4 - Epoch 9: val (seed 2) *****
+2025-07-11 14:45:41,187 - INFO - root - Accuracy: 0.943
+2025-07-11 14:45:41,187 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:46:03,272 - INFO - root - ***** Task 4 - Epoch 10: val (seed 2) *****
+2025-07-11 14:46:03,272 - INFO - root - Accuracy: 0.9501
+2025-07-11 14:46:29,371 - INFO - root - ***** Task 4 - Epoch 11: val (seed 2) *****
+2025-07-11 14:46:29,371 - INFO - root - Accuracy: 0.9525
+2025-07-11 14:46:57,249 - INFO - root - ***** Task 4 - Epoch 12: val (seed 2) *****
+2025-07-11 14:46:57,250 - INFO - root - Accuracy: 0.9549
+2025-07-11 14:47:28,506 - INFO - root - ***** Task 4 - Epoch 13: val (seed 2) *****
+2025-07-11 14:47:28,507 - INFO - root - Accuracy: 0.9549
+2025-07-11 14:47:28,507 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:47:50,480 - INFO - root - ***** Task 4 - Epoch 14: val (seed 2) *****
+2025-07-11 14:47:50,481 - INFO - root - Accuracy: 0.9572
+2025-07-11 14:48:23,277 - INFO - root - ***** Task 4 - Epoch 15: val (seed 2) *****
+2025-07-11 14:48:23,277 - INFO - root - Accuracy: 0.9549
+2025-07-11 14:48:23,277 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:48:45,265 - INFO - root - ***** Task 4 - Epoch 16: val (seed 2) *****
+2025-07-11 14:48:45,265 - INFO - root - Accuracy: 0.9477
+2025-07-11 14:48:45,265 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:49:07,268 - INFO - root - ***** Task 4 - Epoch 17: val (seed 2) *****
+2025-07-11 14:49:07,268 - INFO - root - Accuracy: 0.9549
+2025-07-11 14:49:07,268 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:49:29,306 - INFO - root - ***** Task 4 - Epoch 18: val (seed 2) *****
+2025-07-11 14:49:29,306 - INFO - root - Accuracy: 0.9501
+2025-07-11 14:49:29,306 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:49:51,323 - INFO - root - ***** Task 4 - Epoch 19: val (seed 2) *****
+2025-07-11 14:49:51,323 - INFO - root - Accuracy: 0.9549
+2025-07-11 14:49:51,324 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:49:51,324 - INFO - root - Early stop!!! Best epoch for [4]: 14
+2025-07-11 14:49:51,324 - INFO - root - Best evaluation accuracy [4]: 0.9572
+2025-07-11 14:49:51,324 - INFO - root - Loading weights from the best model (best epoch 14)...
+2025-07-11 14:50:04,375 - INFO - root - ***** Task 4 - Epoch 19: test (seed 2) *****
+2025-07-11 14:50:04,375 - INFO - root - Accuracy: 0.9596
+2025-07-11 14:50:04,375 - INFO - root - Best test accuracy [4]: 0.9596
+2025-07-11 14:50:04,378 - INFO - root - ***** Running training - task 5: 5*****
+2025-07-11 14:50:04,378 - INFO - root -   Num Epochs = 40
+2025-07-11 14:50:04,378 - INFO - root -   Num examples datasets = 992
+2025-07-11 14:50:04,378 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:50:04,378 - INFO - root -   Total optimization steps = 1240
+2025-07-11 14:50:04,378 - INFO - root -   Num examples training = 39680
+2025-07-11 14:50:21,205 - INFO - root - ***** Task 5 - Epoch 0: val (seed 2) *****
+2025-07-11 14:50:21,206 - INFO - root - Accuracy: 0.808
+2025-07-11 14:50:42,775 - INFO - root - ***** Task 5 - Epoch 1: val (seed 2) *****
+2025-07-11 14:50:42,775 - INFO - root - Accuracy: 0.8638
+2025-07-11 14:51:03,753 - INFO - root - ***** Task 5 - Epoch 2: val (seed 2) *****
+2025-07-11 14:51:03,753 - INFO - root - Accuracy: 0.9164
+2025-07-11 14:51:24,752 - INFO - root - ***** Task 5 - Epoch 3: val (seed 2) *****
+2025-07-11 14:51:24,752 - INFO - root - Accuracy: 0.904
+2025-07-11 14:51:24,752 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:51:41,656 - INFO - root - ***** Task 5 - Epoch 4: val (seed 2) *****
+2025-07-11 14:51:41,656 - INFO - root - Accuracy: 0.9133
+2025-07-11 14:51:41,656 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:51:58,539 - INFO - root - ***** Task 5 - Epoch 5: val (seed 2) *****
+2025-07-11 14:51:58,539 - INFO - root - Accuracy: 0.9195
+2025-07-11 14:52:20,327 - INFO - root - ***** Task 5 - Epoch 6: val (seed 2) *****
+2025-07-11 14:52:20,327 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:52:42,417 - INFO - root - ***** Task 5 - Epoch 7: val (seed 2) *****
+2025-07-11 14:52:42,417 - INFO - root - Accuracy: 0.9257
+2025-07-11 14:52:42,417 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:52:59,162 - INFO - root - ***** Task 5 - Epoch 8: val (seed 2) *****
+2025-07-11 14:52:59,162 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:52:59,162 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:53:16,049 - INFO - root - ***** Task 5 - Epoch 9: val (seed 2) *****
+2025-07-11 14:53:16,050 - INFO - root - Accuracy: 0.9288
+2025-07-11 14:53:16,050 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:53:32,997 - INFO - root - ***** Task 5 - Epoch 10: val (seed 2) *****
+2025-07-11 14:53:32,997 - INFO - root - Accuracy: 0.9412
+2025-07-11 14:53:57,629 - INFO - root - ***** Task 5 - Epoch 11: val (seed 2) *****
+2025-07-11 14:53:57,629 - INFO - root - Accuracy: 0.9257
+2025-07-11 14:53:57,629 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:54:14,538 - INFO - root - ***** Task 5 - Epoch 12: val (seed 2) *****
+2025-07-11 14:54:14,538 - INFO - root - Accuracy: 0.9288
+2025-07-11 14:54:14,538 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:54:31,467 - INFO - root - ***** Task 5 - Epoch 13: val (seed 2) *****
+2025-07-11 14:54:31,467 - INFO - root - Accuracy: 0.9319
+2025-07-11 14:54:31,467 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:54:48,387 - INFO - root - ***** Task 5 - Epoch 14: val (seed 2) *****
+2025-07-11 14:54:48,387 - INFO - root - Accuracy: 0.9443
+2025-07-11 14:55:09,478 - INFO - root - ***** Task 5 - Epoch 15: val (seed 2) *****
+2025-07-11 14:55:09,478 - INFO - root - Accuracy: 0.935
+2025-07-11 14:55:09,478 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:55:26,410 - INFO - root - ***** Task 5 - Epoch 16: val (seed 2) *****
+2025-07-11 14:55:26,410 - INFO - root - Accuracy: 0.9443
+2025-07-11 14:55:26,411 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 14:55:43,334 - INFO - root - ***** Task 5 - Epoch 17: val (seed 2) *****
+2025-07-11 14:55:43,334 - INFO - root - Accuracy: 0.9443
+2025-07-11 14:55:43,334 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 14:56:00,337 - INFO - root - ***** Task 5 - Epoch 18: val (seed 2) *****
+2025-07-11 14:56:00,337 - INFO - root - Accuracy: 0.9381
+2025-07-11 14:56:00,338 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 14:56:17,279 - INFO - root - ***** Task 5 - Epoch 19: val (seed 2) *****
+2025-07-11 14:56:17,279 - INFO - root - Accuracy: 0.935
+2025-07-11 14:56:17,279 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 14:56:17,280 - INFO - root - Early stop!!! Best epoch for [5]: 14
+2025-07-11 14:56:17,280 - INFO - root - Best evaluation accuracy [5]: 0.9443
+2025-07-11 14:56:17,280 - INFO - root - Loading weights from the best model (best epoch 14)...
+2025-07-11 14:56:34,723 - INFO - root - ***** Task 5 - Epoch 19: test (seed 2) *****
+2025-07-11 14:56:34,723 - INFO - root - Accuracy: 0.9257
+2025-07-11 14:56:34,723 - INFO - root - Best test accuracy [5]: 0.9257
+2025-07-11 14:56:34,726 - INFO - root - ***** Running training - task 6: 6*****
+2025-07-11 14:56:34,726 - INFO - root -   Num Epochs = 40
+2025-07-11 14:56:34,726 - INFO - root -   Num examples datasets = 1056
+2025-07-11 14:56:34,726 - INFO - root -   Instantaneous batch size per device = 32
+2025-07-11 14:56:34,726 - INFO - root -   Total optimization steps = 1320
+2025-07-11 14:56:34,726 - INFO - root -   Num examples training = 42240
+2025-07-11 14:56:52,755 - INFO - root - ***** Task 6 - Epoch 0: val (seed 2) *****
+2025-07-11 14:56:52,756 - INFO - root - Accuracy: 0.6232
+2025-07-11 14:57:14,884 - INFO - root - ***** Task 6 - Epoch 1: val (seed 2) *****
+2025-07-11 14:57:14,884 - INFO - root - Accuracy: 0.6522
+2025-07-11 14:57:37,043 - INFO - root - ***** Task 6 - Epoch 2: val (seed 2) *****
+2025-07-11 14:57:37,043 - INFO - root - Accuracy: 0.7159
+2025-07-11 14:57:59,115 - INFO - root - ***** Task 6 - Epoch 3: val (seed 2) *****
+2025-07-11 14:57:59,115 - INFO - root - Accuracy: 0.7246
+2025-07-11 14:58:21,186 - INFO - root - ***** Task 6 - Epoch 4: val (seed 2) *****
+2025-07-11 14:58:21,186 - INFO - root - Accuracy: 0.771
+2025-07-11 14:58:44,482 - INFO - root - ***** Task 6 - Epoch 5: val (seed 2) *****
+2025-07-11 14:58:44,482 - INFO - root - Accuracy: 0.7507
+2025-07-11 14:58:44,482 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 14:59:02,553 - INFO - root - ***** Task 6 - Epoch 6: val (seed 2) *****
+2025-07-11 14:59:02,553 - INFO - root - Accuracy: 0.7826
+2025-07-11 14:59:24,513 - INFO - root - ***** Task 6 - Epoch 7: val (seed 2) *****
+2025-07-11 14:59:24,513 - INFO - root - Accuracy: 0.7884
+2025-07-11 14:59:46,649 - INFO - root - ***** Task 6 - Epoch 8: val (seed 2) *****
+2025-07-11 14:59:46,649 - INFO - root - Accuracy: 0.7884
+2025-07-11 14:59:46,649 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 15:00:04,668 - INFO - root - ***** Task 6 - Epoch 9: val (seed 2) *****
+2025-07-11 15:00:04,668 - INFO - root - Accuracy: 0.8058
+2025-07-11 15:00:26,745 - INFO - root - ***** Task 6 - Epoch 10: val (seed 2) *****
+2025-07-11 15:00:26,746 - INFO - root - Accuracy: 0.8261
+2025-07-11 15:00:48,798 - INFO - root - ***** Task 6 - Epoch 11: val (seed 2) *****
+2025-07-11 15:00:48,798 - INFO - root - Accuracy: 0.8261
+2025-07-11 15:00:48,798 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 15:01:06,858 - INFO - root - ***** Task 6 - Epoch 12: val (seed 2) *****
+2025-07-11 15:01:06,858 - INFO - root - Accuracy: 0.8261
+2025-07-11 15:01:06,858 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 15:01:24,903 - INFO - root - ***** Task 6 - Epoch 13: val (seed 2) *****
+2025-07-11 15:01:24,903 - INFO - root - Accuracy: 0.8319
+2025-07-11 15:01:46,836 - INFO - root - ***** Task 6 - Epoch 14: val (seed 2) *****
+2025-07-11 15:01:46,836 - INFO - root - Accuracy: 0.8464
+2025-07-11 15:02:08,876 - INFO - root - ***** Task 6 - Epoch 15: val (seed 2) *****
+2025-07-11 15:02:08,876 - INFO - root - Accuracy: 0.8377
+2025-07-11 15:02:08,876 - INFO - root - EarlyStopping counter: 1 out of 5
+2025-07-11 15:02:26,914 - INFO - root - ***** Task 6 - Epoch 16: val (seed 2) *****
+2025-07-11 15:02:26,915 - INFO - root - Accuracy: 0.8348
+2025-07-11 15:02:26,915 - INFO - root - EarlyStopping counter: 2 out of 5
+2025-07-11 15:02:44,973 - INFO - root - ***** Task 6 - Epoch 17: val (seed 2) *****
+2025-07-11 15:02:44,973 - INFO - root - Accuracy: 0.8203
+2025-07-11 15:02:44,974 - INFO - root - EarlyStopping counter: 3 out of 5
+2025-07-11 15:03:03,021 - INFO - root - ***** Task 6 - Epoch 18: val (seed 2) *****
+2025-07-11 15:03:03,021 - INFO - root - Accuracy: 0.8145
+2025-07-11 15:03:03,021 - INFO - root - EarlyStopping counter: 4 out of 5
+2025-07-11 15:03:21,065 - INFO - root - ***** Task 6 - Epoch 19: val (seed 2) *****
+2025-07-11 15:03:21,065 - INFO - root - Accuracy: 0.8029
+2025-07-11 15:03:21,065 - INFO - root - EarlyStopping counter: 5 out of 5
+2025-07-11 15:03:21,065 - INFO - root - Early stop!!! Best epoch for [6]: 14
+2025-07-11 15:03:21,065 - INFO - root - Best evaluation accuracy [6]: 0.8464
+2025-07-11 15:03:21,066 - INFO - root - Loading weights from the best model (best epoch 14)...
+2025-07-11 15:03:29,895 - INFO - root - ***** Task 6 - Epoch 19: test (seed 2) *****
+2025-07-11 15:03:29,895 - INFO - root - Accuracy: 0.8319
+2025-07-11 15:03:29,895 - INFO - root - Best test accuracy [6]: 0.8319
+2025-07-11 15:03:29,920 - INFO - root - ------- Final TIL evaluation (seed-2) on task [0] -------
+2025-07-11 15:03:29,920 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:32,652 - INFO - root - ***** Task 0 - Final evaluation: test *****
+2025-07-11 15:03:32,652 - INFO - root - Accuracy: 0.9264
+2025-07-11 15:03:32,652 - INFO - root - ------- Final TIL evaluation (seed-2) on task [1] -------
+2025-07-11 15:03:32,652 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:34,726 - INFO - root - ***** Task 1 - Final evaluation: test *****
+2025-07-11 15:03:34,726 - INFO - root - Accuracy: 0.9558
+2025-07-11 15:03:34,726 - INFO - root - ------- Final TIL evaluation (seed-2) on task [2] -------
+2025-07-11 15:03:34,727 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:38,320 - INFO - root - ***** Task 2 - Final evaluation: test *****
+2025-07-11 15:03:38,320 - INFO - root - Accuracy: 0.7749
+2025-07-11 15:03:38,320 - INFO - root - ------- Final TIL evaluation (seed-2) on task [3] -------
+2025-07-11 15:03:38,320 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:41,878 - INFO - root - ***** Task 3 - Final evaluation: test *****
+2025-07-11 15:03:41,879 - INFO - root - Accuracy: 0.9403
+2025-07-11 15:03:41,879 - INFO - root - ------- Final TIL evaluation (seed-2) on task [4] -------
+2025-07-11 15:03:41,879 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:45,768 - INFO - root - ***** Task 4 - Final evaluation: test *****
+2025-07-11 15:03:45,768 - INFO - root - Accuracy: 0.9596
+2025-07-11 15:03:45,768 - INFO - root - ------- Final TIL evaluation (seed-2) on task [5] -------
+2025-07-11 15:03:45,768 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:48,754 - INFO - root - ***** Task 5 - Final evaluation: test *****
+2025-07-11 15:03:48,754 - INFO - root - Accuracy: 0.9257
+2025-07-11 15:03:48,754 - INFO - root - ------- Final TIL evaluation (seed-2) on task [6] -------
+2025-07-11 15:03:48,754 - INFO - root - prompt_select_mode: [local_compose] & classifier_select_mode [task_id]
+2025-07-11 15:03:51,946 - INFO - root - ***** Task 6 - Final evaluation: test *****
+2025-07-11 15:03:51,946 - INFO - root - Accuracy: 0.8319
+2025-07-11 15:03:51,946 - INFO - root - ***********************************seed: 2 - acc***********************************
+2025-07-11 15:03:51,946 - INFO - root - Test_tasks: (['0', '1', '2', '3', '4', '5', '6'])
+2025-07-11 15:03:51,946 - INFO - root - Test setting [forward_pass (til-1)]: [0.9264, 0.9558, 0.7749, 0.9403, 0.9596, 0.9257, 0.8319]
+2025-07-11 15:03:51,947 - INFO - root - Average test_tasks_acc: 0.9021
+2025-07-11 15:03:51,947 - INFO - root - Test setting [til]: [0.9264, 0.9558, 0.7749, 0.9403, 0.9596, 0.9257, 0.8319]
+2025-07-11 15:03:51,947 - INFO - root - Average test_tasks_acc: 0.9021

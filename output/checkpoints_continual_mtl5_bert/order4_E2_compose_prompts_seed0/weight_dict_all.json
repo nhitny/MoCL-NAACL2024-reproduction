@@ -1,0 +1,1 @@
+{"yelp": {"yelp": 1.0}, "agnews": {"yelp": 0.2806, "agnews": 0.7194}, "dbpedia": {"yelp": 0.2182, "agnews": 0.2818, "dbpedia": 0.5}, "amazon": {"yelp": 0.2691, "agnews": 0.1983, "dbpedia": 0.1918, "amazon": 0.3408}, "yahoo": {"yelp": 0.1723, "agnews": 0.1855, "dbpedia": 0.1364, "amazon": 0.221, "yahoo": 0.2849}}
